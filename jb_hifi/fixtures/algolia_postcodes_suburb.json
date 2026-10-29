@@ -1,0 +1,62 @@
+{
+ "hits": [
+  {
+   "postcode": "2064",
+   "locality": "ARTARMON",
+   "state": "NSW",
+   "category": "Delivery Area",
+   "description": "ARTARMON NSW 2064",
+   "hasCoordinates": true,
+   "_geoloc": {
+    "lat": -33.811964,
+    "lng": 151.184781
+   },
+   "objectID": "20260803472",
+   "_highlightResult": {
+    "postcode": {
+     "value": "2064",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "locality": {
+     "value": "<em>ARTARMON</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": true,
+     "matchedWords": [
+      "artarmon"
+     ]
+    },
+    "state": {
+     "value": "NSW",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  }
+ ],
+ "nbHits": 1,
+ "page": 0,
+ "nbPages": 1,
+ "hitsPerPage": 3,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "artarmon",
+ "params": "query=artarmon&hitsPerPage=3",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {}
+ },
+ "processingTimeMS": 3,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 334
+  },
+  "extensions": 2,
+  "total": 3
+ },
+ "serverTimeMS": 3
+}

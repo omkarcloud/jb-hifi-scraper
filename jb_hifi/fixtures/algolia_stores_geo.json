@@ -1,0 +1,653 @@
+{
+ "hits": [
+  {
+   "shopId": 150,
+   "isActive": true,
+   "_geoloc": {
+    "lat": -33.869667,
+    "lng": 151.208401
+   },
+   "storeName": "City - Westfield Sydney",
+   "locationType": "Store",
+   "storeAddress": {
+    "Line1": "Westfield Sydney Shopping Centre",
+    "Line2": "Store 6010, Level 6",
+    "Line3": "Corner Pitt & Market Streets",
+    "Suburb": "Sydney",
+    "State": "NSW",
+    "Postcode": "2000",
+    "Country": "Australia"
+   },
+   "databaseId": 150,
+   "normalTradingHours": [
+    {
+     "DayOfWeek": 1,
+     "IsOpen": true,
+     "OpeningTime": "09:30",
+     "ClosingTime": "19:00"
+    },
+    {
+     "DayOfWeek": 2,
+     "IsOpen": true,
+     "OpeningTime": "09:30",
+     "ClosingTime": "19:00"
+    },
+    {
+     "DayOfWeek": 3,
+     "IsOpen": true,
+     "OpeningTime": "09:30",
+     "ClosingTime": "19:00"
+    },
+    {
+     "DayOfWeek": 4,
+     "IsOpen": true,
+     "OpeningTime": "09:30",
+     "ClosingTime": "21:00"
+    },
+    {
+     "DayOfWeek": 5,
+     "IsOpen": true,
+     "OpeningTime": "09:30",
+     "ClosingTime": "19:00"
+    },
+    {
+     "DayOfWeek": 6,
+     "IsOpen": true,
+     "OpeningTime": "09:30",
+     "ClosingTime": "19:00"
+    },
+    {
+     "DayOfWeek": 0,
+     "IsOpen": true,
+     "OpeningTime": "10:00",
+     "ClosingTime": "19:00"
+    }
+   ],
+   "phone": "02 9928 7000",
+   "fax": "02 9928 7099",
+   "isIsAvailableForDelivery": true,
+   "isAvailableForCashAndCarry": true,
+   "isAvailableForClickAndCollect": true,
+   "availableDeliveryExperiences": [
+    "eParcelStandard",
+    "InstallerDelivery",
+    "StarTrackFixedPricePremium",
+    "StarTrackPremium"
+   ],
+   "timeZoneId": "Australia/NSW",
+   "timeZoneName": "AUS Eastern Daylight Time",
+   "scheduledTradingHoursForTheComingWeek": [
+    {
+     "OpeningDateTime": "2026-10-29T09:30:00+11:00",
+     "ClosingDateTime": "2026-10-29T21:00:00+11:00",
+     "Date": "2026-10-29T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 4,
+     "IsOpen": true,
+     "OpeningTime": "09:30",
+     "ClosingTime": "21:00"
+    },
+    {
+     "OpeningDateTime": "2026-10-30T09:30:00+11:00",
+     "ClosingDateTime": "2026-10-30T19:00:00+11:00",
+     "Date": "2026-10-30T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 5,
+     "IsOpen": true,
+     "OpeningTime": "09:30",
+     "ClosingTime": "19:00"
+    },
+    {
+     "OpeningDateTime": "2026-10-31T09:30:00+11:00",
+     "ClosingDateTime": "2026-10-31T19:00:00+11:00",
+     "Date": "2026-10-31T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 6,
+     "IsOpen": true,
+     "OpeningTime": "09:30",
+     "ClosingTime": "19:00"
+    },
+    {
+     "OpeningDateTime": "2026-11-01T10:00:00+11:00",
+     "ClosingDateTime": "2026-11-01T19:00:00+11:00",
+     "Date": "2026-11-01T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 0,
+     "IsOpen": true,
+     "OpeningTime": "10:00",
+     "ClosingTime": "19:00"
+    },
+    {
+     "OpeningDateTime": "2026-11-02T09:30:00+11:00",
+     "ClosingDateTime": "2026-11-02T19:00:00+11:00",
+     "Date": "2026-11-02T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 1,
+     "IsOpen": true,
+     "OpeningTime": "09:30",
+     "ClosingTime": "19:00"
+    },
+    {
+     "OpeningDateTime": "2026-11-03T09:30:00+11:00",
+     "ClosingDateTime": "2026-11-03T19:00:00+11:00",
+     "Date": "2026-11-03T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 2,
+     "IsOpen": true,
+     "OpeningTime": "09:30",
+     "ClosingTime": "19:00"
+    },
+    {
+     "OpeningDateTime": "2026-11-04T09:30:00+11:00",
+     "ClosingDateTime": "2026-11-04T19:00:00+11:00",
+     "Date": "2026-11-04T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 3,
+     "IsOpen": true,
+     "OpeningTime": "09:30",
+     "ClosingTime": "19:00"
+    }
+   ],
+   "scheduledTradingHourChanges": [
+    {
+     "Date": "2026-10-05T00:00:00+00:00",
+     "AreNormalTradingHours": false,
+     "Reason": "Public Holiday",
+     "DayOfWeek": 1,
+     "IsOpen": true,
+     "OpeningTime": "10:00",
+     "ClosingTime": "19:00"
+    }
+   ],
+   "isMetroHub": false,
+   "isRegionalHub": false,
+   "regionType": "Metro",
+   "categoriesRanged": [
+    {
+     "LevelOneCategory": "Categories",
+     "LevelTwoCategories": [
+      "Cameras",
+      "Computers",
+      "DJ & Musical Instruments",
+      "Gaming",
+      "Headphones",
+      "Health, Fitness & Wearables",
+      "Mobile Phones",
+      "Music - Vinyl LP",
+      "Navigation",
+      "Small Appliances",
+      "Smart Home",
+      "Speakers",
+      "TVs"
+     ]
+    }
+   ],
+   "displayOnWeb": "p",
+   "showSalesLineCallout": true,
+   "objectID": "150",
+   "_highlightResult": {
+    "_geoloc": {
+     "lat": {
+      "value": "-33.869667",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     "lng": {
+      "value": "151.208401",
+      "matchLevel": "none",
+      "matchedWords": []
+     }
+    },
+    "storeName": {
+     "value": "City - Westfield Sydney",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "storeAddress": {
+     "Postcode": {
+      "value": "2000",
+      "matchLevel": "none",
+      "matchedWords": []
+     }
+    }
+   }
+  },
+  {
+   "shopId": 85,
+   "isActive": true,
+   "_geoloc": {
+    "lat": -33.869417,
+    "lng": 151.207627
+   },
+   "storeName": "City - Strand Arcade Pitt St Mall",
+   "locationType": "Store",
+   "storeAddress": {
+    "Line1": "412-414 George Street",
+    "Suburb": "Sydney",
+    "State": "NSW",
+    "Postcode": "2000",
+    "Country": "Australia"
+   },
+   "databaseId": 85,
+   "normalTradingHours": [
+    {
+     "DayOfWeek": 1,
+     "IsOpen": true,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "DayOfWeek": 2,
+     "IsOpen": true,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "DayOfWeek": 3,
+     "IsOpen": true,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "DayOfWeek": 4,
+     "IsOpen": true,
+     "OpeningTime": "09:00",
+     "ClosingTime": "20:00"
+    },
+    {
+     "DayOfWeek": 5,
+     "IsOpen": true,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "DayOfWeek": 6,
+     "IsOpen": true,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:00"
+    },
+    {
+     "DayOfWeek": 0,
+     "IsOpen": true,
+     "OpeningTime": "10:00",
+     "ClosingTime": "18:00"
+    }
+   ],
+   "phone": "02 9928 7200",
+   "fax": "02 9928 7299",
+   "isIsAvailableForDelivery": true,
+   "isAvailableForCashAndCarry": true,
+   "isAvailableForClickAndCollect": true,
+   "availableDeliveryExperiences": [
+    "AusPostLargeLetter",
+    "eParcelStandard",
+    "InstallerDelivery",
+    "StarTrackFixedPricePremium",
+    "StarTrackPremium"
+   ],
+   "timeZoneId": "Australia/NSW",
+   "timeZoneName": "AUS Eastern Daylight Time",
+   "scheduledTradingHoursForTheComingWeek": [
+    {
+     "OpeningDateTime": "2026-10-29T09:00:00+11:00",
+     "ClosingDateTime": "2026-10-29T20:00:00+11:00",
+     "Date": "2026-10-29T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 4,
+     "IsOpen": true,
+     "OpeningTime": "09:00",
+     "ClosingTime": "20:00"
+    },
+    {
+     "OpeningDateTime": "2026-10-30T09:00:00+11:00",
+     "ClosingDateTime": "2026-10-30T18:30:00+11:00",
+     "Date": "2026-10-30T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 5,
+     "IsOpen": true,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "OpeningDateTime": "2026-10-31T09:00:00+11:00",
+     "ClosingDateTime": "2026-10-31T18:00:00+11:00",
+     "Date": "2026-10-31T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 6,
+     "IsOpen": true,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:00"
+    },
+    {
+     "OpeningDateTime": "2026-11-01T10:00:00+11:00",
+     "ClosingDateTime": "2026-11-01T18:00:00+11:00",
+     "Date": "2026-11-01T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 0,
+     "IsOpen": true,
+     "OpeningTime": "10:00",
+     "ClosingTime": "18:00"
+    },
+    {
+     "OpeningDateTime": "2026-11-02T09:00:00+11:00",
+     "ClosingDateTime": "2026-11-02T18:30:00+11:00",
+     "Date": "2026-11-02T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 1,
+     "IsOpen": true,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "OpeningDateTime": "2026-11-03T09:00:00+11:00",
+     "ClosingDateTime": "2026-11-03T18:30:00+11:00",
+     "Date": "2026-11-03T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 2,
+     "IsOpen": true,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "OpeningDateTime": "2026-11-04T09:00:00+11:00",
+     "ClosingDateTime": "2026-11-04T18:30:00+11:00",
+     "Date": "2026-11-04T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 3,
+     "IsOpen": true,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    }
+   ],
+   "scheduledTradingHourChanges": [],
+   "isMetroHub": true,
+   "isRegionalHub": false,
+   "regionType": "Metro",
+   "categoriesRanged": [
+    {
+     "LevelOneCategory": "Categories",
+     "LevelTwoCategories": [
+      "Cameras",
+      "Computers",
+      "Gaming",
+      "Headphones",
+      "Health, Fitness & Wearables",
+      "Mobile Phones",
+      "Movie & TV Shows",
+      "Music - CD",
+      "Music - Vinyl LP",
+      "Navigation",
+      "Smart Home",
+      "Speakers"
+     ]
+    }
+   ],
+   "displayOnWeb": "p",
+   "showSalesLineCallout": true,
+   "objectID": "85",
+   "_highlightResult": {
+    "_geoloc": {
+     "lat": {
+      "value": "-33.869417",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     "lng": {
+      "value": "151.207627",
+      "matchLevel": "none",
+      "matchedWords": []
+     }
+    },
+    "storeName": {
+     "value": "City - Strand Arcade Pitt St Mall",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "storeAddress": {
+     "Postcode": {
+      "value": "2000",
+      "matchLevel": "none",
+      "matchedWords": []
+     }
+    }
+   }
+  },
+  {
+   "shopId": 731,
+   "isActive": false,
+   "_geoloc": {
+    "lat": -33.866705,
+    "lng": 151.208927
+   },
+   "storeName": "City - Pitt Street",
+   "locationType": "Store",
+   "storeAddress": {
+    "Line1": "80-82 Pitt Street",
+    "Suburb": "Sydney",
+    "State": "NSW",
+    "Postcode": "2000",
+    "Country": "Australia"
+   },
+   "databaseId": 231,
+   "normalTradingHours": [
+    {
+     "DayOfWeek": 1,
+     "IsOpen": false,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "DayOfWeek": 2,
+     "IsOpen": false,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "DayOfWeek": 3,
+     "IsOpen": false,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "DayOfWeek": 4,
+     "IsOpen": false,
+     "OpeningTime": "09:00",
+     "ClosingTime": "20:00"
+    },
+    {
+     "DayOfWeek": 5,
+     "IsOpen": false,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "DayOfWeek": 6,
+     "IsOpen": false,
+     "OpeningTime": "10:00",
+     "ClosingTime": "18:00"
+    },
+    {
+     "DayOfWeek": 0,
+     "IsOpen": false,
+     "OpeningTime": "10:00",
+     "ClosingTime": "17:00"
+    }
+   ],
+   "phone": "02 8044 9100",
+   "fax": "02 8044 9199",
+   "isIsAvailableForDelivery": false,
+   "isAvailableForCashAndCarry": false,
+   "isAvailableForClickAndCollect": false,
+   "availableDeliveryExperiences": [],
+   "timeZoneId": "Australia/NSW",
+   "timeZoneName": "AUS Eastern Daylight Time",
+   "scheduledTradingHoursForTheComingWeek": [
+    {
+     "OpeningDateTime": "2026-10-29T09:00:00+11:00",
+     "ClosingDateTime": "2026-10-29T20:00:00+11:00",
+     "Date": "2026-10-29T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 4,
+     "IsOpen": false,
+     "OpeningTime": "09:00",
+     "ClosingTime": "20:00"
+    },
+    {
+     "OpeningDateTime": "2026-10-30T09:00:00+11:00",
+     "ClosingDateTime": "2026-10-30T18:30:00+11:00",
+     "Date": "2026-10-30T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 5,
+     "IsOpen": false,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "OpeningDateTime": "2026-10-31T10:00:00+11:00",
+     "ClosingDateTime": "2026-10-31T18:00:00+11:00",
+     "Date": "2026-10-31T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 6,
+     "IsOpen": false,
+     "OpeningTime": "10:00",
+     "ClosingTime": "18:00"
+    },
+    {
+     "OpeningDateTime": "2026-11-01T10:00:00+11:00",
+     "ClosingDateTime": "2026-11-01T17:00:00+11:00",
+     "Date": "2026-11-01T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 0,
+     "IsOpen": false,
+     "OpeningTime": "10:00",
+     "ClosingTime": "17:00"
+    },
+    {
+     "OpeningDateTime": "2026-11-02T09:00:00+11:00",
+     "ClosingDateTime": "2026-11-02T18:30:00+11:00",
+     "Date": "2026-11-02T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 1,
+     "IsOpen": false,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "OpeningDateTime": "2026-11-03T09:00:00+11:00",
+     "ClosingDateTime": "2026-11-03T18:30:00+11:00",
+     "Date": "2026-11-03T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 2,
+     "IsOpen": false,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    },
+    {
+     "OpeningDateTime": "2026-11-04T09:00:00+11:00",
+     "ClosingDateTime": "2026-11-04T18:30:00+11:00",
+     "Date": "2026-11-04T00:00:00+11:00",
+     "AreNormalTradingHours": true,
+     "Reason": "",
+     "DayOfWeek": 3,
+     "IsOpen": false,
+     "OpeningTime": "09:00",
+     "ClosingTime": "18:30"
+    }
+   ],
+   "scheduledTradingHourChanges": [],
+   "isMetroHub": false,
+   "isRegionalHub": false,
+   "regionType": "Metro",
+   "categoriesRanged": [
+    {
+     "LevelOneCategory": "Categories",
+     "LevelTwoCategories": [
+      "Cameras",
+      "Computers",
+      "Gaming",
+      "Headphones",
+      "Health, Fitness & Wearables",
+      "Mobile Phones",
+      "Movie & TV Shows",
+      "Music - CD",
+      "Music - Vinyl LP",
+      "Navigation",
+      "Smart Home",
+      "Speakers"
+     ]
+    }
+   ],
+   "showSalesLineCallout": true,
+   "objectID": "231",
+   "_highlightResult": {
+    "_geoloc": {
+     "lat": {
+      "value": "-33.866705",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     "lng": {
+      "value": "151.208927",
+      "matchLevel": "none",
+      "matchedWords": []
+     }
+    },
+    "storeName": {
+     "value": "City - Pitt Street",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "storeAddress": {
+     "Postcode": {
+      "value": "2000",
+      "matchLevel": "none",
+      "matchedWords": []
+     }
+    }
+   }
+  }
+ ],
+ "nbHits": 29,
+ "page": 0,
+ "nbPages": 10,
+ "hitsPerPage": 3,
+ "exhaustiveNbHits": true,
+ "exhaustive": {
+  "nbHits": true
+ },
+ "query": "",
+ "params": "query=&hitsPerPage=3&aroundLatLng=-33.8688%2C151.2093&aroundRadius=20000",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {}
+ },
+ "processingTimeMS": 2,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 335
+  },
+  "extensions": 1,
+  "total": 2
+ },
+ "serverTimeMS": 2
+}

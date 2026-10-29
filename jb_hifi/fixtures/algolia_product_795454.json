@@ -1,0 +1,852 @@
+{
+ "hits": [
+  {
+   "sku": "795454",
+   "familyId": "71f1e431-5882-4c03-a732-720017957af1",
+   "product_id": 7333451006153,
+   "variant_id": 40424745926857,
+   "title": "Samsung Galaxy S25 256GB (Navy)",
+   "primary_title": "Samsung Galaxy S25 256GB (Navy)",
+   "secondary_title": "",
+   "weight": 0.306,
+   "onPromotion": true,
+   "bnplExcluded": false,
+   "isMarketplace": false,
+   "department": {
+    "id": 80,
+    "description": "COMMUNICATIONS"
+   },
+   "button": "Buy",
+   "handle": "samsung-galaxy-s25-256gb-navy",
+   "vendor": "SAMSUNG",
+   "preamble": "SAMSUNG",
+   "productGroup": {
+    "id": 829,
+    "description": "SAMSUNG MOBILE - OUTRIGHT"
+   },
+   "product_published": true,
+   "product_image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/795454-Product-0-I-638730241866773532.jpg?v=1737427450",
+   "product_type": "COMMUNICATIONS",
+   "release_date": 1739451600,
+   "inventory_management": "shopify",
+   "brand_image_url": "https://brand-images.jbhifi.com.au/samsung-20241008-02:53:44Z.png",
+   "weighted_average_rating": 4.72457,
+   "price": 887,
+   "compare_at_price": 1387,
+   "taxable": true,
+   "showWasPrice": false,
+   "showPerksPrice": false,
+   "pricing": {
+    "displayPriceInc": 887,
+    "displayPriceEx": 806.36,
+    "displayPriceTax": 80.64,
+    "displayWasPrice": true,
+    "wasPrice": 1387,
+    "saveAmount": 500,
+    "priceAfterCashback": 887,
+    "cashbackAmount": 0,
+    "displayPriceAfterCashback": false,
+    "coreTicketPrice": 1387,
+    "createdDate": "2024-12-17T05:20:32.9707354+00:00",
+    "timestamp": "0001-01-01T00:00:00+00:00"
+   },
+   "tags": "Brand:Samsung,InStock",
+   "banner_tags": {
+    "label": "On Sale"
+   },
+   "google_tag_manager": {
+    "brand": "SAMSUNG",
+    "category": "COMMUNICATIONS/SAMSUNG MOBILE - OUTRIGHT/SAMSUNG",
+    "dimension3": "On Sale",
+    "dimension4": "4.7813",
+    "dimension5": "718",
+    "dimension6": "",
+    "dimension7": "In stock",
+    "id": "795454",
+    "name": "Samsung Galaxy S25 256GB (Navy)",
+    "price": 887,
+    "displayWasPrice": true,
+    "saveAmount": 500,
+    "variants": [
+     {
+      "name": "Colour",
+      "value": "Navy"
+     },
+     {
+      "name": "Internal storage",
+      "value": "256GB"
+     }
+    ]
+   },
+   "promo_tags": [],
+   "all_calculated_product_tags": [
+    "On Sale"
+   ],
+   "display": {
+    "artist": "S25",
+    "tracklist": [],
+    "actors": "",
+    "directors": "",
+    "images": [
+     {
+      "ImageIndex": 0,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/795454-Product-0-I-638730241866773532.jpg"
+     },
+     {
+      "ImageIndex": 1,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/795454-Product-1-I-638730241864305538.jpg"
+     },
+     {
+      "ImageIndex": 2,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/795454-Product-2-I-638730241804776568.jpg"
+     },
+     {
+      "ImageIndex": 3,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/795454-Product-3-I-638730241805165156.jpg"
+     },
+     {
+      "ImageIndex": 4,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/795454-Product-4-I-638730241864034615.jpg"
+     },
+     {
+      "ImageIndex": 5,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/795454-Product-5-I-638730241863198875.jpg"
+     },
+     {
+      "ImageIndex": 6,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/795454-Product-6-I-638730241804623747.jpg"
+     }
+    ],
+    "keyFeatures": [
+     "Screen: 6.2\" Dynamic AMOLED 2X with Adaptive 1 ~ 120hz refresh",
+     "Camera: 50MP main camera and Nightography mode",
+     "Battery: 4,000mAh battery with 25W Fast Charging"
+    ],
+    "categoryHierarchy": [
+     "Mobile Phones",
+     "Outright phones",
+     "Android phones"
+    ],
+    "graphicAttributes": [
+     {
+      "Index": 1195,
+      "Name": "Network compatibility",
+      "Text": "5G",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-177363.jpeg",
+      "ImageHash": "9BF17E30B220FBCE3915718CD93EF551"
+     },
+     {
+      "Index": 3028,
+      "Name": "Touchscreen",
+      "Text": "1",
+      "ContentType": "Boolean",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-176913.png",
+      "ImageHash": "398AC1A6315F91094E73813D63CB5218"
+     },
+     {
+      "Index": 5465,
+      "Name": "RAM (GB)",
+      "Text": "12",
+      "ContentType": "Double",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-177002.png",
+      "ImageHash": "4196E6E28767D7D3CA87CAB1F5D8FA5C"
+     }
+    ],
+    "messages": [
+     {
+      "Id": "d4fd5766-260f-4b08-8b0c-ee3b7dd4b354",
+      "Type": "SpecialOffers",
+      "SubType": "ByoPhonePlan",
+      "Start": "2026-10-28T13:00:00+00:00",
+      "Finish": "2026-11-11T12:59:00+00:00",
+      "Priority": 6,
+      "Name": "telco-phone-$1000 gc byo-2026/10/29",
+      "OnlineTag": "",
+      "Heading": "Get a $1000 JB Gift Card◊ when you switch your number instore to JB HI-FI Mobile on a $89~ Plan over 24 months‡",
+      "ShortDescription": "",
+      "Description": "<p>- ~Plan reverts to $99 per month after 24 Months.</p><p>- Unlimited talk &amp; text to standard Australian numbers</p><p>- 300GB data for use in Australia</p><p>- Minimum Plan Cost $2136 over 24 months.</p><p>- Instore only</p><p>&lt;cta href=\"https://www.jbhifi.com.au/pages/upfront-mobile-plans\"&gt;View full terms and conditions&lt;/cta&gt;</p><p>&lt;disclaimer&gt;◊Offer only available for new mobile services and eligible port-in mobile services (being an existing mobile service transferred from another provider, excluding any service that has been active on a Telstra, JB Hi-Fi, The Good Guys, or Boost plan at any time in the 30 days before the transfer). The JB Hi-Fi Gift Card (referred to as the “JB Hi-Fi Voucher” in the Telstra Terms and Conditions available at <a href=\"https://www.telstra.com.au/content/dam/tcom/personal/consumer-advice/pdf/consumer/jb-hi-fi-standard-terms-upfront-mobile-service-terms.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">www.telstra.com.au/jbhifi-mobile-terms</a>) will be available to you in store after connection approval by Telstra. The $1000 JB Hi-Fi Gift Card replaces the value of the Voucher stated in the Critical Information Summary. This plan requires you to pay 24 monthly instalments. If you cancel or move to a lower cost/different plan before you have paid 24 monthly instalments in full, then you must pay a Voucher Repayment Fee to Telstra pro-rated against the remaining instalments (or part instalments). This offer is not available in conjunction with any other JB Hi-Fi Mobile or Broadband offer and is limited to 3 connections per customer. Gift Card subject to Terms and Conditions available at <a href=\"https://www.jbhifi.com.au/pages/help-and-support/gift-card-terms-and-conditions\" rel=\"noopener noreferrer\" target=\"_blank\">www.jbhifi.com.au/giftcardterms</a>. ‡Speeds may vary due to various factors such as location, hardware and network congestion. If you exceed your data allowance, your speed will be capped at 1.5Mbps. Speed is slowed further in busy periods. For full Terms &amp; Conditions and Critical Information Summary visit <a href=\"https://www.jbhifi.com.au/pages/upfront-mobile-plans\" rel=\"noopener noreferrer\" target=\"_blank\">www.jbhifi.com.au/mobile-plans</a>. Available instore only.&lt;/disclaimer&gt;</p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": "https://jbhallprdmsgapidataprod.blob.core.windows.net/uploads/19fcfd95-3213-4277-814b-f25352c4d839.JPG",
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-10-21T03:39:31.0393672+00:00"
+     }
+    ]
+   },
+   "product": {
+    "model": "SM-S931BDBEATS_11901334136",
+    "brand": "SAMSUNG",
+    "productGroupId": 829,
+    "seasonCode": "M+",
+    "supplierProductDetails": [
+     {
+      "supplierNumber": 10439,
+      "supplierName": "LIKEWIZE AUSTRALIA PTY LTD",
+      "supplierEAN13": "8806095852225",
+      "supplierStockCode": "SM-S931BDBEATS_11901334136",
+      "supplierStockDescription": "S25"
+     }
+    ],
+    "packagedDimensions": {
+     "height": 0.0286,
+     "width": 0.0886,
+     "depth": 0.1646,
+     "weight": 0.306
+    },
+    "releaseDate": "2025-02-13T13:00:00+00:00",
+    "limitPerOrder": 5,
+    "freightPrice": 9.99,
+    "limitedRunPromotionItems": [],
+    "seller": {
+     "id": 0,
+     "name": "JB Hi-Fi"
+    },
+    "format": "SAMSUNG MOBILE - OUTRIGHT",
+    "showReviews": true,
+    "averageProductReviewRating": 4.7813,
+    "numberOfProductReviews": 718,
+    "productGroupName": "SAMSUNG MOBILE - OUTRIGHT",
+    "departmentName": "COMMUNICATIONS",
+    "releaseQuarter": "2025-1",
+    "productFlags": [
+     {
+      "Id": 2668525,
+      "Name": "Click & Collect",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2668526,
+      "Name": "Delivery",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2668527,
+      "Name": "In-Store",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2668528,
+      "Name": "Review",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2668821,
+      "Name": "Pre Order Whitelist Coupon",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2668823,
+      "Name": "Pre Order Whitelist MnM",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2678493,
+      "Name": "Recalculation",
+      "Start": "2026-07-12T07:57:07.723+00:00",
+      "Finish": null
+     },
+     {
+      "Id": 2686498,
+      "Name": "Omit Buffer In-Store",
+      "Start": null,
+      "Finish": null
+     }
+    ],
+    "description": "SAMSUNG GALAXY S25 256GB NAVY",
+    "departmentCode": 80,
+    "releaseDateText": "Available for Click and Collect or Delivery from 4th Feb",
+    "eligibleForServices": true,
+    "freeBonusSkus": [],
+    "id": "795454"
+   },
+   "availability": {
+    "displayProduct": true,
+    "canBuyOnline": true,
+    "canPreOrder": false,
+    "fulfilment": "Physical",
+    "deliveryFromOnlineWarehouseOnly": false,
+    "deliveryConstraint": "CountryWide",
+    "deliveryStatus": "InStock",
+    "clickNCollectStatus": "InStock",
+    "cashNCarryStatus": "InStock",
+    "overallStatus": "InStock",
+    "availabilityStatement": "In stock",
+    "deliveryOnly": false,
+    "availableNow": "Available Now",
+    "productLifecycle": "NonReplenishable",
+    "isHiddenByFamily": false
+   },
+   "tieredDetails": [],
+   "facets": {
+    "Phone Operating System": [
+     "Android"
+    ],
+    "Phone Type": [
+     "Galaxy S25"
+    ],
+    "Phone series": [
+     "Samsung S-Series"
+    ],
+    "Kids phone": [],
+    "Foldable phone": [],
+    "Network compatibility": [
+     "5G"
+    ],
+    "SIM Type": [
+     "Dual SIM (nano-SIM + eSIM)"
+    ],
+    "Colour": [
+     "Blue"
+    ],
+    "AI features": [
+     "Galaxy AI"
+    ],
+    "Device screen size (inches)": [
+     6.2
+    ],
+    "Resolution (Pixels)": [
+     "2340 x 1080"
+    ],
+    "Display type": [
+     "Dynamic AMOLED 2X, Adaptive 1 ~ 120Hz Refresh"
+    ],
+    "Brightness (Nits)": [],
+    "Touchscreen": [
+     "True"
+    ],
+    "Internal storage": [
+     "256GB"
+    ],
+    "Expandable memory up to": [],
+    "Expandable memory format": [],
+    "Battery life": [],
+    "Recharge time": [],
+    "Battery capacity (mAh)": [
+     4000
+    ],
+    "Wireless Charging Type": [
+     "Qi"
+    ],
+    "Face unlock": [
+     "Yes"
+    ],
+    "Fingerprint sensor": [
+     "Yes"
+    ],
+    "Processor series": [
+     "Snapdragon 8 Gen4"
+    ],
+    "Processor Model Number": [],
+    "Good for gaming": [
+     "Yes"
+    ],
+    "RAM (GB)": [
+     12
+    ],
+    "Rear Cameras (MP)": [
+     "50MP (Wide, f1.8), 10MP (Telephoto, f2.4) 3x, 12MP (Ultrawide, f2.2)"
+    ],
+    "Front camera (MP)": [
+     "12MP"
+    ],
+    "Built-in flash": [
+     "True"
+    ],
+    "Face detection": [
+     "False"
+    ],
+    "Smile Detection": [
+     "False"
+    ],
+    "Image stabilisation": [],
+    "Digital zoom": [],
+    "Video recording": [],
+    "Video Frames Per Second": [
+     "@60fps",
+     "UHD 8K (7680 x 4320)"
+    ],
+    "Environmental protection": [],
+    "IPX rating": [
+     "IPX8 (Protects when immersed continually in water over1m)"
+    ],
+    "IP rating": [
+     "IP68"
+    ],
+    "GPS": [
+     "Yes"
+    ],
+    "Mini USB ports": [],
+    "Micro USB ports": [],
+    "Apple connector type": [],
+    "USB (Type-C) Port": [],
+    "USB-C Ports": [
+     1
+    ],
+    "USB-C Power Delivery": [],
+    "NFC": [
+     "True"
+    ],
+    "Headphone port (3.5mm)": [
+     "False"
+    ],
+    "Wi-Fi": [
+     "Wi-Fi 7 (802.11 be)"
+    ],
+    "Bluetooth": [
+     "v5.4"
+    ],
+    "Product condition": [],
+    "IMEI required": [
+     "True"
+    ],
+    "Manufacturer's warranty": [
+     "2 Years"
+    ],
+    "Warranty notes": [],
+    "Brand": [
+     "SAMSUNG"
+    ],
+    "Sold by": [
+     "JB Hi-Fi"
+    ],
+    "Category": [
+     "Android phones"
+    ],
+    "Primary Category": [
+     "Mobile Phones"
+    ],
+    "Price": [
+     887
+    ],
+    "Condition": [
+     "New"
+    ],
+    "Availability": [
+     "Available Now"
+    ],
+    "Display Models In-Store": []
+   },
+   "category": "Android phones",
+   "category_id": 1921,
+   "category_hierarchy": [
+    "Mobile Phones",
+    "Outright phones",
+    "Android phones"
+   ],
+   "category_levels": {
+    "level0": "Mobile Phones",
+    "level1": "Outright phones",
+    "level2": "Android phones"
+   },
+   "updated_at": "2026-10-28T13:07:17+00:00",
+   "created_at": "2025-01-09T23:03:05+00:00",
+   "published_at": "2025-01-22T18:13:30+00:00",
+   "shopify_timestamp": "2026-10-28T13:07:17+00:00",
+   "online_product_timestamp": "2026-10-28T03:29:01.6880055+00:00",
+   "family": {},
+   "deliveryTag": "",
+   "month_combined_bucket": 14,
+   "year_combined_bucket": 22,
+   "perksPricing": null,
+   "month_combined_bucket_stores": 8,
+   "month_combined_bucket_TOTAL": 16.4,
+   "year_combined_bucket_stores": 11,
+   "year_combined_bucket_TOTAL": 22.0,
+   "priceBannerTag": {},
+   "collectionHandles": [
+    "galaxy-s25-series",
+    "samsung-galaxy-s10",
+    "samsung-galaxy-a42",
+    "black-friday-deals-on-samsung-galaxy-phones",
+    "mobile-phones-on-sale",
+    "samsung-3-1-usb-stick-bar-plus",
+    "gaming-phones",
+    "galaxy-s-series",
+    "hot-deals-on-samsung-phones",
+    "outright-android-phones",
+    "hot-deals-on-samsung",
+    "android-phones",
+    "end-of-year-madness-on-samsung-galaxy-phones",
+    "mobile-phone-sellout",
+    "hottest-deals",
+    "this-weeks-hottest-deals",
+    "back-to-school-on-mobile-phones",
+    "eofy-sale-on-mobile-phones",
+    "5g-phones",
+    "eofy-sale",
+    "samsung-galaxy-a12",
+    "black-friday-deals",
+    "all-mobile-phones",
+    "samsung-galaxy-s25",
+    "all-products-on-sale",
+    "samsung-galaxy-s10-512gb",
+    "samsung-evo-plus-micro-sd-card",
+    "samsung-galaxy-s20-5g",
+    "samsung-t7-touch-portable-ssd-drive",
+    "end-of-year-madness-on-mobile-phones",
+    "mobile-madness",
+    "samsung-galaxy-phones",
+    "samsung-galaxy-s10-plus-1tb",
+    "black-friday-deals-on-phones",
+    "samsung-galaxy-a70",
+    "mobile-phones",
+    "hot-deals-on-mobile-phones",
+    "samsung-mobile"
+   ],
+   "_collections": [],
+   "categoryBrand": "Mobile Phones.SAMSUNG",
+   "availabilityRank": 1,
+   "freeDelivery": false,
+   "promotionEndDate": "2026-11-18T12:59:59+00:00",
+   "collectionHierarchy": [
+    "mobile-phones > galaxy-s25-series",
+    "samsung-galaxy-s10",
+    "samsung-galaxy-a42",
+    "black-friday-deals-on-samsung-galaxy-phones",
+    "mobile-phones-on-sale",
+    "samsung-3-1-usb-stick-bar-plus",
+    "mobile-phones > gaming-phones",
+    "mobile-phones > galaxy-s-series",
+    "hot-deals-on-samsung-phones",
+    "outright-android-phones",
+    "hot-deals-on-samsung",
+    "mobile-phones > android-phones",
+    "end-of-year-madness-on-samsung-galaxy-phones",
+    "mobile-phones > mobile-phone-sellout",
+    "hottest-deals",
+    "this-weeks-hottest-deals",
+    "back-to-school-on-mobile-phones",
+    "eofy-sale > eofy-sale-on-mobile-phones",
+    "mobile-phones > 5g-phones",
+    "eofy-sale",
+    "samsung-galaxy-a12",
+    "black-friday-deals",
+    "mobile-phones > all-mobile-phones",
+    "mobile-phones > samsung-galaxy-s25",
+    "all-products-on-sale",
+    "samsung-galaxy-s10-512gb",
+    "samsung-evo-plus-micro-sd-card",
+    "samsung-galaxy-s20-5g",
+    "samsung-t7-touch-portable-ssd-drive",
+    "end-of-year-madness-on-mobile-phones",
+    "mobile-madness",
+    "mobile-phones > samsung-galaxy-phones",
+    "samsung-galaxy-s10-plus-1tb",
+    "black-friday-deals-on-phones",
+    "samsung-galaxy-a70",
+    "mobile-phones",
+    "hot-deals-on-mobile-phones",
+    "mobile-phones > samsung-mobile"
+   ],
+   "sponsoredCollectionHierarchy": [
+    "mobile-phones",
+    "mobile-madness",
+    "all-products-on-sale",
+    "back-to-school-on-mobile-phones",
+    "this-weeks-hottest-deals",
+    "hottest-deals",
+    "outright-android-phones",
+    "mobile-phones-on-sale",
+    "mobile-phones > gaming-phones",
+    "mobile-phones > android-phones",
+    "mobile-phones > mobile-phone-sellout",
+    "mobile-phones > 5g-phones",
+    "mobile-phones > all-mobile-phones"
+   ],
+   "in_stock_store_ids": [
+    2,
+    3,
+    4,
+    6,
+    8,
+    9,
+    10,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    21,
+    22,
+    23,
+    25,
+    26,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    41,
+    42,
+    43,
+    44,
+    45,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    104,
+    112,
+    117,
+    118,
+    119,
+    120,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    144,
+    145,
+    146,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    181,
+    183,
+    186,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    202,
+    203,
+    205,
+    206,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    221,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    232,
+    233,
+    234,
+    236,
+    237,
+    238,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    249,
+    250,
+    252,
+    253,
+    254,
+    256,
+    257,
+    259,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266
+   ],
+   "isPublic": true,
+   "objectID": "795454",
+   "_highlightResult": {
+    "sku": {
+     "value": "795454",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Samsung Galaxy S25 256GB (Navy)",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "product": {
+     "model": {
+      "value": "SM-S931BDBEATS_11901334136",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     "supplierProductDetails": [
+      {
+       "supplierEAN13": {
+        "value": "8806095852225",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      }
+     ]
+    },
+    "facets": {
+     "Brand": [
+      {
+       "value": "SAMSUNG",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    },
+    "category": {
+     "value": "Android phones",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  }
+ ],
+ "nbHits": 1,
+ "page": 0,
+ "nbPages": 1,
+ "hitsPerPage": 1,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "",
+ "params": "query=&hitsPerPage=1&filters=objectID%3A795454&analyticsTags=%5B%22ext-alg%23auto-filter%3Aenabled%22%5D",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {}
+ },
+ "processingTimeMS": 3,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 334
+  },
+  "extensions": 1,
+  "total": 3
+ },
+ "serverTimeMS": 3
+}

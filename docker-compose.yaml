@@ -1,0 +1,11 @@
+services:
+  jb-hifi-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional. Set an Australian residential proxy only if your IP
+      # starts getting 403s at high volume.
+      # - JB_HIFI_PROXY=http://user:pass@host:port

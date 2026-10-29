@@ -1,0 +1,27 @@
+{
+ "hits": [],
+ "nbHits": 0,
+ "page": 0,
+ "nbPages": 0,
+ "hitsPerPage": 1,
+ "exhaustiveNbHits": true,
+ "exhaustive": {
+  "nbHits": true
+ },
+ "query": "",
+ "params": "query=&hitsPerPage=1&filters=shopId%3A131",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {}
+ },
+ "processingTimeMS": 2,
+ "processingTimingsMS": {
+  "_request": {
+   "queue": 1,
+   "roundTrip": 335
+  },
+  "extensions": 1,
+  "total": 2
+ },
+ "serverTimeMS": 3
+}

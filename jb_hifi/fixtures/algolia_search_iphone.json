@@ -1,0 +1,2349 @@
+{
+ "hits": [
+  {
+   "sku": "922117",
+   "familyId": "9c796cca-da0c-4eee-bd20-12a1a992cd02",
+   "product_id": 7337820717257,
+   "variant_id": 40429428703433,
+   "title": "Apple iPhone 18 Pro Max 256GB (Burgundy)",
+   "primary_title": "Apple iPhone 18 Pro Max 256GB (Burgundy)",
+   "secondary_title": "",
+   "weight": 0.42,
+   "onPromotion": false,
+   "bnplExcluded": false,
+   "isMarketplace": false,
+   "button": "Buy",
+   "deliveryTag": "",
+   "handle": "apple-iphone-18-pro-max-256gb-burgundy",
+   "vendor": "APPLE",
+   "preamble": "",
+   "product_published": true,
+   "product_image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/922117-Product-0-I-639245783403394093.jpg?v=1793072118",
+   "product_type": "COMMUNICATIONS",
+   "release_date": 1789653600,
+   "inventory_management": "shopify",
+   "brand_image_url": "",
+   "weighted_average_rating": 3.00358,
+   "price": 2299,
+   "compare_at_price": "",
+   "taxable": true,
+   "showPerksPrice": false,
+   "pricing": {
+    "displayPriceInc": 2299,
+    "displayPriceEx": 2090,
+    "displayPriceTax": 209,
+    "displayWasPrice": false,
+    "priceAfterCashback": 2299,
+    "cashbackAmount": 0,
+    "displayPriceAfterCashback": false,
+    "coreTicketPrice": 2299,
+    "createdDate": "2026-04-24T01:36:02.7101506+00:00",
+    "timestamp": "0001-01-01T00:00:00+00:00"
+   },
+   "perksPricing": null,
+   "tags": "Brand:Apple,InStock",
+   "banner_tags": {},
+   "priceBannerTag": {},
+   "google_tag_manager": {
+    "brand": "APPLE",
+    "category": "COMMUNICATIONS/APPLE iPHONE - OUTRIGHT/APPLE",
+    "dimension4": "3.6818",
+    "dimension5": "22",
+    "dimension6": "TRADE IN YOUR OLD PHONE",
+    "dimension7": "In stock in store",
+    "id": "922117",
+    "name": "Apple iPhone 18 Pro Max 256GB (Burgundy)",
+    "price": 2299,
+    "displayWasPrice": false,
+    "saveAmount": 0,
+    "variants": [
+     {
+      "name": "Colour",
+      "value": "Burgundy"
+     },
+     {
+      "name": "Internal storage",
+      "value": "256GB"
+     }
+    ]
+   },
+   "promo_tags": [
+    {
+     "label": "TRADE IN YOUR OLD PHONE"
+    }
+   ],
+   "all_calculated_product_tags": [
+    "TRADE IN YOUR OLD PHONE"
+   ],
+   "categoryBrand": "Mobile Phones.APPLE",
+   "availabilityRank": 1,
+   "productGroup": {
+    "id": 825,
+    "description": "APPLE iPHONE - OUTRIGHT"
+   },
+   "department": {
+    "id": 80,
+    "description": "COMMUNICATIONS"
+   },
+   "display": {
+    "artist": "IPHONE 18 PRO MAX",
+    "tracklist": [],
+    "actors": "",
+    "directors": "",
+    "images": [
+     {
+      "ImageIndex": 0,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922117-Product-0-I-639245783403394093.jpg"
+     },
+     {
+      "ImageIndex": 1,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922117-Product-1-I-639245783402075302.jpg"
+     },
+     {
+      "ImageIndex": 2,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922117-Product-2-I-639245783403627789.jpg"
+     },
+     {
+      "ImageIndex": 3,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922117-Product-3-I-639245783403425411.jpg"
+     },
+     {
+      "ImageIndex": 4,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922117-Product-4-I-639245783403612863.jpg"
+     },
+     {
+      "ImageIndex": 5,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922117-Product-5-I-639245783403720873.jpg"
+     },
+     {
+      "ImageIndex": 6,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922117-Product-6-I-639245783403312802.jpg"
+     },
+     {
+      "ImageIndex": 7,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922117-Product-7-I-639245783402921131.jpg"
+     },
+     {
+      "ImageIndex": 8,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922117-Product-8-I-639245783403760783.jpg"
+     },
+     {
+      "ImageIndex": 9,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922117-Product-9-I-639245783404035883.jpg"
+     },
+     {
+      "ImageIndex": 10,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922117-Product-10-I-639286684803259658.jpg"
+     }
+    ],
+    "keyFeatures": [
+     "Built to last with an aluminium unibody design featuring colour-matched back glass",
+     "A 6.9-inch Super Retina XDR display",
+     "48MP Fusion Main camera with variable aperture for improved low-light photos and videos"
+    ],
+    "categoryHierarchy": [
+     "Mobile Phones",
+     "Outright phones",
+     "Apple iPhone"
+    ],
+    "graphicAttributes": [
+     {
+      "Index": 34,
+      "Name": "Network compatibility",
+      "Text": "5G",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-177363.jpeg",
+      "ImageHash": "9BF17E30B220FBCE3915718CD93EF551"
+     },
+     {
+      "Index": 74,
+      "Name": "Touchscreen",
+      "Text": "1",
+      "ContentType": "Boolean",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-176913.png",
+      "ImageHash": "398AC1A6315F91094E73813D63CB5218"
+     }
+    ],
+    "messages": [
+     {
+      "Id": "d0212843-1f5e-4717-8220-8978d78e7e40",
+      "Type": "Messages",
+      "SubType": "Warning",
+      "Start": null,
+      "Finish": null,
+      "Priority": 1,
+      "Name": "Limit 2 per customer -iphone 18",
+      "OnlineTag": "",
+      "Heading": "Please note:",
+      "ShortDescription": "",
+      "Description": "<p>Limit 2 per customer</p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": null,
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-10-02T00:13:24.2852067+00:00"
+     },
+     {
+      "Id": "6e970b14-83e7-46ce-bd52-f5b0b4798e65",
+      "Type": "Messages",
+      "SubType": "Warning",
+      "Start": null,
+      "Finish": null,
+      "Priority": 2,
+      "Name": "telco-apple-iphone-comparison-paid-promo-ongoing ",
+      "OnlineTag": "",
+      "Heading": "Feature",
+      "ShortDescription": "",
+      "Description": "<p><a href=\"https://www.jbhifi.com.au/pages/compare-iphone-models\" rel=\"noopener noreferrer\" target=\"_blank\">Compare iPhone models here</a></p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": null,
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-10-22T06:31:55.916586+00:00"
+     },
+     {
+      "Id": "e235520e-e189-4400-9bae-d012a20825f3",
+      "Type": "SpecialOffers",
+      "SubType": "TradeIn",
+      "Start": null,
+      "Finish": null,
+      "Priority": 3,
+      "Name": "telco-trade-in-iphone-apple-sponsored",
+      "OnlineTag": "TRADE IN YOUR OLD PHONE",
+      "Heading": "Trade in your old phone for a JB Hi-Fi Gift Card# ",
+      "ShortDescription": "",
+      "Description": "<p>- Get a quick quote online</p><p>- Get your e-Gift Card immediately</p><p>- Upgrade to your new device faster</p><p>&lt;cta href=\"https://www.jbhifi.com.au/pages/jbtradein\"&gt;Get a quote now&lt;/cta&gt;</p><p>&lt;disclaimer&gt;#The JB Hi-Fi Trade-in program is operated by Assurant Services Australia Pty Limited ABN 18 613 632 367, Second Hand Dealer 2PS20872. Participant must be AU resident aged 18+ with trade-in device purchased in AU. Assurant is not required to make an offer on your device. The JB Hi-Fi eGift Card given in exchange for a trade-in is subject to <a href=\"https://support.jbhifi.com.au/hc/en-au/articles/360052939334-Gift-Card-Terms-Conditions\" rel=\"noopener noreferrer\" target=\"_blank\">Terms and Conditions</a>. Pre-authorisation will be taken from participant’s payment card. If traded in device is not received within 7 days after your trade-in, Assurant may debit the trade-in value from your payment card. <a href=\"https://jbhifi-tradein.assurant.com.au/terms-and-conditions\" rel=\"noopener noreferrer\" target=\"_blank\">Assurant Terms and Conditions apply</a>.&lt;/disclaimer&gt;</p><p><br></p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": "https://jbhallprdmsgapidataprod.blob.core.windows.net/uploads/c7d7d64e-32b3-4396-8e2d-3ae86cb918de.PNG",
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-09-14T02:49:00.0953677+00:00"
+     },
+     {
+      "Id": "d4fd5766-260f-4b08-8b0c-ee3b7dd4b354",
+      "Type": "SpecialOffers",
+      "SubType": "ByoPhonePlan",
+      "Start": "2026-10-28T13:00:00+00:00",
+      "Finish": "2026-11-11T12:59:00+00:00",
+      "Priority": 6,
+      "Name": "telco-phone-$1000 gc byo-2026/10/29",
+      "OnlineTag": "",
+      "Heading": "Get a $1000 JB Gift Card◊ when you switch your number instore to JB HI-FI Mobile on a $89~ Plan over 24 months‡",
+      "ShortDescription": "",
+      "Description": "<p>- ~Plan reverts to $99 per month after 24 Months.</p><p>- Unlimited talk &amp; text to standard Australian numbers</p><p>- 300GB data for use in Australia</p><p>- Minimum Plan Cost $2136 over 24 months.</p><p>- Instore only</p><p>&lt;cta href=\"https://www.jbhifi.com.au/pages/upfront-mobile-plans\"&gt;View full terms and conditions&lt;/cta&gt;</p><p>&lt;disclaimer&gt;◊Offer only available for new mobile services and eligible port-in mobile services (being an existing mobile service transferred from another provider, excluding any service that has been active on a Telstra, JB Hi-Fi, The Good Guys, or Boost plan at any time in the 30 days before the transfer). The JB Hi-Fi Gift Card (referred to as the “JB Hi-Fi Voucher” in the Telstra Terms and Conditions available at <a href=\"https://www.telstra.com.au/content/dam/tcom/personal/consumer-advice/pdf/consumer/jb-hi-fi-standard-terms-upfront-mobile-service-terms.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">www.telstra.com.au/jbhifi-mobile-terms</a>) will be available to you in store after connection approval by Telstra. The $1000 JB Hi-Fi Gift Card replaces the value of the Voucher stated in the Critical Information Summary. This plan requires you to pay 24 monthly instalments. If you cancel or move to a lower cost/different plan before you have paid 24 monthly instalments in full, then you must pay a Voucher Repayment Fee to Telstra pro-rated against the remaining instalments (or part instalments). This offer is not available in conjunction with any other JB Hi-Fi Mobile or Broadband offer and is limited to 3 connections per customer. Gift Card subject to Terms and Conditions available at <a href=\"https://www.jbhifi.com.au/pages/help-and-support/gift-card-terms-and-conditions\" rel=\"noopener noreferrer\" target=\"_blank\">www.jbhifi.com.au/giftcardterms</a>. ‡Speeds may vary due to various factors such as location, hardware and network congestion. If you exceed your data allowance, your speed will be capped at 1.5Mbps. Speed is slowed further in busy periods. For full Terms &amp; Conditions and Critical Information Summary visit <a href=\"https://www.jbhifi.com.au/pages/upfront-mobile-plans\" rel=\"noopener noreferrer\" target=\"_blank\">www.jbhifi.com.au/mobile-plans</a>. Available instore only.&lt;/disclaimer&gt;</p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": "https://jbhallprdmsgapidataprod.blob.core.windows.net/uploads/19fcfd95-3213-4277-814b-f25352c4d839.JPG",
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-10-21T03:39:31.0393672+00:00"
+     },
+     {
+      "Id": "67def5fa-ca25-40b0-b188-df0d46c59474",
+      "Type": "SpecialOffers",
+      "SubType": "Subscription",
+      "Start": "2026-09-07T14:00:00+00:00",
+      "Finish": "2027-09-05T13:59:59+00:00",
+      "Priority": 9,
+      "Name": "apple music-6 month-offer-product groups-2026/09/10",
+      "OnlineTag": "",
+      "Heading": "Buy an Eligible Apple or Beats product and get a bonus 6-month Apple Music subscription*. New subscribers only. Ends 5/9/2027.",
+      "ShortDescription": "",
+      "Description": "<p>&lt;disclaimer&gt;*<span style=\"color: black;\">Offer valid for Eligible Apple or Beats purchases made by 5/9/2027. Eligible Apple products include any new iPhone, iPad, Apple TV, Apple Watch or Mac (capable of running the latest iOS, iPadOS, tvOS, watchOS or macOS), AirPods (2nd and 3rd generations), AirPods 4 and AirPods 5 (all models), AirPods Pro (all generations), AirPods Max, HomePod mini, and HomePod (all generations). Eligible Beats products include any new Beats earbuds (excluding Beats Flex wireless earbuds), Beats speakers and/or Beats headphone. Bonus subscription must be claimed within 90 days of device setup in the Apple Music app whilst signed into your Apple Account. Subscription automatically charged after expiration of bonus subscription period, billed on a recurring monthly basis, unless you cancel before bonus subscription period ends. Subscription fees currently $14.99/month. Subscription fees may change. One offer per eligible Apple Account. Offer cannot be combined with other free trial offers for Apple Music or Apple One. Apple Music T&amp;Cs at </span><a href=\"https://www.apple.com/au/legal/internet-services/itunes/au/terms.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\">https://www.apple.com/au/legal/internet-services/itunes/au/terms.html</a><span style=\"color: black;\"> apply. Excludes refurbished product. For offer eligibility, other key terms and full T&amp;Cs visit </span><a href=\"https://www.jbhifi.com.au/pages/apple-music\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\">jbhifi.com.au/pages/apple-music</a>.&lt;/disclaimer&gt;</p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": "https://jbhallprdmsgapidataprod.blob.core.windows.net/uploads/99235245-cf43-443b-992f-1ff4cd89444b.PNG",
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-09-24T05:08:58.2805909+00:00"
+     }
+    ]
+   },
+   "product": {
+    "model": "MJXQ4X/A",
+    "brand": "APPLE",
+    "productGroupId": 825,
+    "seasonCode": "M",
+    "supplierProductDetails": [
+     {
+      "supplierNumber": 10104,
+      "supplierName": "APPLE PTY LTD",
+      "supplierEAN13": "195951411644",
+      "supplierStockCode": "MJXQ4X/A",
+      "supplierStockDescription": "IPHONE 18 PRO MAX"
+     },
+     {
+      "supplierNumber": 10439,
+      "supplierName": "LIKEWIZE AUSTRALIA PTY LTD",
+      "supplierEAN13": "195951411644",
+      "supplierStockCode": "11901380743",
+      "supplierStockDescription": "IPHONE 18 PRO MAX"
+     }
+    ],
+    "packagedDimensions": {
+     "height": 0.182,
+     "width": 0.096,
+     "depth": 0.029,
+     "weight": 0.42
+    },
+    "releaseDate": "2026-09-17T14:00:00+00:00",
+    "limitPerOrder": 2,
+    "freightPrice": 9.99,
+    "limitedRunPromotionItems": [],
+    "seller": {
+     "id": 0,
+     "name": "JB Hi-Fi"
+    },
+    "format": "APPLE iPHONE - OUTRIGHT ",
+    "showReviews": true,
+    "averageProductReviewRating": 3.6818,
+    "numberOfProductReviews": 22,
+    "productGroupName": "APPLE iPHONE - OUTRIGHT",
+    "departmentName": "COMMUNICATIONS",
+    "releaseQuarter": "2026-3",
+    "productFlags": [
+     {
+      "Id": 2907345,
+      "Name": "Review",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2907315,
+      "Name": "Delivery",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2907314,
+      "Name": "Click & Collect",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2907316,
+      "Name": "In-Store",
+      "Start": null,
+      "Finish": null
+     }
+    ],
+    "description": "APPLE IPHONE 18 PRO MAX 256GB BURGUNDY",
+    "departmentCode": 80,
+    "releaseDateText": "",
+    "eligibleForServices": true,
+    "freeBonusSkus": [],
+    "id": "922117"
+   },
+   "availability": {
+    "displayProduct": true,
+    "canBuyOnline": true,
+    "canPreOrder": false,
+    "fulfilment": "Physical",
+    "deliveryFromOnlineWarehouseOnly": false,
+    "deliveryConstraint": "CountryWide",
+    "deliveryStatus": "AwaitingStock",
+    "clickNCollectStatus": "InStock",
+    "cashNCarryStatus": "InStock",
+    "overallStatus": "InStock",
+    "availabilityStatement": "In stock in store",
+    "deliveryOnly": false,
+    "availableNow": "Available Now",
+    "productLifecycle": "Replenishable",
+    "isHiddenByFamily": false
+   },
+   "tieredDetails": [],
+   "facets": {
+    "Phone Operating System": [
+     "iOS"
+    ],
+    "Phone Type": [
+     "iPhone 18 Pro Max"
+    ],
+    "Phone series": [
+     "Apple iPhone 18 Series"
+    ],
+    "Kids phone": [],
+    "Foldable phone": [],
+    "Network compatibility": [
+     "5G"
+    ],
+    "SIM Type": [
+     "Dual SIM (nano-SIM + eSIM)"
+    ],
+    "Colour": [
+     "Purple"
+    ],
+    "AI features": [
+     "Built for Apple Intelligence"
+    ],
+    "Device screen size (inches)": [
+     6.9
+    ],
+    "Resolution (Pixels)": [
+     "2868 x 1320"
+    ],
+    "Display type": [
+     "Super Retina XDR display"
+    ],
+    "Brightness (Nits)": [],
+    "Touchscreen": [
+     "True"
+    ],
+    "Internal storage": [
+     "256GB"
+    ],
+    "Expandable memory up to": [],
+    "Expandable memory format": [],
+    "Battery life": [],
+    "Recharge time": [],
+    "Battery capacity (mAh)": [],
+    "Wireless Charging Type": [
+     "MagSafe"
+    ],
+    "Face unlock": [
+     "Yes"
+    ],
+    "Fingerprint sensor": [],
+    "Processor series": [
+     "A20 Pro chip"
+    ],
+    "Processor Model Number": [],
+    "Good for gaming": [
+     "Yes"
+    ],
+    "RAM (GB)": [],
+    "Rear Cameras (MP)": [
+     "48MP + 48MP + 48MP"
+    ],
+    "Front camera (MP)": [
+     "18MP"
+    ],
+    "Built-in flash": [
+     "True"
+    ],
+    "Face detection": [
+     "False"
+    ],
+    "Smile Detection": [
+     "False"
+    ],
+    "Image stabilisation": [
+     "Yes"
+    ],
+    "Digital zoom": [],
+    "Video recording": [
+     "Ultra HD"
+    ],
+    "Video Frames Per Second": [
+     "4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, 60 fps, 100 fps (Fusion Main) or 120 fps (Fusion Main)"
+    ],
+    "Environmental protection": [
+     "Water resistant"
+    ],
+    "IPX rating": [],
+    "IP rating": [
+     "IP68"
+    ],
+    "GPS": [
+     "Yes"
+    ],
+    "Mini USB ports": [],
+    "Micro USB ports": [],
+    "Apple connector type": [],
+    "USB (Type-C) Port": [
+     "3.0"
+    ],
+    "USB-C Ports": [
+     1
+    ],
+    "USB-C Power Delivery": [],
+    "NFC": [
+     "True"
+    ],
+    "Headphone port (3.5mm)": [
+     "False"
+    ],
+    "Wi-Fi": [
+     "Wi-Fi 7 (802.11 be)"
+    ],
+    "Bluetooth": [
+     "v6.0"
+    ],
+    "Product condition": [],
+    "IMEI required": [
+     "True"
+    ],
+    "Manufacturer's warranty": [
+     "1 Year"
+    ],
+    "Warranty notes": [],
+    "Brand": [
+     "APPLE"
+    ],
+    "Sold by": [
+     "JB Hi-Fi"
+    ],
+    "Category": [
+     "Apple iPhone"
+    ],
+    "Primary Category": [
+     "Mobile Phones"
+    ],
+    "Price": [
+     2299
+    ],
+    "Condition": [
+     "New"
+    ],
+    "Availability": [
+     "Available Now"
+    ],
+    "Display Models In-Store": [
+     209
+    ]
+   },
+   "category": "Apple iPhone",
+   "category_id": 1920,
+   "category_hierarchy": [
+    "Mobile Phones",
+    "Outright phones",
+    "Apple iPhone"
+   ],
+   "category_levels": {
+    "level0": "Mobile Phones",
+    "level1": "Outright phones",
+    "level2": "Apple iPhone"
+   },
+   "collectionHandles": [
+    "iphone-18-series",
+    "gaming-phones",
+    "back-to-school-on-apple",
+    "apple",
+    "back-to-school-on-mobile-phones",
+    "5g-phones",
+    "iphones",
+    "iphone-18-pro-max",
+    "apple-ipad-7th-gen",
+    "all-mobile-phones",
+    "new-phones",
+    "mobile-phones"
+   ],
+   "collectionHierarchy": [
+    "mobile-phones > iphone-18-series",
+    "mobile-phones > gaming-phones",
+    "back-to-school-on-apple",
+    "apple",
+    "back-to-school-on-mobile-phones",
+    "mobile-phones > 5g-phones",
+    "mobile-phones > iphones",
+    "mobile-phones > iphone-18-pro-max",
+    "apple-ipad-7th-gen",
+    "mobile-phones > all-mobile-phones",
+    "mobile-phones > new-phones",
+    "mobile-phones"
+   ],
+   "sponsoredCollectionHierarchy": [
+    "mobile-phones",
+    "back-to-school-on-mobile-phones",
+    "mobile-phones > iphone-18-series",
+    "mobile-phones > gaming-phones",
+    "mobile-phones > 5g-phones",
+    "mobile-phones > iphone-18-pro-max",
+    "mobile-phones > all-mobile-phones",
+    "mobile-phones > new-phones"
+   ],
+   "updated_at": "2026-10-28T13:07:27+00:00",
+   "created_at": "2026-09-09T19:20:03+00:00",
+   "published_at": "2026-09-09T21:06:08+00:00",
+   "shopify_timestamp": "2026-10-28T13:07:27+00:00",
+   "online_product_timestamp": "2026-10-28T10:35:38.7620078+00:00",
+   "family": {},
+   "isPublic": true,
+   "in_stock_store_ids": [
+    1,
+    4,
+    6,
+    10,
+    13,
+    15,
+    18,
+    19,
+    21,
+    23,
+    25,
+    26,
+    29,
+    30,
+    33,
+    34,
+    36,
+    37,
+    38,
+    42,
+    44,
+    45,
+    49,
+    50,
+    51,
+    52,
+    53,
+    55,
+    57,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    67,
+    68,
+    69,
+    72,
+    73,
+    74,
+    79,
+    80,
+    81,
+    83,
+    85,
+    86,
+    90,
+    92,
+    94,
+    98,
+    99,
+    100,
+    117,
+    119,
+    123,
+    124,
+    128,
+    129,
+    131,
+    133,
+    135,
+    136,
+    137,
+    139,
+    140,
+    142,
+    145,
+    148,
+    150,
+    151,
+    153,
+    154,
+    156,
+    163,
+    165,
+    167,
+    169,
+    171,
+    172,
+    174,
+    177,
+    178,
+    179,
+    183,
+    194,
+    195,
+    196,
+    203,
+    205,
+    206,
+    210,
+    212,
+    217,
+    223,
+    224,
+    229,
+    232,
+    233,
+    234,
+    237,
+    238,
+    240,
+    243,
+    244,
+    246,
+    247,
+    249,
+    254,
+    257
+   ],
+   "promotionEndDate": "2026-10-21T12:59:00+00:00",
+   "month_combined_bucket": 22,
+   "month_combined_bucket_stores": 11,
+   "month_combined_bucket_TOTAL": 22.0,
+   "objectID": "922117",
+   "_highlightResult": {
+    "sku": {
+     "value": "922117",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Apple <em>iPhone</em> 18 Pro Max 256GB (Burgundy)",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iphone"
+     ]
+    },
+    "product": {
+     "model": {
+      "value": "MJXQ4X/A",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     "supplierProductDetails": [
+      {
+       "supplierEAN13": {
+        "value": "195951411644",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      },
+      {
+       "supplierEAN13": {
+        "value": "195951411644",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      }
+     ]
+    },
+    "facets": {
+     "Brand": [
+      {
+       "value": "APPLE",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    },
+    "category": {
+     "value": "Apple <em>iPhone</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iphone"
+     ]
+    }
+   }
+  },
+  {
+   "sku": "922116",
+   "familyId": "9c796cca-da0c-4eee-bd20-12a1a992cd02",
+   "product_id": 7337820586185,
+   "variant_id": 40429428572361,
+   "title": "Apple iPhone 18 Pro Max 256GB (Black)",
+   "primary_title": "Apple iPhone 18 Pro Max 256GB (Black)",
+   "secondary_title": "",
+   "weight": 0.42,
+   "onPromotion": false,
+   "bnplExcluded": false,
+   "isMarketplace": false,
+   "button": "Buy",
+   "deliveryTag": "",
+   "handle": "apple-iphone-18-pro-max-256gb-black",
+   "vendor": "APPLE",
+   "preamble": "",
+   "product_published": true,
+   "product_image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/922116-Product-0-I-639245782210401385.jpg?v=1793072117",
+   "product_type": "COMMUNICATIONS",
+   "release_date": 1789653600,
+   "inventory_management": "shopify",
+   "brand_image_url": "",
+   "weighted_average_rating": 3.00358,
+   "price": 2299,
+   "compare_at_price": "",
+   "taxable": true,
+   "showPerksPrice": false,
+   "pricing": {
+    "displayPriceInc": 2299,
+    "displayPriceEx": 2090,
+    "displayPriceTax": 209,
+    "displayWasPrice": false,
+    "priceAfterCashback": 2299,
+    "cashbackAmount": 0,
+    "displayPriceAfterCashback": false,
+    "coreTicketPrice": 2299,
+    "createdDate": "2026-04-24T01:36:02.6794985+00:00",
+    "timestamp": "0001-01-01T00:00:00+00:00"
+   },
+   "perksPricing": null,
+   "tags": "Brand:Apple,InStock",
+   "banner_tags": {},
+   "priceBannerTag": {},
+   "google_tag_manager": {
+    "brand": "APPLE",
+    "category": "COMMUNICATIONS/APPLE iPHONE - OUTRIGHT/APPLE",
+    "dimension4": "3.6818",
+    "dimension5": "22",
+    "dimension6": "TRADE IN YOUR OLD PHONE",
+    "dimension7": "In stock",
+    "id": "922116",
+    "name": "Apple iPhone 18 Pro Max 256GB (Black)",
+    "price": 2299,
+    "displayWasPrice": false,
+    "saveAmount": 0,
+    "variants": [
+     {
+      "name": "Colour",
+      "value": "Black"
+     },
+     {
+      "name": "Internal storage",
+      "value": "256GB"
+     }
+    ]
+   },
+   "promo_tags": [
+    {
+     "label": "TRADE IN YOUR OLD PHONE"
+    }
+   ],
+   "all_calculated_product_tags": [
+    "TRADE IN YOUR OLD PHONE"
+   ],
+   "categoryBrand": "Mobile Phones.APPLE",
+   "availabilityRank": 1,
+   "productGroup": {
+    "id": 825,
+    "description": "APPLE iPHONE - OUTRIGHT"
+   },
+   "department": {
+    "id": 80,
+    "description": "COMMUNICATIONS"
+   },
+   "display": {
+    "artist": "IPHONE 18 PRO MAX",
+    "tracklist": [],
+    "actors": "",
+    "directors": "",
+    "images": [
+     {
+      "ImageIndex": 0,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922116-Product-0-I-639245782210401385.jpg"
+     },
+     {
+      "ImageIndex": 1,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922116-Product-1-I-639245782210285893.jpg"
+     },
+     {
+      "ImageIndex": 2,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922116-Product-2-I-639245782209444738.jpg"
+     },
+     {
+      "ImageIndex": 3,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922116-Product-3-I-639245782208837768.jpg"
+     },
+     {
+      "ImageIndex": 4,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922116-Product-4-I-639245782209647055.jpg"
+     },
+     {
+      "ImageIndex": 5,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922116-Product-5-I-639245782209596359.jpg"
+     },
+     {
+      "ImageIndex": 6,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922116-Product-6-I-639245782211579181.jpg"
+     },
+     {
+      "ImageIndex": 7,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922116-Product-7-I-639245782209954816.jpg"
+     },
+     {
+      "ImageIndex": 8,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922116-Product-8-I-639245782209869004.jpg"
+     },
+     {
+      "ImageIndex": 9,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922116-Product-9-I-639245782210362221.jpg"
+     },
+     {
+      "ImageIndex": 10,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922116-Product-10-I-639286684203766801.jpg"
+     }
+    ],
+    "keyFeatures": [
+     "Built to last with an aluminium unibody design featuring colour-matched back glass",
+     "A 6.9-inch Super Retina XDR display",
+     "48MP Fusion Main camera with variable aperture for improved low-light photos and videos"
+    ],
+    "categoryHierarchy": [
+     "Mobile Phones",
+     "Outright phones",
+     "Apple iPhone"
+    ],
+    "graphicAttributes": [
+     {
+      "Index": 33,
+      "Name": "Network compatibility",
+      "Text": "5G",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-177363.jpeg",
+      "ImageHash": "9BF17E30B220FBCE3915718CD93EF551"
+     },
+     {
+      "Index": 73,
+      "Name": "Touchscreen",
+      "Text": "1",
+      "ContentType": "Boolean",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-176913.png",
+      "ImageHash": "398AC1A6315F91094E73813D63CB5218"
+     }
+    ],
+    "messages": [
+     {
+      "Id": "d0212843-1f5e-4717-8220-8978d78e7e40",
+      "Type": "Messages",
+      "SubType": "Warning",
+      "Start": null,
+      "Finish": null,
+      "Priority": 1,
+      "Name": "Limit 2 per customer -iphone 18",
+      "OnlineTag": "",
+      "Heading": "Please note:",
+      "ShortDescription": "",
+      "Description": "<p>Limit 2 per customer</p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": null,
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-10-02T00:13:24.2852067+00:00"
+     },
+     {
+      "Id": "6e970b14-83e7-46ce-bd52-f5b0b4798e65",
+      "Type": "Messages",
+      "SubType": "Warning",
+      "Start": null,
+      "Finish": null,
+      "Priority": 2,
+      "Name": "telco-apple-iphone-comparison-paid-promo-ongoing ",
+      "OnlineTag": "",
+      "Heading": "Feature",
+      "ShortDescription": "",
+      "Description": "<p><a href=\"https://www.jbhifi.com.au/pages/compare-iphone-models\" rel=\"noopener noreferrer\" target=\"_blank\">Compare iPhone models here</a></p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": null,
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-10-22T06:31:55.916586+00:00"
+     },
+     {
+      "Id": "e235520e-e189-4400-9bae-d012a20825f3",
+      "Type": "SpecialOffers",
+      "SubType": "TradeIn",
+      "Start": null,
+      "Finish": null,
+      "Priority": 3,
+      "Name": "telco-trade-in-iphone-apple-sponsored",
+      "OnlineTag": "TRADE IN YOUR OLD PHONE",
+      "Heading": "Trade in your old phone for a JB Hi-Fi Gift Card# ",
+      "ShortDescription": "",
+      "Description": "<p>- Get a quick quote online</p><p>- Get your e-Gift Card immediately</p><p>- Upgrade to your new device faster</p><p>&lt;cta href=\"https://www.jbhifi.com.au/pages/jbtradein\"&gt;Get a quote now&lt;/cta&gt;</p><p>&lt;disclaimer&gt;#The JB Hi-Fi Trade-in program is operated by Assurant Services Australia Pty Limited ABN 18 613 632 367, Second Hand Dealer 2PS20872. Participant must be AU resident aged 18+ with trade-in device purchased in AU. Assurant is not required to make an offer on your device. The JB Hi-Fi eGift Card given in exchange for a trade-in is subject to <a href=\"https://support.jbhifi.com.au/hc/en-au/articles/360052939334-Gift-Card-Terms-Conditions\" rel=\"noopener noreferrer\" target=\"_blank\">Terms and Conditions</a>. Pre-authorisation will be taken from participant’s payment card. If traded in device is not received within 7 days after your trade-in, Assurant may debit the trade-in value from your payment card. <a href=\"https://jbhifi-tradein.assurant.com.au/terms-and-conditions\" rel=\"noopener noreferrer\" target=\"_blank\">Assurant Terms and Conditions apply</a>.&lt;/disclaimer&gt;</p><p><br></p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": "https://jbhallprdmsgapidataprod.blob.core.windows.net/uploads/c7d7d64e-32b3-4396-8e2d-3ae86cb918de.PNG",
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-09-14T02:49:00.0953677+00:00"
+     },
+     {
+      "Id": "d4fd5766-260f-4b08-8b0c-ee3b7dd4b354",
+      "Type": "SpecialOffers",
+      "SubType": "ByoPhonePlan",
+      "Start": "2026-10-28T13:00:00+00:00",
+      "Finish": "2026-11-11T12:59:00+00:00",
+      "Priority": 6,
+      "Name": "telco-phone-$1000 gc byo-2026/10/29",
+      "OnlineTag": "",
+      "Heading": "Get a $1000 JB Gift Card◊ when you switch your number instore to JB HI-FI Mobile on a $89~ Plan over 24 months‡",
+      "ShortDescription": "",
+      "Description": "<p>- ~Plan reverts to $99 per month after 24 Months.</p><p>- Unlimited talk &amp; text to standard Australian numbers</p><p>- 300GB data for use in Australia</p><p>- Minimum Plan Cost $2136 over 24 months.</p><p>- Instore only</p><p>&lt;cta href=\"https://www.jbhifi.com.au/pages/upfront-mobile-plans\"&gt;View full terms and conditions&lt;/cta&gt;</p><p>&lt;disclaimer&gt;◊Offer only available for new mobile services and eligible port-in mobile services (being an existing mobile service transferred from another provider, excluding any service that has been active on a Telstra, JB Hi-Fi, The Good Guys, or Boost plan at any time in the 30 days before the transfer). The JB Hi-Fi Gift Card (referred to as the “JB Hi-Fi Voucher” in the Telstra Terms and Conditions available at <a href=\"https://www.telstra.com.au/content/dam/tcom/personal/consumer-advice/pdf/consumer/jb-hi-fi-standard-terms-upfront-mobile-service-terms.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">www.telstra.com.au/jbhifi-mobile-terms</a>) will be available to you in store after connection approval by Telstra. The $1000 JB Hi-Fi Gift Card replaces the value of the Voucher stated in the Critical Information Summary. This plan requires you to pay 24 monthly instalments. If you cancel or move to a lower cost/different plan before you have paid 24 monthly instalments in full, then you must pay a Voucher Repayment Fee to Telstra pro-rated against the remaining instalments (or part instalments). This offer is not available in conjunction with any other JB Hi-Fi Mobile or Broadband offer and is limited to 3 connections per customer. Gift Card subject to Terms and Conditions available at <a href=\"https://www.jbhifi.com.au/pages/help-and-support/gift-card-terms-and-conditions\" rel=\"noopener noreferrer\" target=\"_blank\">www.jbhifi.com.au/giftcardterms</a>. ‡Speeds may vary due to various factors such as location, hardware and network congestion. If you exceed your data allowance, your speed will be capped at 1.5Mbps. Speed is slowed further in busy periods. For full Terms &amp; Conditions and Critical Information Summary visit <a href=\"https://www.jbhifi.com.au/pages/upfront-mobile-plans\" rel=\"noopener noreferrer\" target=\"_blank\">www.jbhifi.com.au/mobile-plans</a>. Available instore only.&lt;/disclaimer&gt;</p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": "https://jbhallprdmsgapidataprod.blob.core.windows.net/uploads/19fcfd95-3213-4277-814b-f25352c4d839.JPG",
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-10-21T03:39:31.0393672+00:00"
+     },
+     {
+      "Id": "67def5fa-ca25-40b0-b188-df0d46c59474",
+      "Type": "SpecialOffers",
+      "SubType": "Subscription",
+      "Start": "2026-09-07T14:00:00+00:00",
+      "Finish": "2027-09-05T13:59:59+00:00",
+      "Priority": 9,
+      "Name": "apple music-6 month-offer-product groups-2026/09/10",
+      "OnlineTag": "",
+      "Heading": "Buy an Eligible Apple or Beats product and get a bonus 6-month Apple Music subscription*. New subscribers only. Ends 5/9/2027.",
+      "ShortDescription": "",
+      "Description": "<p>&lt;disclaimer&gt;*<span style=\"color: black;\">Offer valid for Eligible Apple or Beats purchases made by 5/9/2027. Eligible Apple products include any new iPhone, iPad, Apple TV, Apple Watch or Mac (capable of running the latest iOS, iPadOS, tvOS, watchOS or macOS), AirPods (2nd and 3rd generations), AirPods 4 and AirPods 5 (all models), AirPods Pro (all generations), AirPods Max, HomePod mini, and HomePod (all generations). Eligible Beats products include any new Beats earbuds (excluding Beats Flex wireless earbuds), Beats speakers and/or Beats headphone. Bonus subscription must be claimed within 90 days of device setup in the Apple Music app whilst signed into your Apple Account. Subscription automatically charged after expiration of bonus subscription period, billed on a recurring monthly basis, unless you cancel before bonus subscription period ends. Subscription fees currently $14.99/month. Subscription fees may change. One offer per eligible Apple Account. Offer cannot be combined with other free trial offers for Apple Music or Apple One. Apple Music T&amp;Cs at </span><a href=\"https://www.apple.com/au/legal/internet-services/itunes/au/terms.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\">https://www.apple.com/au/legal/internet-services/itunes/au/terms.html</a><span style=\"color: black;\"> apply. Excludes refurbished product. For offer eligibility, other key terms and full T&amp;Cs visit </span><a href=\"https://www.jbhifi.com.au/pages/apple-music\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\">jbhifi.com.au/pages/apple-music</a>.&lt;/disclaimer&gt;</p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": "https://jbhallprdmsgapidataprod.blob.core.windows.net/uploads/99235245-cf43-443b-992f-1ff4cd89444b.PNG",
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-09-24T05:08:58.2805909+00:00"
+     }
+    ]
+   },
+   "product": {
+    "model": "MJXN4X/A",
+    "brand": "APPLE",
+    "productGroupId": 825,
+    "seasonCode": "M",
+    "supplierProductDetails": [
+     {
+      "supplierNumber": 10104,
+      "supplierName": "APPLE PTY LTD",
+      "supplierEAN13": "195951411620",
+      "supplierStockCode": "MJXN4X/A",
+      "supplierStockDescription": "IPHONE 18 PRO MAX"
+     },
+     {
+      "supplierNumber": 10439,
+      "supplierName": "LIKEWIZE AUSTRALIA PTY LTD",
+      "supplierEAN13": "195951411620",
+      "supplierStockCode": "11901380742",
+      "supplierStockDescription": "IPHONE 18 PRO MAX"
+     }
+    ],
+    "packagedDimensions": {
+     "height": 0.182,
+     "width": 0.096,
+     "depth": 0.029,
+     "weight": 0.42
+    },
+    "releaseDate": "2026-09-17T14:00:00+00:00",
+    "limitPerOrder": 2,
+    "freightPrice": 9.99,
+    "limitedRunPromotionItems": [],
+    "seller": {
+     "id": 0,
+     "name": "JB Hi-Fi"
+    },
+    "format": "APPLE iPHONE - OUTRIGHT ",
+    "showReviews": true,
+    "averageProductReviewRating": 3.6818,
+    "numberOfProductReviews": 22,
+    "productGroupName": "APPLE iPHONE - OUTRIGHT",
+    "departmentName": "COMMUNICATIONS",
+    "releaseQuarter": "2026-3",
+    "productFlags": [
+     {
+      "Id": 2907344,
+      "Name": "Review",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2995254,
+      "Name": "Include",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2907312,
+      "Name": "Delivery",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2907311,
+      "Name": "Click & Collect",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2907313,
+      "Name": "In-Store",
+      "Start": null,
+      "Finish": null
+     }
+    ],
+    "description": "APPLE IPHONE 18 PRO MAX 256GB BLACK",
+    "departmentCode": 80,
+    "releaseDateText": "",
+    "eligibleForServices": true,
+    "freeBonusSkus": [],
+    "id": "922116"
+   },
+   "availability": {
+    "displayProduct": true,
+    "canBuyOnline": true,
+    "canPreOrder": false,
+    "fulfilment": "Physical",
+    "deliveryFromOnlineWarehouseOnly": false,
+    "deliveryConstraint": "CountryWide",
+    "deliveryStatus": "InStock",
+    "clickNCollectStatus": "InStock",
+    "cashNCarryStatus": "InStock",
+    "overallStatus": "InStock",
+    "availabilityStatement": "In stock",
+    "deliveryOnly": false,
+    "availableNow": "Available Now",
+    "productLifecycle": "Replenishable",
+    "isHiddenByFamily": false
+   },
+   "tieredDetails": [],
+   "facets": {
+    "Phone Operating System": [
+     "iOS"
+    ],
+    "Phone Type": [
+     "iPhone 18 Pro Max"
+    ],
+    "Phone series": [
+     "Apple iPhone 18 Series"
+    ],
+    "Kids phone": [],
+    "Foldable phone": [],
+    "Network compatibility": [
+     "5G"
+    ],
+    "SIM Type": [
+     "Dual SIM (nano-SIM + eSIM)"
+    ],
+    "Colour": [
+     "Black"
+    ],
+    "AI features": [
+     "Built for Apple Intelligence"
+    ],
+    "Device screen size (inches)": [
+     6.9
+    ],
+    "Resolution (Pixels)": [
+     "2868 x 1320"
+    ],
+    "Display type": [
+     "Super Retina XDR display"
+    ],
+    "Brightness (Nits)": [],
+    "Touchscreen": [
+     "True"
+    ],
+    "Internal storage": [
+     "256GB"
+    ],
+    "Expandable memory up to": [],
+    "Expandable memory format": [],
+    "Battery life": [],
+    "Recharge time": [],
+    "Battery capacity (mAh)": [],
+    "Wireless Charging Type": [
+     "MagSafe"
+    ],
+    "Face unlock": [
+     "Yes"
+    ],
+    "Fingerprint sensor": [],
+    "Processor series": [
+     "A20 Pro chip"
+    ],
+    "Processor Model Number": [],
+    "Good for gaming": [
+     "Yes"
+    ],
+    "RAM (GB)": [],
+    "Rear Cameras (MP)": [
+     "48MP + 48MP + 48MP"
+    ],
+    "Front camera (MP)": [
+     "18MP"
+    ],
+    "Built-in flash": [
+     "True"
+    ],
+    "Face detection": [
+     "False"
+    ],
+    "Smile Detection": [
+     "False"
+    ],
+    "Image stabilisation": [
+     "Yes"
+    ],
+    "Digital zoom": [],
+    "Video recording": [
+     "Ultra HD"
+    ],
+    "Video Frames Per Second": [
+     "4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, 60 fps, 100 fps (Fusion Main) or 120 fps (Fusion Main)"
+    ],
+    "Environmental protection": [
+     "Water resistant"
+    ],
+    "IPX rating": [],
+    "IP rating": [
+     "IP68"
+    ],
+    "GPS": [
+     "Yes"
+    ],
+    "Mini USB ports": [],
+    "Micro USB ports": [],
+    "Apple connector type": [],
+    "USB (Type-C) Port": [
+     "3.0"
+    ],
+    "USB-C Ports": [
+     1
+    ],
+    "USB-C Power Delivery": [],
+    "NFC": [
+     "True"
+    ],
+    "Headphone port (3.5mm)": [
+     "False"
+    ],
+    "Wi-Fi": [
+     "Wi-Fi 7 (802.11 be)"
+    ],
+    "Bluetooth": [
+     "v6.0"
+    ],
+    "Product condition": [],
+    "IMEI required": [
+     "True"
+    ],
+    "Manufacturer's warranty": [
+     "1 Year"
+    ],
+    "Warranty notes": [],
+    "Brand": [
+     "APPLE"
+    ],
+    "Sold by": [
+     "JB Hi-Fi"
+    ],
+    "Category": [
+     "Apple iPhone"
+    ],
+    "Primary Category": [
+     "Mobile Phones"
+    ],
+    "Price": [
+     2299
+    ],
+    "Condition": [
+     "New"
+    ],
+    "Availability": [
+     "Available Now"
+    ],
+    "Display Models In-Store": []
+   },
+   "category": "Apple iPhone",
+   "category_id": 1920,
+   "category_hierarchy": [
+    "Mobile Phones",
+    "Outright phones",
+    "Apple iPhone"
+   ],
+   "category_levels": {
+    "level0": "Mobile Phones",
+    "level1": "Outright phones",
+    "level2": "Apple iPhone"
+   },
+   "collectionHandles": [
+    "iphone-18-series",
+    "gaming-phones",
+    "back-to-school-on-apple",
+    "apple",
+    "back-to-school-on-mobile-phones",
+    "5g-phones",
+    "iphones",
+    "iphone-18-pro-max",
+    "apple-ipad-7th-gen",
+    "all-mobile-phones",
+    "new-phones",
+    "mobile-phones"
+   ],
+   "collectionHierarchy": [
+    "mobile-phones > iphone-18-series",
+    "mobile-phones > gaming-phones",
+    "back-to-school-on-apple",
+    "apple",
+    "back-to-school-on-mobile-phones",
+    "mobile-phones > 5g-phones",
+    "mobile-phones > iphones",
+    "mobile-phones > iphone-18-pro-max",
+    "apple-ipad-7th-gen",
+    "mobile-phones > all-mobile-phones",
+    "mobile-phones > new-phones",
+    "mobile-phones"
+   ],
+   "sponsoredCollectionHierarchy": [
+    "mobile-phones",
+    "back-to-school-on-mobile-phones",
+    "mobile-phones > iphone-18-series",
+    "mobile-phones > gaming-phones",
+    "mobile-phones > 5g-phones",
+    "mobile-phones > iphone-18-pro-max",
+    "mobile-phones > all-mobile-phones",
+    "mobile-phones > new-phones"
+   ],
+   "updated_at": "2026-10-28T13:07:16+00:00",
+   "created_at": "2026-09-09T19:18:04+00:00",
+   "published_at": "2026-09-09T21:04:22+00:00",
+   "shopify_timestamp": "2026-10-28T13:07:16+00:00",
+   "online_product_timestamp": "2026-10-28T09:57:00.8331867+00:00",
+   "family": {},
+   "isPublic": true,
+   "in_stock_store_ids": [
+    1,
+    3,
+    4,
+    6,
+    8,
+    10,
+    13,
+    15,
+    18,
+    19,
+    21,
+    23,
+    25,
+    26,
+    30,
+    31,
+    33,
+    34,
+    36,
+    37,
+    42,
+    44,
+    45,
+    49,
+    50,
+    51,
+    52,
+    53,
+    55,
+    57,
+    60,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    71,
+    72,
+    73,
+    74,
+    75,
+    79,
+    80,
+    81,
+    83,
+    85,
+    90,
+    92,
+    94,
+    96,
+    98,
+    99,
+    100,
+    104,
+    117,
+    119,
+    123,
+    124,
+    125,
+    128,
+    129,
+    131,
+    132,
+    133,
+    135,
+    136,
+    137,
+    139,
+    140,
+    142,
+    145,
+    148,
+    150,
+    151,
+    153,
+    154,
+    156,
+    157,
+    163,
+    164,
+    165,
+    166,
+    167,
+    169,
+    171,
+    172,
+    177,
+    178,
+    179,
+    183,
+    193,
+    194,
+    195,
+    196,
+    203,
+    205,
+    206,
+    210,
+    212,
+    214,
+    215,
+    217,
+    223,
+    224,
+    229,
+    232,
+    234,
+    237,
+    238,
+    240,
+    243,
+    244,
+    245,
+    246,
+    247,
+    249,
+    254,
+    257,
+    261
+   ],
+   "promotionEndDate": "2026-10-21T12:59:00+00:00",
+   "month_combined_bucket": 22,
+   "month_combined_bucket_stores": 11,
+   "month_combined_bucket_TOTAL": 22.0,
+   "objectID": "922116",
+   "_highlightResult": {
+    "sku": {
+     "value": "922116",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Apple <em>iPhone</em> 18 Pro Max 256GB (Black)",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iphone"
+     ]
+    },
+    "product": {
+     "model": {
+      "value": "MJXN4X/A",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     "supplierProductDetails": [
+      {
+       "supplierEAN13": {
+        "value": "195951411620",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      },
+      {
+       "supplierEAN13": {
+        "value": "195951411620",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      }
+     ]
+    },
+    "facets": {
+     "Brand": [
+      {
+       "value": "APPLE",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    },
+    "category": {
+     "value": "Apple <em>iPhone</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iphone"
+     ]
+    }
+   }
+  },
+  {
+   "sku": "922105",
+   "familyId": "e5ed10ef-8cad-4b00-87ea-1442ed0d2f48",
+   "product_id": 7337822224585,
+   "variant_id": 40429430210761,
+   "title": "Apple iPhone 18 Pro 512GB (Burgundy)",
+   "primary_title": "Apple iPhone 18 Pro 512GB (Burgundy)",
+   "secondary_title": "",
+   "weight": 0.36,
+   "onPromotion": false,
+   "bnplExcluded": false,
+   "isMarketplace": false,
+   "button": "Buy",
+   "deliveryTag": "",
+   "handle": "apple-iphone-18-pro-512gb-burgundy",
+   "vendor": "APPLE",
+   "preamble": "",
+   "product_published": true,
+   "product_image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/922105-Product-0-I-639245789405240416.jpg?v=1793072118",
+   "product_type": "COMMUNICATIONS",
+   "release_date": 1789653600,
+   "inventory_management": "shopify",
+   "brand_image_url": "",
+   "weighted_average_rating": 2.87535,
+   "price": 2499,
+   "compare_at_price": "",
+   "taxable": true,
+   "showPerksPrice": false,
+   "pricing": {
+    "displayPriceInc": 2499,
+    "displayPriceEx": 2271.82,
+    "displayPriceTax": 227.18,
+    "displayWasPrice": false,
+    "priceAfterCashback": 2499,
+    "cashbackAmount": 0,
+    "displayPriceAfterCashback": false,
+    "coreTicketPrice": 2499,
+    "createdDate": "2026-04-24T01:35:03.5964249+00:00",
+    "timestamp": "0001-01-01T00:00:00+00:00"
+   },
+   "perksPricing": null,
+   "tags": "Brand:Apple,InStock",
+   "banner_tags": {},
+   "priceBannerTag": {},
+   "google_tag_manager": {
+    "brand": "APPLE",
+    "category": "COMMUNICATIONS/APPLE iPHONE - OUTRIGHT/APPLE",
+    "dimension4": "4.5",
+    "dimension5": "8",
+    "dimension6": "TRADE IN YOUR OLD PHONE",
+    "dimension7": "In stock",
+    "id": "922105",
+    "name": "Apple iPhone 18 Pro 512GB (Burgundy)",
+    "price": 2499,
+    "displayWasPrice": false,
+    "saveAmount": 0,
+    "variants": [
+     {
+      "name": "Colour",
+      "value": "Burgundy"
+     },
+     {
+      "name": "Internal storage",
+      "value": "512GB"
+     }
+    ]
+   },
+   "promo_tags": [
+    {
+     "label": "TRADE IN YOUR OLD PHONE"
+    }
+   ],
+   "all_calculated_product_tags": [
+    "TRADE IN YOUR OLD PHONE"
+   ],
+   "categoryBrand": "Mobile Phones.APPLE",
+   "availabilityRank": 1,
+   "productGroup": {
+    "id": 825,
+    "description": "APPLE iPHONE - OUTRIGHT"
+   },
+   "department": {
+    "id": 80,
+    "description": "COMMUNICATIONS"
+   },
+   "display": {
+    "artist": "IPHONE 18 PRO",
+    "tracklist": [],
+    "actors": "",
+    "directors": "",
+    "images": [
+     {
+      "ImageIndex": 0,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922105-Product-0-I-639245789405240416.jpg"
+     },
+     {
+      "ImageIndex": 1,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922105-Product-1-I-639245789404773113.jpg"
+     },
+     {
+      "ImageIndex": 2,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922105-Product-2-I-639245789405017101.jpg"
+     },
+     {
+      "ImageIndex": 3,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922105-Product-3-I-639245789404893001.jpg"
+     },
+     {
+      "ImageIndex": 4,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922105-Product-4-I-639245789405124416.jpg"
+     },
+     {
+      "ImageIndex": 5,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922105-Product-5-I-639245789405123424.jpg"
+     },
+     {
+      "ImageIndex": 6,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922105-Product-6-I-639245789405038558.jpg"
+     },
+     {
+      "ImageIndex": 7,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922105-Product-7-I-639245789404837702.jpg"
+     },
+     {
+      "ImageIndex": 8,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922105-Product-8-I-639245789404509816.jpg"
+     },
+     {
+      "ImageIndex": 9,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922105-Product-9-I-639245789403705963.jpg"
+     },
+     {
+      "ImageIndex": 10,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/922105-Product-10-I-639286683003991616.jpg"
+     }
+    ],
+    "keyFeatures": [
+     "Built to last with an aluminium unibody design featuring colour-matched back glass",
+     "A 6.3-inch Super Retina XDR display",
+     "48MP Fusion Main camera with variable aperture for improved low-light photos and videos"
+    ],
+    "categoryHierarchy": [
+     "Mobile Phones",
+     "Outright phones",
+     "Apple iPhone"
+    ],
+    "graphicAttributes": [
+     {
+      "Index": 6,
+      "Name": "Network compatibility",
+      "Text": "5G",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-177363.jpeg",
+      "ImageHash": "9BF17E30B220FBCE3915718CD93EF551"
+     },
+     {
+      "Index": 46,
+      "Name": "Touchscreen",
+      "Text": "1",
+      "ContentType": "Boolean",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-176913.png",
+      "ImageHash": "398AC1A6315F91094E73813D63CB5218"
+     }
+    ],
+    "messages": [
+     {
+      "Id": "d0212843-1f5e-4717-8220-8978d78e7e40",
+      "Type": "Messages",
+      "SubType": "Warning",
+      "Start": null,
+      "Finish": null,
+      "Priority": 1,
+      "Name": "Limit 2 per customer -iphone 18",
+      "OnlineTag": "",
+      "Heading": "Please note:",
+      "ShortDescription": "",
+      "Description": "<p>Limit 2 per customer</p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": null,
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-10-02T00:13:24.2852067+00:00"
+     },
+     {
+      "Id": "6e970b14-83e7-46ce-bd52-f5b0b4798e65",
+      "Type": "Messages",
+      "SubType": "Warning",
+      "Start": null,
+      "Finish": null,
+      "Priority": 2,
+      "Name": "telco-apple-iphone-comparison-paid-promo-ongoing ",
+      "OnlineTag": "",
+      "Heading": "Feature",
+      "ShortDescription": "",
+      "Description": "<p><a href=\"https://www.jbhifi.com.au/pages/compare-iphone-models\" rel=\"noopener noreferrer\" target=\"_blank\">Compare iPhone models here</a></p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": null,
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-10-22T06:31:55.916586+00:00"
+     },
+     {
+      "Id": "e235520e-e189-4400-9bae-d012a20825f3",
+      "Type": "SpecialOffers",
+      "SubType": "TradeIn",
+      "Start": null,
+      "Finish": null,
+      "Priority": 3,
+      "Name": "telco-trade-in-iphone-apple-sponsored",
+      "OnlineTag": "TRADE IN YOUR OLD PHONE",
+      "Heading": "Trade in your old phone for a JB Hi-Fi Gift Card# ",
+      "ShortDescription": "",
+      "Description": "<p>- Get a quick quote online</p><p>- Get your e-Gift Card immediately</p><p>- Upgrade to your new device faster</p><p>&lt;cta href=\"https://www.jbhifi.com.au/pages/jbtradein\"&gt;Get a quote now&lt;/cta&gt;</p><p>&lt;disclaimer&gt;#The JB Hi-Fi Trade-in program is operated by Assurant Services Australia Pty Limited ABN 18 613 632 367, Second Hand Dealer 2PS20872. Participant must be AU resident aged 18+ with trade-in device purchased in AU. Assurant is not required to make an offer on your device. The JB Hi-Fi eGift Card given in exchange for a trade-in is subject to <a href=\"https://support.jbhifi.com.au/hc/en-au/articles/360052939334-Gift-Card-Terms-Conditions\" rel=\"noopener noreferrer\" target=\"_blank\">Terms and Conditions</a>. Pre-authorisation will be taken from participant’s payment card. If traded in device is not received within 7 days after your trade-in, Assurant may debit the trade-in value from your payment card. <a href=\"https://jbhifi-tradein.assurant.com.au/terms-and-conditions\" rel=\"noopener noreferrer\" target=\"_blank\">Assurant Terms and Conditions apply</a>.&lt;/disclaimer&gt;</p><p><br></p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": "https://jbhallprdmsgapidataprod.blob.core.windows.net/uploads/c7d7d64e-32b3-4396-8e2d-3ae86cb918de.PNG",
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-09-14T02:49:00.0953677+00:00"
+     },
+     {
+      "Id": "d4fd5766-260f-4b08-8b0c-ee3b7dd4b354",
+      "Type": "SpecialOffers",
+      "SubType": "ByoPhonePlan",
+      "Start": "2026-10-28T13:00:00+00:00",
+      "Finish": "2026-11-11T12:59:00+00:00",
+      "Priority": 6,
+      "Name": "telco-phone-$1000 gc byo-2026/10/29",
+      "OnlineTag": "",
+      "Heading": "Get a $1000 JB Gift Card◊ when you switch your number instore to JB HI-FI Mobile on a $89~ Plan over 24 months‡",
+      "ShortDescription": "",
+      "Description": "<p>- ~Plan reverts to $99 per month after 24 Months.</p><p>- Unlimited talk &amp; text to standard Australian numbers</p><p>- 300GB data for use in Australia</p><p>- Minimum Plan Cost $2136 over 24 months.</p><p>- Instore only</p><p>&lt;cta href=\"https://www.jbhifi.com.au/pages/upfront-mobile-plans\"&gt;View full terms and conditions&lt;/cta&gt;</p><p>&lt;disclaimer&gt;◊Offer only available for new mobile services and eligible port-in mobile services (being an existing mobile service transferred from another provider, excluding any service that has been active on a Telstra, JB Hi-Fi, The Good Guys, or Boost plan at any time in the 30 days before the transfer). The JB Hi-Fi Gift Card (referred to as the “JB Hi-Fi Voucher” in the Telstra Terms and Conditions available at <a href=\"https://www.telstra.com.au/content/dam/tcom/personal/consumer-advice/pdf/consumer/jb-hi-fi-standard-terms-upfront-mobile-service-terms.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">www.telstra.com.au/jbhifi-mobile-terms</a>) will be available to you in store after connection approval by Telstra. The $1000 JB Hi-Fi Gift Card replaces the value of the Voucher stated in the Critical Information Summary. This plan requires you to pay 24 monthly instalments. If you cancel or move to a lower cost/different plan before you have paid 24 monthly instalments in full, then you must pay a Voucher Repayment Fee to Telstra pro-rated against the remaining instalments (or part instalments). This offer is not available in conjunction with any other JB Hi-Fi Mobile or Broadband offer and is limited to 3 connections per customer. Gift Card subject to Terms and Conditions available at <a href=\"https://www.jbhifi.com.au/pages/help-and-support/gift-card-terms-and-conditions\" rel=\"noopener noreferrer\" target=\"_blank\">www.jbhifi.com.au/giftcardterms</a>. ‡Speeds may vary due to various factors such as location, hardware and network congestion. If you exceed your data allowance, your speed will be capped at 1.5Mbps. Speed is slowed further in busy periods. For full Terms &amp; Conditions and Critical Information Summary visit <a href=\"https://www.jbhifi.com.au/pages/upfront-mobile-plans\" rel=\"noopener noreferrer\" target=\"_blank\">www.jbhifi.com.au/mobile-plans</a>. Available instore only.&lt;/disclaimer&gt;</p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": "https://jbhallprdmsgapidataprod.blob.core.windows.net/uploads/19fcfd95-3213-4277-814b-f25352c4d839.JPG",
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-10-21T03:39:31.0393672+00:00"
+     },
+     {
+      "Id": "67def5fa-ca25-40b0-b188-df0d46c59474",
+      "Type": "SpecialOffers",
+      "SubType": "Subscription",
+      "Start": "2026-09-07T14:00:00+00:00",
+      "Finish": "2027-09-05T13:59:59+00:00",
+      "Priority": 9,
+      "Name": "apple music-6 month-offer-product groups-2026/09/10",
+      "OnlineTag": "",
+      "Heading": "Buy an Eligible Apple or Beats product and get a bonus 6-month Apple Music subscription*. New subscribers only. Ends 5/9/2027.",
+      "ShortDescription": "",
+      "Description": "<p>&lt;disclaimer&gt;*<span style=\"color: black;\">Offer valid for Eligible Apple or Beats purchases made by 5/9/2027. Eligible Apple products include any new iPhone, iPad, Apple TV, Apple Watch or Mac (capable of running the latest iOS, iPadOS, tvOS, watchOS or macOS), AirPods (2nd and 3rd generations), AirPods 4 and AirPods 5 (all models), AirPods Pro (all generations), AirPods Max, HomePod mini, and HomePod (all generations). Eligible Beats products include any new Beats earbuds (excluding Beats Flex wireless earbuds), Beats speakers and/or Beats headphone. Bonus subscription must be claimed within 90 days of device setup in the Apple Music app whilst signed into your Apple Account. Subscription automatically charged after expiration of bonus subscription period, billed on a recurring monthly basis, unless you cancel before bonus subscription period ends. Subscription fees currently $14.99/month. Subscription fees may change. One offer per eligible Apple Account. Offer cannot be combined with other free trial offers for Apple Music or Apple One. Apple Music T&amp;Cs at </span><a href=\"https://www.apple.com/au/legal/internet-services/itunes/au/terms.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\">https://www.apple.com/au/legal/internet-services/itunes/au/terms.html</a><span style=\"color: black;\"> apply. Excludes refurbished product. For offer eligibility, other key terms and full T&amp;Cs visit </span><a href=\"https://www.jbhifi.com.au/pages/apple-music\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\">jbhifi.com.au/pages/apple-music</a>.&lt;/disclaimer&gt;</p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": "https://jbhallprdmsgapidataprod.blob.core.windows.net/uploads/99235245-cf43-443b-992f-1ff4cd89444b.PNG",
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-09-24T05:08:58.2805909+00:00"
+     }
+    ]
+   },
+   "product": {
+    "model": "MJRW4X/A",
+    "brand": "APPLE",
+    "productGroupId": 825,
+    "seasonCode": "M",
+    "supplierProductDetails": [
+     {
+      "supplierNumber": 10104,
+      "supplierName": "APPLE PTY LTD",
+      "supplierEAN13": "195951417325",
+      "supplierStockCode": "MJRW4X/A",
+      "supplierStockDescription": "IPHONE 18 PRO"
+     },
+     {
+      "supplierNumber": 10439,
+      "supplierName": "LIKEWIZE AUSTRALIA PTY LTD",
+      "supplierEAN13": "195951417325",
+      "supplierStockCode": "11901380731",
+      "supplierStockDescription": "IPHONE 18 PRO"
+     }
+    ],
+    "packagedDimensions": {
+     "height": 0.1687,
+     "width": 0.089,
+     "depth": 0.0299,
+     "weight": 0.36
+    },
+    "releaseDate": "2026-09-17T14:00:00+00:00",
+    "limitPerOrder": 2,
+    "freightPrice": 9.99,
+    "limitedRunPromotionItems": [],
+    "seller": {
+     "id": 0,
+     "name": "JB Hi-Fi"
+    },
+    "format": "APPLE iPHONE - OUTRIGHT ",
+    "showReviews": true,
+    "averageProductReviewRating": 4.5,
+    "numberOfProductReviews": 8,
+    "productGroupName": "APPLE iPHONE - OUTRIGHT",
+    "departmentName": "COMMUNICATIONS",
+    "releaseQuarter": "2026-3",
+    "productFlags": [
+     {
+      "Id": 2907294,
+      "Name": "Review",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2907266,
+      "Name": "Delivery",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2907265,
+      "Name": "Click & Collect",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2907267,
+      "Name": "In-Store",
+      "Start": null,
+      "Finish": null
+     }
+    ],
+    "description": "APPLE IPHONE 18 PRO 512GB BURGUNDY",
+    "departmentCode": 80,
+    "releaseDateText": "",
+    "eligibleForServices": true,
+    "freeBonusSkus": [],
+    "id": "922105"
+   },
+   "availability": {
+    "displayProduct": true,
+    "canBuyOnline": true,
+    "canPreOrder": false,
+    "fulfilment": "Physical",
+    "deliveryFromOnlineWarehouseOnly": false,
+    "deliveryConstraint": "CountryWide",
+    "deliveryStatus": "InStock",
+    "clickNCollectStatus": "InStock",
+    "cashNCarryStatus": "InStock",
+    "overallStatus": "InStock",
+    "availabilityStatement": "In stock",
+    "deliveryOnly": false,
+    "availableNow": "Available Now",
+    "productLifecycle": "Replenishable",
+    "isHiddenByFamily": false
+   },
+   "tieredDetails": [],
+   "facets": {
+    "Phone Operating System": [
+     "iOS"
+    ],
+    "Phone Type": [
+     "iPhone 18 Pro"
+    ],
+    "Phone series": [
+     "Apple iPhone 18 Series"
+    ],
+    "Kids phone": [],
+    "Foldable phone": [],
+    "Network compatibility": [
+     "5G"
+    ],
+    "SIM Type": [
+     "Dual SIM (nano-SIM + eSIM)"
+    ],
+    "Colour": [
+     "Purple"
+    ],
+    "AI features": [
+     "Built for Apple Intelligence"
+    ],
+    "Device screen size (inches)": [
+     6.3
+    ],
+    "Resolution (Pixels)": [
+     "2622 x 1206"
+    ],
+    "Display type": [
+     "Super Retina XDR display"
+    ],
+    "Brightness (Nits)": [],
+    "Touchscreen": [
+     "True"
+    ],
+    "Internal storage": [
+     "512GB"
+    ],
+    "Expandable memory up to": [],
+    "Expandable memory format": [],
+    "Battery life": [],
+    "Recharge time": [],
+    "Battery capacity (mAh)": [],
+    "Wireless Charging Type": [
+     "MagSafe"
+    ],
+    "Face unlock": [
+     "Yes"
+    ],
+    "Fingerprint sensor": [],
+    "Processor series": [
+     "A20 Pro chip"
+    ],
+    "Processor Model Number": [],
+    "Good for gaming": [
+     "Yes"
+    ],
+    "RAM (GB)": [],
+    "Rear Cameras (MP)": [
+     "48MP + 48MP + 48MP"
+    ],
+    "Front camera (MP)": [
+     "18MP"
+    ],
+    "Built-in flash": [
+     "True"
+    ],
+    "Face detection": [
+     "False"
+    ],
+    "Smile Detection": [
+     "False"
+    ],
+    "Image stabilisation": [
+     "Yes"
+    ],
+    "Digital zoom": [],
+    "Video recording": [
+     "Ultra HD"
+    ],
+    "Video Frames Per Second": [
+     "4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, 60 fps, 100 fps (Fusion Main) or 120 fps (Fusion Main)"
+    ],
+    "Environmental protection": [
+     "Water resistant"
+    ],
+    "IPX rating": [],
+    "IP rating": [
+     "IP68"
+    ],
+    "GPS": [
+     "Yes"
+    ],
+    "Mini USB ports": [],
+    "Micro USB ports": [],
+    "Apple connector type": [],
+    "USB (Type-C) Port": [
+     "3.0"
+    ],
+    "USB-C Ports": [
+     1
+    ],
+    "USB-C Power Delivery": [],
+    "NFC": [
+     "True"
+    ],
+    "Headphone port (3.5mm)": [
+     "False"
+    ],
+    "Wi-Fi": [
+     "Wi-Fi 7 (802.11 be)"
+    ],
+    "Bluetooth": [
+     "v6.0"
+    ],
+    "Product condition": [],
+    "IMEI required": [
+     "True"
+    ],
+    "Manufacturer's warranty": [
+     "1 Year"
+    ],
+    "Warranty notes": [],
+    "Brand": [
+     "APPLE"
+    ],
+    "Sold by": [
+     "JB Hi-Fi"
+    ],
+    "Category": [
+     "Apple iPhone"
+    ],
+    "Primary Category": [
+     "Mobile Phones"
+    ],
+    "Price": [
+     2499
+    ],
+    "Condition": [
+     "New"
+    ],
+    "Availability": [
+     "Available Now"
+    ],
+    "Display Models In-Store": []
+   },
+   "category": "Apple iPhone",
+   "category_id": 1920,
+   "category_hierarchy": [
+    "Mobile Phones",
+    "Outright phones",
+    "Apple iPhone"
+   ],
+   "category_levels": {
+    "level0": "Mobile Phones",
+    "level1": "Outright phones",
+    "level2": "Apple iPhone"
+   },
+   "collectionHandles": [
+    "iphone-18-series",
+    "gaming-phones",
+    "back-to-school-on-apple",
+    "apple",
+    "back-to-school-on-mobile-phones",
+    "5g-phones",
+    "iphones",
+    "apple-ipad-7th-gen",
+    "all-mobile-phones",
+    "iphone-18-pro",
+    "new-phones",
+    "mobile-phones"
+   ],
+   "collectionHierarchy": [
+    "mobile-phones > iphone-18-series",
+    "mobile-phones > gaming-phones",
+    "back-to-school-on-apple",
+    "apple",
+    "back-to-school-on-mobile-phones",
+    "mobile-phones > 5g-phones",
+    "mobile-phones > iphones",
+    "apple-ipad-7th-gen",
+    "mobile-phones > all-mobile-phones",
+    "mobile-phones > iphone-18-pro",
+    "mobile-phones > new-phones",
+    "mobile-phones"
+   ],
+   "sponsoredCollectionHierarchy": [
+    "mobile-phones",
+    "back-to-school-on-mobile-phones",
+    "mobile-phones > iphone-18-series",
+    "mobile-phones > gaming-phones",
+    "mobile-phones > 5g-phones",
+    "mobile-phones > all-mobile-phones",
+    "mobile-phones > iphone-18-pro",
+    "mobile-phones > new-phones"
+   ],
+   "updated_at": "2026-10-28T13:01:57+00:00",
+   "created_at": "2026-09-09T19:30:04+00:00",
+   "published_at": "2026-09-09T21:03:12+00:00",
+   "shopify_timestamp": "2026-10-28T13:01:57+00:00",
+   "online_product_timestamp": "2026-10-28T10:42:45.4045997+00:00",
+   "family": {},
+   "isPublic": true,
+   "in_stock_store_ids": [
+    1,
+    3,
+    4,
+    8,
+    10,
+    13,
+    14,
+    15,
+    18,
+    19,
+    21,
+    25,
+    26,
+    29,
+    30,
+    31,
+    43,
+    44,
+    48,
+    50,
+    51,
+    52,
+    53,
+    54,
+    56,
+    57,
+    60,
+    61,
+    64,
+    65,
+    73,
+    81,
+    82,
+    83,
+    84,
+    85,
+    88,
+    93,
+    94,
+    95,
+    97,
+    98,
+    99,
+    100,
+    104,
+    117,
+    118,
+    119,
+    120,
+    123,
+    125,
+    126,
+    128,
+    129,
+    130,
+    132,
+    133,
+    135,
+    136,
+    137,
+    139,
+    140,
+    141,
+    148,
+    150,
+    151,
+    157,
+    160,
+    163,
+    170,
+    171,
+    178,
+    179,
+    181,
+    186,
+    190,
+    191,
+    193,
+    202,
+    203,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    216,
+    217,
+    224,
+    225,
+    227,
+    228,
+    232,
+    234,
+    236,
+    241,
+    246,
+    253,
+    254,
+    257,
+    259,
+    262,
+    265
+   ],
+   "promotionEndDate": "2026-10-21T12:59:00+00:00",
+   "month_combined_bucket": 22,
+   "month_combined_bucket_stores": 11,
+   "month_combined_bucket_TOTAL": 22.0,
+   "objectID": "922105",
+   "_highlightResult": {
+    "sku": {
+     "value": "922105",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Apple <em>iPhone</em> 18 Pro 512GB (Burgundy)",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iphone"
+     ]
+    },
+    "product": {
+     "model": {
+      "value": "MJRW4X/A",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     "supplierProductDetails": [
+      {
+       "supplierEAN13": {
+        "value": "195951417325",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      },
+      {
+       "supplierEAN13": {
+        "value": "195951417325",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      }
+     ]
+    },
+    "facets": {
+     "Brand": [
+      {
+       "value": "APPLE",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    },
+    "category": {
+     "value": "Apple <em>iPhone</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iphone"
+     ]
+    }
+   }
+  }
+ ],
+ "nbHits": 1957,
+ "page": 0,
+ "nbPages": 653,
+ "hitsPerPage": 3,
+ "facets": {
+  "onPromotion": {
+   "false": 1954,
+   "true": 3
+  },
+  "facets.Brand": {
+   "APPLE": 1957
+  },
+  "isMarketplace": {
+   "true": 1887,
+   "false": 70
+  },
+  "facets.Sold by": {
+   "Green Gadgets": 1224,
+   "OzMobiles": 363,
+   "Bounce Mobile": 242,
+   "JB Hi-Fi": 70,
+   "Exyon": 30,
+   "Manly Laptops": 28
+  },
+  "facets.Condition": {
+   "Excellent": 567,
+   "As New": 468,
+   "Good": 415,
+   "Very Good": 412,
+   "New": 95
+  },
+  "banner_tags.label": {
+   "New at JB!": 8,
+   "On Sale": 3
+  },
+  "category_levels.level0": {
+   "Mobile Phones": 1957
+  },
+  "category_levels.level1": {
+   "Outright phones": 1957
+  },
+  "category_levels.level2": {
+   "Apple iPhone": 1957
+  },
+  "availability.overallStatus": {
+   "InStock": 1906,
+   "LimitedStock": 22,
+   "AwaitingStock": 18,
+   "TemporarilyUnavailable": 11
+  }
+ },
+ "exhaustiveFacetsCount": true,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "facetsCount": true,
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "iphone",
+ "params": "query=iphone&hitsPerPage=3&page=0&filters=price+%3E+0+AND+product_published+%3D+1+AND+availability.displayProduct+%3D+1&facets=%5B%22facets.Brand%22%2C+%22facets.Sold+by%22%2C+%22facets.Condition%22%2C+%22category_levels.level0%22%2C+%22category_levels.level1%22%2C+%22category_levels.level2%22%2C+%22isMarketplace%22%2C+%22onPromotion%22%2C+%22banner_tags.label%22%2C+%22availability.overallStatus%22%2C+%22price%22%5D&maxValuesPerFacet=20&analyticsTags=%5B%22ext-alg%23query-category%3Aquery-matched%22%2C%22ext-alg%23auto-filter%3Ahas-boosts%22%2C%22ext-alg%23auto-filter%3Aenabled%22%5D&optionalFilters=%5B%22category_levels.level0%3AMobile+Phones%22%2C%22category_levels.level1%3AOutright+phones%22%2C%22category_levels.level2%3AApple+iPhone%22%5D&filters=%22facets.Category%22%3A%22Apple+iPhone%22&optionalFilters=%5B%22isMarketplace%3Afalse%3Cscore%3D1%3E%22%2C%22facets.Product+condition%3A-Renewed%3Cscore%3D100%3E%22%2C%22facets.Product+condition%3A-Refurbished%3Cscore%3D200%3E%22%2C%22isMarketplace%3A-true%3Cscore%3D300%3E%22%5D&enableReRanking=false",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {
+   "autofiltering": {
+    "enabled": true,
+    "maxDepth": 5,
+    "facetFilters": [],
+    "optionalFilters": [
+     "category_levels.level0:Mobile Phones",
+     "category_levels.level1:Outright phones",
+     "category_levels.level2:Apple iPhone"
+    ]
+   },
+   "categories": [
+    {
+     "bin": "certain",
+     "hierarchyPath": [
+      {
+       "facetName": "category_levels.level0",
+       "facetValue": "Mobile Phones",
+       "depth": 0
+      },
+      {
+       "facetName": "category_levels.level1",
+       "facetValue": "Outright phones",
+       "depth": 1
+      },
+      {
+       "facetName": "category_levels.level2",
+       "facetValue": "Apple iPhone",
+       "depth": 2
+      }
+     ]
+    }
+   ],
+   "count": 139684,
+   "normalizedQuery": "iphone",
+   "type": "narrow"
+  }
+ },
+ "processingTimeMS": 8,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 333
+  },
+  "extensions": 2,
+  "fetch": {
+   "query": 1,
+   "scanning": 2,
+   "total": 5
+  },
+  "total": 8
+ },
+ "serverTimeMS": 9
+}

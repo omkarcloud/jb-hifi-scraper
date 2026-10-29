@@ -1,0 +1,35 @@
+{
+ "hits": [],
+ "nbHits": 0,
+ "page": 0,
+ "nbPages": 0,
+ "hitsPerPage": 3,
+ "facets": {},
+ "exhaustiveFacetsCount": true,
+ "exhaustiveNbHits": false,
+ "exhaustiveTypo": false,
+ "exhaustive": {
+  "facetsCount": true,
+  "nbHits": false,
+  "typo": false
+ },
+ "query": "zzqqxxnomatchzz",
+ "params": "query=zzqqxxnomatchzz&hitsPerPage=3&page=0&filters=price+%3E+0+AND+product_published+%3D+1+AND+availability.displayProduct+%3D+1&facets=%5B%22facets.Brand%22%2C+%22facets.Sold+by%22%2C+%22facets.Condition%22%2C+%22category_levels.level0%22%2C+%22category_levels.level1%22%2C+%22category_levels.level2%22%2C+%22isMarketplace%22%2C+%22onPromotion%22%2C+%22banner_tags.label%22%2C+%22availability.overallStatus%22%2C+%22price%22%5D&analyticsTags=%5B%22ext-alg%23auto-filter%3Aenabled%22%5D",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {}
+ },
+ "processingTimeMS": 10,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 334
+  },
+  "extensions": 1,
+  "fetch": {
+   "query": 6,
+   "total": 7
+  },
+  "total": 10
+ },
+ "serverTimeMS": 10
+}

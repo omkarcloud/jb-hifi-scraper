@@ -1,0 +1,32 @@
+{
+ "hits": [],
+ "nbHits": 0,
+ "page": 0,
+ "nbPages": 0,
+ "hitsPerPage": 20,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "",
+ "params": "query=&hitsPerPage=20&filters=familyId%3Afb9792bc-c965-43cd-aa94-762eec20f20b&analyticsTags=%5B%22ext-alg%23auto-filter%3Aenabled%22%5D",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {}
+ },
+ "processingTimeMS": 3,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 335
+  },
+  "extensions": 2,
+  "rulesProcessing": {
+   "drr": 1,
+   "total": 1
+  },
+  "total": 3
+ },
+ "serverTimeMS": 4
+}

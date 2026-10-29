@@ -1,0 +1,402 @@
+{
+ "hits": [
+  {
+   "sku": "912357",
+   "familyId": "",
+   "product_id": 7337918005449,
+   "variant_id": 40429530284233,
+   "title": "Grand Theft Auto VI: The Album (Soundtrack) (JB Hi-Fi AU Exclusive Pink / Blue Vinyl)",
+   "primary_title": "Grand Theft Auto VI: The Album (Soundtrack) (JB Hi-Fi AU Exclusive Pink / Blue Vinyl)",
+   "secondary_title": "",
+   "weight": 0.62,
+   "onPromotion": false,
+   "bnplExcluded": false,
+   "isMarketplace": false,
+   "button": "PreOrder",
+   "deliveryTag": "DeliveryFrom",
+   "handle": "vinyl-soundtrack-various-grand-theft-auto-vi-the-album-soundtrack-jb-hi-fi-au-exclusive-pink-blue-vinyl-2lp-colour-may-vary",
+   "vendor": "WARNER",
+   "preamble": "Soundtrack and Various Artists",
+   "product_published": true,
+   "product_image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/912357-Product-0-I-639252828602034398.jpg?v=1789686155",
+   "product_type": "MUSIC",
+   "release_date": 1795006800,
+   "inventory_management": "shopify",
+   "brand_image_url": "",
+   "weighted_average_rating": 0,
+   "price": 140,
+   "compare_at_price": "",
+   "taxable": true,
+   "showPerksPrice": false,
+   "pricing": {
+    "displayPriceInc": 140,
+    "displayPriceEx": 127.27,
+    "displayPriceTax": 12.73,
+    "displayWasPrice": false,
+    "priceAfterCashback": 140,
+    "cashbackAmount": 0,
+    "displayPriceAfterCashback": false,
+    "coreTicketPrice": 140,
+    "createdDate": "2026-09-17T22:39:01.8355729+00:00",
+    "timestamp": "0001-01-01T00:00:00+00:00"
+   },
+   "perksPricing": null,
+   "tags": "Brand:Warner,InStock",
+   "banner_tags": {
+    "label": "JB Exclusive"
+   },
+   "priceBannerTag": {},
+   "google_tag_manager": {
+    "brand": "WARNER",
+    "category": "MUSIC/VINYL - SOUNDTRACKS / VARIOUS/WARNER",
+    "dimension3": "JB Exclusive",
+    "dimension4": "0",
+    "dimension5": "0",
+    "dimension6": "",
+    "dimension7": "Pre-order online",
+    "id": "912357",
+    "name": "Grand Theft Auto VI: The Album (Soundtrack) (JB Hi-Fi AU Exclusive Pink / Blue Vinyl)",
+    "price": 140,
+    "displayWasPrice": false,
+    "saveAmount": 0,
+    "variants": []
+   },
+   "promo_tags": [],
+   "all_calculated_product_tags": [
+    "JB Exclusive",
+    "Pre-Order"
+   ],
+   "categoryBrand": "Music.WARNER",
+   "availabilityRank": 1,
+   "productGroup": {
+    "id": 1066,
+    "description": "VINYL - SOUNDTRACKS / VARIOUS"
+   },
+   "department": {
+    "id": 100,
+    "description": "MUSIC"
+   },
+   "display": {
+    "artist": "SOUNDTRACK (Various)",
+    "tracklist": [],
+    "actors": "",
+    "directors": "",
+    "images": [
+     {
+      "ImageIndex": 0,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/912357-Product-0-I-639252828602034398.jpg"
+     }
+    ],
+    "keyFeatures": [],
+    "categoryHierarchy": [
+     "Music",
+     "Vinyl"
+    ],
+    "graphicAttributes": [],
+    "messages": []
+   },
+   "product": {
+    "model": "7567857637",
+    "brand": "WARNER",
+    "productGroupId": 1066,
+    "seasonCode": "FIRM SALE",
+    "supplierProductDetails": [
+     {
+      "supplierNumber": 10748,
+      "supplierName": "INERTIA MUSIC",
+      "supplierEAN13": "75678576379",
+      "supplierStockCode": "7567857637",
+      "supplierStockDescription": "SOUNDTRACK (Various)"
+     }
+    ],
+    "packagedDimensions": {
+     "height": 0.316,
+     "width": 0.316,
+     "depth": 0.007,
+     "weight": 0.62
+    },
+    "releaseDate": "2026-11-18T13:00:00+00:00",
+    "limitPerOrder": 1,
+    "freightPrice": 9.99,
+    "limitedRunPromotionItems": [],
+    "seller": {
+     "id": 0,
+     "name": "JB Hi-Fi"
+    },
+    "format": "2LP (colour may vary)",
+    "showReviews": false,
+    "averageProductReviewRating": 0,
+    "numberOfProductReviews": 0,
+    "productGroupName": "VINYL - SOUNDTRACKS / VARIOUS",
+    "departmentName": "MUSIC",
+    "releaseQuarter": "2026-4",
+    "productFlags": [
+     {
+      "Id": 2982099,
+      "Name": "JB Exclusive",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2982086,
+      "Name": "Review",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2982100,
+      "Name": "Disable International Shipping",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2982098,
+      "Name": "Pre Order",
+      "Start": null,
+      "Finish": "2026-11-18T12:59:00+00:00"
+     },
+     {
+      "Id": 2982084,
+      "Name": "Delivery",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2982083,
+      "Name": "Click & Collect",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2982085,
+      "Name": "In-Store",
+      "Start": null,
+      "Finish": null
+     }
+    ],
+    "description": "GRAND THEFT AUTO VI (Game OST)(JB AU COL",
+    "departmentCode": 100,
+    "releaseDateText": "",
+    "eligibleForServices": false,
+    "freeBonusSkus": [],
+    "id": "912357"
+   },
+   "availability": {
+    "displayProduct": true,
+    "canBuyOnline": true,
+    "canPreOrder": true,
+    "fulfilment": "Physical",
+    "deliveryFromOnlineWarehouseOnly": false,
+    "deliveryConstraint": "CountryWide",
+    "deliveryStatus": "AwaitingStock",
+    "clickNCollectStatus": "NotAvailable",
+    "cashNCarryStatus": "NotAvailable",
+    "overallStatus": "InStock",
+    "availabilityStatement": "Pre-order online",
+    "deliveryOnly": true,
+    "availableNow": "Coming Soon",
+    "productLifecycle": "PreOrder",
+    "isHiddenByFamily": false
+   },
+   "tieredDetails": [],
+   "facets": {
+    "Primary Format - Music": [
+     "Vinyl"
+    ],
+    "Artist": [
+     "Soundtrack and Various Artists"
+    ],
+    "Label": [
+     "Atlantic"
+    ],
+    "Music Genre Primary": [
+     "Soundtrack"
+    ],
+    "Music Genre Secondary": [
+     "Compilation"
+    ],
+    "Sold by": [
+     "JB Hi-Fi"
+    ],
+    "Category": [
+     "Vinyl"
+    ],
+    "Primary Category": [
+     "Music"
+    ],
+    "Price": [
+     140
+    ],
+    "Condition": [
+     "New"
+    ],
+    "Availability": [
+     "Coming Soon"
+    ],
+    "Display Models In-Store": []
+   },
+   "category": "Vinyl",
+   "category_id": 1368,
+   "category_hierarchy": [
+    "Music",
+    "Vinyl"
+   ],
+   "category_levels": {
+    "level0": "Music",
+    "level1": "Vinyl"
+   },
+   "collectionHandles": [
+    "vinyl-pre-orders",
+    "the-simpsons-merch",
+    "all-genres",
+    "how-to-train-your-dragon",
+    "sony-gold-series",
+    "soundtracks-vinyl",
+    "pokemon",
+    "fast-and-furious",
+    "tmnt-merch",
+    "music-jb-exclusives",
+    "music-vinyl",
+    "karaoke-machines",
+    "picture-disc-vinyl",
+    "kung-fu-panda",
+    "music-by-genre",
+    "the-mandalorian-merch",
+    "game-of-thrones",
+    "mean-girls",
+    "coloured-vinyl",
+    "ghostbusters",
+    "naruto",
+    "jb-au-exclusive-limited-vinyl",
+    "vinyl",
+    "music-pre-orders",
+    "beetlejuice",
+    "back-to-the-future",
+    "k-pop-demon-hunters",
+    "soundtracks"
+   ],
+   "collectionHierarchy": [
+    "music > vinyl-pre-orders",
+    "collectibles-merchandise > the-simpsons-merch",
+    "music > all-genres",
+    "how-to-train-your-dragon",
+    "sony-gold-series",
+    "music > soundtracks-vinyl",
+    "collectibles-merchandise > pokemon",
+    "movies-tv-shows > fast-and-furious",
+    "collectibles-merchandise > tmnt-merch",
+    "music > music-jb-exclusives",
+    "music > music-vinyl",
+    "headphones-speakers-audio > karaoke-machines",
+    "music > picture-disc-vinyl",
+    "kung-fu-panda",
+    "music > music-by-genre",
+    "collectibles-merchandise > the-mandalorian-merch",
+    "movies-tv-shows > game-of-thrones",
+    "mean-girls",
+    "coloured-vinyl",
+    "ghostbusters",
+    "collectibles-merchandise > naruto",
+    "music > jb-au-exclusive-limited-vinyl",
+    "music > vinyl",
+    "music > music-pre-orders",
+    "beetlejuice",
+    "back-to-the-future",
+    "k-pop-demon-hunters",
+    "music > soundtracks"
+   ],
+   "sponsoredCollectionHierarchy": [
+    "music > vinyl-pre-orders",
+    "music > all-genres",
+    "music > soundtracks-vinyl",
+    "music > music-jb-exclusives",
+    "music > music-vinyl",
+    "music > music-by-genre",
+    "music > jb-au-exclusive-limited-vinyl",
+    "music > vinyl",
+    "music > music-pre-orders",
+    "music > soundtracks"
+   ],
+   "updated_at": "2026-10-02T17:18:06+00:00",
+   "created_at": "2026-09-17T23:02:33+00:00",
+   "published_at": "2026-09-17T23:02:37+00:00",
+   "shopify_timestamp": "2026-10-02T17:18:06+00:00",
+   "online_product_timestamp": "2026-10-02T17:06:10.3509739+00:00",
+   "family": {},
+   "isPublic": true,
+   "in_stock_store_ids": [],
+   "month_combined_bucket": 17,
+   "month_combined_bucket_stores": 4,
+   "month_combined_bucket_TOTAL": 15.4,
+   "objectID": "912357",
+   "_highlightResult": {
+    "sku": {
+     "value": "912357",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Grand Theft Auto VI: The Album (Soundtrack) (JB Hi-Fi AU Exclusive Pink / Blue Vinyl)",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "product": {
+     "model": {
+      "value": "7567857637",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     "supplierProductDetails": [
+      {
+       "supplierEAN13": {
+        "value": "75678576379",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      }
+     ]
+    },
+    "facets": {
+     "Artist": [
+      {
+       "value": "Soundtrack and Various Artists",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    },
+    "category": {
+     "value": "Vinyl",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  }
+ ],
+ "nbHits": 1,
+ "page": 0,
+ "nbPages": 1,
+ "hitsPerPage": 1,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "",
+ "params": "query=&hitsPerPage=1&filters=objectID%3A912357&analyticsTags=%5B%22ext-alg%23auto-filter%3Aenabled%22%5D",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {}
+ },
+ "processingTimeMS": 3,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 335
+  },
+  "extensions": 1,
+  "total": 3
+ },
+ "serverTimeMS": 4
+}

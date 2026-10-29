@@ -1,0 +1,373 @@
+{
+ "hits": [
+  {
+   "nb_words": 1,
+   "popularity": 187170,
+   "query": "iphone",
+   "shopify_products_families": {
+    "exact_nb_hits": 18401,
+    "facets": {
+     "exact_matches": {
+      "availability.displayProduct": [
+       {
+        "value": "false",
+        "count": 13223
+       },
+       {
+        "value": "true",
+        "count": 5178
+       }
+      ]
+     },
+     "analytics": {
+      "availability.displayProduct": [
+       {
+        "attribute": "availability.displayProduct",
+        "operator": "=",
+        "value": "1",
+        "count": 963090
+       }
+      ]
+     }
+    }
+   },
+   "objectID": "iphone",
+   "_highlightResult": {
+    "query": {
+     "value": "<em>iph</em>one",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iph"
+     ]
+    }
+   }
+  },
+  {
+   "nb_words": 4,
+   "popularity": 43906,
+   "query": "iphone 18 pro max",
+   "shopify_products_families": {
+    "exact_nb_hits": 214,
+    "facets": {
+     "exact_matches": {
+      "availability.displayProduct": [
+       {
+        "value": "true",
+        "count": 193
+       },
+       {
+        "value": "false",
+        "count": 21
+       }
+      ]
+     },
+     "analytics": {
+      "availability.displayProduct": [
+       {
+        "attribute": "availability.displayProduct",
+        "operator": "=",
+        "value": "1",
+        "count": 913637
+       }
+      ]
+     }
+    }
+   },
+   "objectID": "iphone 18 pro max",
+   "_highlightResult": {
+    "query": {
+     "value": "<em>iph</em>one 18 pro max",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iph"
+     ]
+    }
+   }
+  },
+  {
+   "nb_words": 2,
+   "popularity": 41860,
+   "query": "iphone 17",
+   "shopify_products_families": {
+    "exact_nb_hits": 1643,
+    "facets": {
+     "exact_matches": {
+      "availability.displayProduct": [
+       {
+        "value": "true",
+        "count": 944
+       },
+       {
+        "value": "false",
+        "count": 699
+       }
+      ]
+     },
+     "analytics": {
+      "availability.displayProduct": [
+       {
+        "attribute": "availability.displayProduct",
+        "operator": "=",
+        "value": "1",
+        "count": 599163
+       }
+      ]
+     }
+    }
+   },
+   "objectID": "iphone 17",
+   "_highlightResult": {
+    "query": {
+     "value": "<em>iph</em>one 17",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iph"
+     ]
+    }
+   }
+  },
+  {
+   "nb_words": 2,
+   "popularity": 28047,
+   "query": "iphone 18",
+   "shopify_products_families": {
+    "exact_nb_hits": 508,
+    "facets": {
+     "exact_matches": {
+      "availability.displayProduct": [
+       {
+        "value": "true",
+        "count": 376
+       },
+       {
+        "value": "false",
+        "count": 132
+       }
+      ]
+     },
+     "analytics": {
+      "availability.displayProduct": [
+       {
+        "attribute": "availability.displayProduct",
+        "operator": "=",
+        "value": "1",
+        "count": 347598
+       }
+      ]
+     }
+    }
+   },
+   "objectID": "iphone 18",
+   "_highlightResult": {
+    "query": {
+     "value": "<em>iph</em>one 18",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iph"
+     ]
+    }
+   }
+  },
+  {
+   "nb_words": 3,
+   "popularity": 20295,
+   "query": "iphone 17 pro",
+   "shopify_products_families": {
+    "exact_nb_hits": 1250,
+    "facets": {
+     "exact_matches": {
+      "availability.displayProduct": [
+       {
+        "value": "true",
+        "count": 750
+       },
+       {
+        "value": "false",
+        "count": 500
+       }
+      ]
+     },
+     "analytics": {
+      "availability.displayProduct": [
+       {
+        "attribute": "availability.displayProduct",
+        "operator": "=",
+        "value": "1",
+        "count": 300513
+       }
+      ]
+     }
+    }
+   },
+   "objectID": "iphone 17 pro",
+   "_highlightResult": {
+    "query": {
+     "value": "<em>iph</em>one 17 pro",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iph"
+     ]
+    }
+   }
+  },
+  {
+   "nb_words": 2,
+   "popularity": 18631,
+   "query": "iphone duo",
+   "shopify_products_families": {
+    "exact_nb_hits": 98,
+    "facets": {
+     "exact_matches": {
+      "availability.displayProduct": [
+       {
+        "value": "false",
+        "count": 54
+       },
+       {
+        "value": "true",
+        "count": 44
+       }
+      ]
+     },
+     "analytics": {
+      "availability.displayProduct": [
+       {
+        "attribute": "availability.displayProduct",
+        "operator": "=",
+        "value": "1",
+        "count": 275426
+       }
+      ]
+     }
+    }
+   },
+   "objectID": "iphone duo",
+   "_highlightResult": {
+    "query": {
+     "value": "<em>iph</em>one duo",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iph"
+     ]
+    }
+   }
+  },
+  {
+   "nb_words": 2,
+   "popularity": 18585,
+   "query": "iphone 16",
+   "shopify_products_families": {
+    "exact_nb_hits": 2325,
+    "facets": {
+     "exact_matches": {
+      "availability.displayProduct": [
+       {
+        "value": "false",
+        "count": 1471
+       },
+       {
+        "value": "true",
+        "count": 854
+       }
+      ]
+     },
+     "analytics": {
+      "availability.displayProduct": [
+       {
+        "attribute": "availability.displayProduct",
+        "operator": "=",
+        "value": "1",
+        "count": 184071
+       }
+      ]
+     }
+    }
+   },
+   "objectID": "iphone 16",
+   "_highlightResult": {
+    "query": {
+     "value": "<em>iph</em>one 16",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iph"
+     ]
+    }
+   }
+  },
+  {
+   "nb_words": 3,
+   "popularity": 18452,
+   "query": "iphone 18 pro",
+   "shopify_products_families": {
+    "exact_nb_hits": 429,
+    "facets": {
+     "exact_matches": {
+      "availability.displayProduct": [
+       {
+        "value": "true",
+        "count": 375
+       },
+       {
+        "value": "false",
+        "count": 54
+       }
+      ]
+     },
+     "analytics": {
+      "availability.displayProduct": [
+       {
+        "attribute": "availability.displayProduct",
+        "operator": "=",
+        "value": "1",
+        "count": 285677
+       }
+      ]
+     }
+    }
+   },
+   "objectID": "iphone 18 pro",
+   "_highlightResult": {
+    "query": {
+     "value": "<em>iph</em>one 18 pro",
+     "matchLevel": "full",
+     "fullyHighlighted": false,
+     "matchedWords": [
+      "iph"
+     ]
+    }
+   }
+  }
+ ],
+ "nbHits": 439,
+ "page": 0,
+ "nbPages": 55,
+ "hitsPerPage": 8,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "iph",
+ "params": "query=iph&hitsPerPage=8",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {}
+ },
+ "processingTimeMS": 2,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 335
+  },
+  "extensions": 1,
+  "total": 2
+ },
+ "serverTimeMS": 2
+}

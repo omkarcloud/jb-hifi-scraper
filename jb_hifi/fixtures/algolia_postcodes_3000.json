@@ -1,0 +1,62 @@
+{
+ "hits": [
+  {
+   "postcode": "3000",
+   "locality": "MELBOURNE",
+   "state": "VIC",
+   "category": "Delivery Area",
+   "description": "MELBOURNE VIC 3000",
+   "hasCoordinates": true,
+   "_geoloc": {
+    "lat": -37.811262,
+    "lng": 144.964609
+   },
+   "objectID": "202608035141",
+   "_highlightResult": {
+    "postcode": {
+     "value": "<em>3000</em>",
+     "matchLevel": "full",
+     "fullyHighlighted": true,
+     "matchedWords": [
+      "3000"
+     ]
+    },
+    "locality": {
+     "value": "MELBOURNE",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "state": {
+     "value": "VIC",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  }
+ ],
+ "nbHits": 1,
+ "page": 0,
+ "nbPages": 1,
+ "hitsPerPage": 3,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "3000",
+ "params": "query=3000&hitsPerPage=3",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {}
+ },
+ "processingTimeMS": 2,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 335
+  },
+  "extensions": 2,
+  "total": 2
+ },
+ "serverTimeMS": 2
+}

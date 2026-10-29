@@ -1,0 +1,465 @@
+{
+ "response": {
+  "Limit": 3,
+  "Offset": 0,
+  "TotalResults": 718,
+  "Locale": "en_US",
+  "Results": [
+   {
+    "Id": "272891053",
+    "CID": "027960f8-fe25-5a42-babe-04be3edd30dc",
+    "SourceClient": "samsung-en_au",
+    "LastModeratedTime": "2026-10-14T05:00:11.000+00:00",
+    "LastModificationTime": "2026-10-14T05:00:11.000+00:00",
+    "ProductId": "795454",
+    "OriginalProductName": "Galaxy S25(SM-S931BDBFATS)",
+    "AuthorId": "7ec4208veh6rdtyafavw48asv",
+    "ContentLocale": "en_AU",
+    "IsFeatured": false,
+    "TotalInappropriateFeedbackCount": 0,
+    "IsSyndicated": true,
+    "SyndicationSource": {
+     "ClientId": null,
+     "LogoImageUrl": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/38d22ab4-7b62-479c-939d-305bb3f75a1c",
+     "ContentLink": "https://www.samsung.com/au/smartphones/galaxy-s25/reviews/",
+     "Name": "Samsung Australia"
+    },
+    "TotalClientResponseCount": 1,
+    "TotalCommentCount": 0,
+    "Rating": 5,
+    "SecondaryRatingsOrder": [
+     "Features",
+     "Performance",
+     "Design",
+     "Value"
+    ],
+    "IsRatingsOnly": false,
+    "IsRecommended": true,
+    "ModerationStatus": "APPROVED",
+    "SubmissionTime": "2026-10-13T00:40:45.000+00:00",
+    "ReviewText": "[This review was collected as part of a promotion.] Been using for 6 months, it's done everything I need it to do. Good size to hold and pocket.",
+    "Title": "Good solid phone",
+    "UserNickname": "Lethal lee",
+    "SecondaryRatings": {
+     "Value": {
+      "Value": 4,
+      "Id": "Value",
+      "ValueLabel": null,
+      "ValueRange": 5,
+      "Label": null,
+      "MinLabel": null,
+      "DisplayType": "NORMAL",
+      "MaxLabel": null
+     },
+     "Performance": {
+      "Value": 5,
+      "Id": "Performance",
+      "ValueLabel": null,
+      "ValueRange": 5,
+      "Label": null,
+      "MinLabel": null,
+      "DisplayType": "NORMAL",
+      "MaxLabel": null
+     },
+     "Design": {
+      "Value": 5,
+      "Id": "Design",
+      "ValueLabel": null,
+      "ValueRange": 5,
+      "Label": null,
+      "MinLabel": null,
+      "DisplayType": "NORMAL",
+      "MaxLabel": null
+     },
+     "Features": {
+      "Value": 4,
+      "Id": "Features",
+      "ValueLabel": null,
+      "ValueRange": 5,
+      "Label": null,
+      "MinLabel": null,
+      "DisplayType": "NORMAL",
+      "MaxLabel": null
+     }
+    },
+    "Helpfulness": null,
+    "BadgesOrder": [],
+    "CommentIds": [],
+    "RatingRange": 5,
+    "ClientResponses": [],
+    "Badges": {},
+    "Pros": null,
+    "UserLocation": null,
+    "ContextDataValuesOrder": [],
+    "InappropriateFeedbackList": [],
+    "ProductRecommendationIds": [],
+    "ContextDataValues": {},
+    "Cons": null,
+    "TotalPositiveFeedbackCount": 0,
+    "TagDimensions": {},
+    "Photos": [],
+    "TotalNegativeFeedbackCount": 0,
+    "AdditionalFieldsOrder": [],
+    "SubmissionId": null,
+    "TagDimensionsOrder": [],
+    "TotalFeedbackCount": 0,
+    "AdditionalFields": {},
+    "Videos": [],
+    "CampaignId": null
+   },
+   {
+    "Id": "272840464",
+    "CID": "f1453a28-be50-529f-b489-87a7dac32457",
+    "SourceClient": "samsung-en_au",
+    "LastModeratedTime": "2026-10-14T05:00:11.000+00:00",
+    "LastModificationTime": "2026-10-14T05:00:11.000+00:00",
+    "ProductId": "795454",
+    "OriginalProductName": "Galaxy S25(SM-S931BDBFATS)",
+    "AuthorId": "e27p3xpbtawvp4ii8m4pyj35e",
+    "ContentLocale": "en_AU",
+    "IsFeatured": false,
+    "TotalInappropriateFeedbackCount": 0,
+    "IsSyndicated": true,
+    "SyndicationSource": {
+     "ClientId": null,
+     "LogoImageUrl": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/38d22ab4-7b62-479c-939d-305bb3f75a1c",
+     "ContentLink": "https://www.samsung.com/au/smartphones/galaxy-s25/reviews/",
+     "Name": "Samsung Australia"
+    },
+    "TotalClientResponseCount": 1,
+    "TotalCommentCount": 0,
+    "Rating": 5,
+    "SecondaryRatingsOrder": [
+     "Features",
+     "Performance",
+     "Design",
+     "Value"
+    ],
+    "IsRatingsOnly": false,
+    "IsRecommended": true,
+    "ModerationStatus": "APPROVED",
+    "SubmissionTime": "2026-10-12T21:32:31.000+00:00",
+    "ReviewText": "[This review was collected as part of a promotion.] I specifically wanted a lightweight and smaller sized phone to comfortably fit in my hands and handbag. The ease of carrying this phone is great. It has many more features than I will probably ever use but I am learning. It was the perfect phone for my convenience.",
+    "Title": "Lightweight and compact",
+    "UserNickname": "Jetty17",
+    "SecondaryRatings": {
+     "Value": {
+      "Value": 5,
+      "Id": "Value",
+      "ValueLabel": null,
+      "ValueRange": 5,
+      "Label": null,
+      "MinLabel": null,
+      "DisplayType": "NORMAL",
+      "MaxLabel": null
+     },
+     "Performance": {
+      "Value": 5,
+      "Id": "Performance",
+      "ValueLabel": null,
+      "ValueRange": 5,
+      "Label": null,
+      "MinLabel": null,
+      "DisplayType": "NORMAL",
+      "MaxLabel": null
+     },
+     "Design": {
+      "Value": 5,
+      "Id": "Design",
+      "ValueLabel": null,
+      "ValueRange": 5,
+      "Label": null,
+      "MinLabel": null,
+      "DisplayType": "NORMAL",
+      "MaxLabel": null
+     },
+     "Features": {
+      "Value": 5,
+      "Id": "Features",
+      "ValueLabel": null,
+      "ValueRange": 5,
+      "Label": null,
+      "MinLabel": null,
+      "DisplayType": "NORMAL",
+      "MaxLabel": null
+     }
+    },
+    "Helpfulness": null,
+    "BadgesOrder": [],
+    "CommentIds": [],
+    "RatingRange": 5,
+    "ClientResponses": [],
+    "Badges": {},
+    "Pros": null,
+    "UserLocation": null,
+    "ContextDataValuesOrder": [],
+    "InappropriateFeedbackList": [],
+    "ProductRecommendationIds": [],
+    "ContextDataValues": {},
+    "Cons": null,
+    "TotalPositiveFeedbackCount": 0,
+    "TagDimensions": {},
+    "Photos": [],
+    "TotalNegativeFeedbackCount": 0,
+    "AdditionalFieldsOrder": [],
+    "SubmissionId": null,
+    "TagDimensionsOrder": [],
+    "TotalFeedbackCount": 0,
+    "AdditionalFields": {},
+    "Videos": [],
+    "CampaignId": null
+   },
+   {
+    "Id": "272751367",
+    "CID": "322e48c8-47ea-5164-9b08-bba506fbe93f",
+    "SourceClient": "samsung-en_au",
+    "LastModeratedTime": "2026-10-11T05:00:12.000+00:00",
+    "LastModificationTime": "2026-10-13T00:01:16.000+00:00",
+    "ProductId": "795454",
+    "OriginalProductName": "Galaxy S25(SM-S931BDBFATS)",
+    "AuthorId": "a0ande89tj495ozj1ifv9nkne",
+    "ContentLocale": "en_AU",
+    "IsFeatured": false,
+    "TotalInappropriateFeedbackCount": 0,
+    "IsSyndicated": true,
+    "SyndicationSource": {
+     "ClientId": null,
+     "LogoImageUrl": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/38d22ab4-7b62-479c-939d-305bb3f75a1c",
+     "ContentLink": "https://www.samsung.com/au/smartphones/galaxy-s25/reviews/",
+     "Name": "Samsung Australia"
+    },
+    "TotalClientResponseCount": 1,
+    "TotalCommentCount": 0,
+    "Rating": 5,
+    "SecondaryRatingsOrder": [
+     "Features",
+     "Performance",
+     "Design",
+     "Value"
+    ],
+    "IsRatingsOnly": false,
+    "IsRecommended": true,
+    "ModerationStatus": "APPROVED",
+    "SubmissionTime": "2026-10-10T03:17:08.000+00:00",
+    "ReviewText": "[This review was collected as part of a promotion.] Absolutely love my new Samsung S25! It's sleek, lightweight, super fast and easy to use. The camera is fantastic and the screen is crystal clear. Really happy with my purchase and would definitely recommend it!",
+    "Title": "Absolutely Love My Samsung Galaxy S25!",
+    "UserNickname": "MazzieStar",
+    "SecondaryRatings": {
+     "Value": {
+      "Value": 5,
+      "Id": "Value",
+      "ValueLabel": null,
+      "ValueRange": 5,
+      "Label": null,
+      "MinLabel": null,
+      "DisplayType": "NORMAL",
+      "MaxLabel": null
+     },
+     "Performance": {
+      "Value": 5,
+      "Id": "Performance",
+      "ValueLabel": null,
+      "ValueRange": 5,
+      "Label": null,
+      "MinLabel": null,
+      "DisplayType": "NORMAL",
+      "MaxLabel": null
+     },
+     "Design": {
+      "Value": 5,
+      "Id": "Design",
+      "ValueLabel": null,
+      "ValueRange": 5,
+      "Label": null,
+      "MinLabel": null,
+      "DisplayType": "NORMAL",
+      "MaxLabel": null
+     },
+     "Features": {
+      "Value": 5,
+      "Id": "Features",
+      "ValueLabel": null,
+      "ValueRange": 5,
+      "Label": null,
+      "MinLabel": null,
+      "DisplayType": "NORMAL",
+      "MaxLabel": null
+     }
+    },
+    "Helpfulness": null,
+    "BadgesOrder": [],
+    "CommentIds": [],
+    "RatingRange": 5,
+    "ClientResponses": [],
+    "Badges": {},
+    "Pros": null,
+    "UserLocation": null,
+    "ContextDataValuesOrder": [],
+    "InappropriateFeedbackList": [],
+    "ProductRecommendationIds": [],
+    "ContextDataValues": {},
+    "Cons": null,
+    "TotalPositiveFeedbackCount": 0,
+    "TagDimensions": {},
+    "Photos": [],
+    "TotalNegativeFeedbackCount": 0,
+    "AdditionalFieldsOrder": [],
+    "SubmissionId": null,
+    "TagDimensionsOrder": [],
+    "TotalFeedbackCount": 0,
+    "AdditionalFields": {},
+    "Videos": [],
+    "CampaignId": null
+   }
+  ],
+  "Includes": {
+   "Products": {
+    "795454": {
+     "FamilyIds": [
+      "71f1e431-5882-4c03-a732-720017957af1"
+     ],
+     "EANs": [
+      "8806095852225"
+     ],
+     "AttributesOrder": [
+      "AVAILABILITY",
+      "BV_FE_EXPAND",
+      "BV_FE_FAMILY",
+      "GTIN14"
+     ],
+     "Attributes": {
+      "AVAILABILITY": {
+       "Id": "AVAILABILITY",
+       "Values": [
+        {
+         "Value": "True",
+         "Locale": null
+        }
+       ]
+      },
+      "BV_FE_EXPAND": {
+       "Id": "BV_FE_EXPAND",
+       "Values": [
+        {
+         "Value": "BV_FE_FAMILY:71f1e431-5882-4c03-a732-720017957af1",
+         "Locale": null
+        }
+       ]
+      },
+      "BV_FE_FAMILY": {
+       "Id": "BV_FE_FAMILY",
+       "Values": [
+        {
+         "Value": "71f1e431-5882-4c03-a732-720017957af1",
+         "Locale": null
+        }
+       ]
+      },
+      "GTIN14": {
+       "Id": "GTIN14",
+       "Values": [
+        {
+         "Value": "08806095852225",
+         "Locale": null
+        }
+       ]
+      }
+     },
+     "ManufacturerPartNumbers": [
+      "SM-S931BDBEATS_11901334136"
+     ],
+     "Name": "Samsung Galaxy S25 256GB (Navy)",
+     "ImageUrl": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/795454-Product-0-I-638730241866773532.jpg?v=1737427450",
+     "Id": "795454",
+     "CategoryId": "Mobile Phones - Handsets",
+     "BrandExternalId": "SAMSUNG",
+     "Brand": {
+      "Id": "SAMSUNG",
+      "Name": "SAMSUNG"
+     },
+     "Active": true,
+     "ProductPageUrl": "https://www.jbhifi.com.au/products/samsung-galaxy-s25-256gb-navy",
+     "Disabled": false,
+     "UPCs": [],
+     "ReviewIds": [],
+     "StoryIds": [],
+     "QuestionIds": [],
+     "ModelNumbers": [],
+     "ISBNs": [],
+     "Description": null,
+     "ReviewStatistics": {
+      "FeaturedReviewCount": 0,
+      "AverageOverallRating": 4.781337047353761,
+      "NotRecommendedCount": 27,
+      "NotHelpfulVoteCount": 3,
+      "SecondaryRatingsAveragesOrder": [
+       "Quality",
+       "Value"
+      ],
+      "SecondaryRatingsAverages": {
+       "Quality": {
+        "Id": "Quality",
+        "AverageRating": 4.7,
+        "MinLabel": null,
+        "MaxLabel": null,
+        "DisplayType": "NORMAL",
+        "ValueRange": 5
+       },
+       "Value": {
+        "Id": "Value",
+        "AverageRating": 4.6016830294530155,
+        "MinLabel": null,
+        "MaxLabel": null,
+        "DisplayType": "NORMAL",
+        "ValueRange": 5
+       }
+      },
+      "FirstSubmissionTime": "2025-02-10T05:22:10.000+00:00",
+      "LastSubmissionTime": "2026-10-13T00:40:45.000+00:00",
+      "HelpfulVoteCount": 10,
+      "TotalVideoCount": 0,
+      "RatingsOnlyReviewCount": 6,
+      "TotalReviewCount": 718,
+      "TotalPhotoCount": 0,
+      "RatingDistribution": [
+       {
+        "RatingValue": 5,
+        "Count": 604
+       },
+       {
+        "RatingValue": 4,
+        "Count": 84
+       },
+       {
+        "RatingValue": 3,
+        "Count": 21
+       },
+       {
+        "RatingValue": 2,
+        "Count": 5
+       },
+       {
+        "RatingValue": 1,
+        "Count": 4
+       }
+      ],
+      "RecommendedCount": 679,
+      "ContextDataDistribution": {},
+      "ContextDataDistributionOrder": [],
+      "TotalMediaCount": 0,
+      "TagDistributionOrder": [],
+      "OverallRatingRange": 5,
+      "TagDistribution": {},
+      "IntelligentTrustMarkDisplayEligible": true
+     },
+     "TotalReviewCount": 718
+    }
+   },
+   "ProductsOrder": [
+    "795454"
+   ]
+  },
+  "HasErrors": false,
+  "Errors": []
+ }
+}

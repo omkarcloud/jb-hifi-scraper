@@ -1,0 +1,83 @@
+{
+ "hits": [],
+ "nbHits": 106707,
+ "page": 0,
+ "nbPages": 0,
+ "hitsPerPage": 0,
+ "facets": {
+  "facets.Brand": {
+   "APPLE": 3152,
+   "DESKY": 2087,
+   "GOOSPERY": 1629,
+   "SAMSUNG": 1245,
+   "SPIGEN": 1114,
+   "FUNKO": 980,
+   "SMALLRIG": 866,
+   "PIERRE CARDIN": 575,
+   "REDEFINE": 553,
+   "IMPACT": 544,
+   "AVERY": 460,
+   "DEVANTI": 399,
+   "GOOGLE": 399,
+   "CYGNETT": 395,
+   "HP": 375,
+   "THERMALTAKE": 362,
+   "ARTLINE": 359,
+   "EFM": 354,
+   "BROTHER": 323,
+   "LOUNGEFLY": 322,
+   "EVERFIT": 321,
+   "OTTERBOX": 308,
+   "ASUS": 292,
+   "CHRISTMAS WAREHOUSE": 290,
+   "LASER": 289,
+   "ALFORDSON": 281,
+   "SINGER": 273,
+   "BELKIN": 267,
+   "ARTISS": 262,
+   "FREEWELL": 260,
+   "SONY": 258,
+   "HARPERCOLLINS": 250,
+   "PHILIPS": 228,
+   "LG": 226,
+   "DELL": 220,
+   "LICENSING ESSENTIALS": 217,
+   "NOSTALGIC ART": 214,
+   "FELLOWES": 212,
+   "STAEDTLER": 212,
+   "DERWENT": 209
+  }
+ },
+ "exhaustiveFacetsCount": true,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "facetsCount": true,
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "",
+ "params": "query=&hitsPerPage=0&filters=price+%3E+0+AND+product_published+%3D+1+AND+availability.displayProduct+%3D+1&facets=%5B%22facets.Brand%22%5D&maxValuesPerFacet=40&analyticsTags=%5B%22ext-alg%23auto-filter%3Aenabled%22%5D",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {}
+ },
+ "processingTimeMS": 91,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 335
+  },
+  "extensions": 1,
+  "fetch": {
+   "faceting": 51,
+   "scanning": 34,
+   "total": 86
+  },
+  "rulesProcessing": {
+   "drr": 1,
+   "total": 1
+  },
+  "total": 91
+ },
+ "serverTimeMS": 92
+}

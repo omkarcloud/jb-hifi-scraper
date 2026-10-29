@@ -1,0 +1,841 @@
+{
+ "hits": [
+  {
+   "is_family": true,
+   "externalFamilyId": "4ecc85ff-ead8-4357-a17b-596c78b337f5",
+   "options": [
+    {
+     "SpecificationName": "Colour",
+     "SpecRender": "Swatches",
+     "Values": [
+      "Black",
+      "Blue"
+     ]
+    }
+   ],
+   "skus": [
+    "597793",
+    "597794",
+    "597795",
+    "597729"
+   ],
+   "children": [
+    {
+     "variant_id": 39531259855049,
+     "SKU": "597793",
+     "Button": "Buy",
+     "Image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/597793-Product-0-I-637945074777598358_414e0af1-7f7d-472e-b093-5f4563d7a5fa.jpg?v=1658874950",
+     "Display": true,
+     "Values": [
+      "Black"
+     ],
+     "Sequence": 0,
+     "handle": "jbl-flip-6-portable-bluetooth-speaker-black"
+    },
+    {
+     "variant_id": 39531259822281,
+     "SKU": "597794",
+     "Button": "Buy",
+     "Image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/597794-Product-0-I-637945070583397301.jpg?v=1658874344",
+     "Display": true,
+     "Values": [
+      "Blue"
+     ],
+     "Sequence": 1,
+     "handle": "jbl-flip-6-portable-bluetooth-speaker-blue"
+    },
+    {
+     "variant_id": 39531259887817,
+     "SKU": "597795",
+     "Button": "DoNotDisplay",
+     "Image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/597795-Product-0-I-637945077777426049.jpg?v=1658875064",
+     "Display": false,
+     "Values": [],
+     "Sequence": 2,
+     "handle": "jbl-flip-6-portable-bluetooth-speaker-pink"
+    },
+    {
+     "variant_id": 40426143678665,
+     "SKU": "597729",
+     "Button": "DoNotDisplay",
+     "Image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/597729-Product-0-I-638865808203665453.jpg?v=1756442555",
+     "Display": false,
+     "Values": [],
+     "Sequence": 3,
+     "handle": "jbl-flip-6-portable-bluetooth-speaker-red"
+    }
+   ],
+   "keepSplit": false,
+   "overallStatus": "LimitedStock",
+   "availabilityStatement": "Limited stock",
+   "sku": "",
+   "familyId": "fb9792bc-c965-43cd-aa94-762eec20f20b",
+   "product_id": 6664301904073,
+   "variant_id": 39531259855049,
+   "title": "JBL Flip 6 Portable Bluetooth Speaker",
+   "primary_title": "JBL Flip 6 Portable Bluetooth Speaker (Black)",
+   "secondary_title": "",
+   "weight": 0.93,
+   "onPromotion": false,
+   "bnplExcluded": false,
+   "isMarketplace": false,
+   "department": {
+    "id": 10,
+    "description": "AUDIO"
+   },
+   "button": "Buy",
+   "handle": "jbl-flip-6-portable-bluetooth-speaker-black",
+   "vendor": "JBL",
+   "preamble": "JBL",
+   "productGroup": {
+    "id": 605,
+    "description": "PORTABLE TRAVEL SPEAKERS"
+   },
+   "product_published": true,
+   "product_image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/597793-Product-0-I-637945074777598358_414e0af1-7f7d-472e-b093-5f4563d7a5fa.jpg?v=1658874950",
+   "product_type": "AUDIO",
+   "release_date": 1658066400,
+   "inventory_management": "shopify",
+   "brand_image_url": "https://brand-images.jbhifi.com.au/jbl.png",
+   "weighted_average_rating": 4.46981,
+   "price": 169,
+   "compare_at_price": "",
+   "taxable": true,
+   "showWasPrice": false,
+   "showPerksPrice": false,
+   "pricing": {
+    "displayPriceInc": 169,
+    "displayPriceEx": 153.64,
+    "displayPriceTax": 15.36,
+    "displayWasPrice": false,
+    "wasPrice": 129,
+    "saveAmount": -40,
+    "priceAfterCashback": 169,
+    "cashbackAmount": 0,
+    "displayPriceAfterCashback": false,
+    "coreTicketPrice": 169,
+    "createdDate": "2024-11-06T02:01:05.7814076+00:00",
+    "timestamp": "0001-01-01T00:00:00+00:00"
+   },
+   "tags": "Brand:Jbl,LimitedStock",
+   "banner_tags": {},
+   "google_tag_manager": {
+    "brand": "JBL",
+    "category": "AUDIO/PORTABLE TRAVEL SPEAKERS/JBL",
+    "dimension3": "",
+    "dimension4": "4.5137",
+    "dimension5": "1682",
+    "dimension6": "",
+    "dimension7": "Limited stock",
+    "id": "fb9792bc-c965-43cd-aa94-762eec20f20b",
+    "name": "JBL Flip 6 Portable Bluetooth Speaker",
+    "price": 169,
+    "displayWasPrice": false,
+    "saveAmount": -40,
+    "variants": [
+     {
+      "name": "Colour",
+      "value": "Black"
+     }
+    ]
+   },
+   "promo_tags": [],
+   "all_calculated_product_tags": [],
+   "display": {
+    "artist": "16HR PORTABLE WIRELESS SPEAKER",
+    "tracklist": [],
+    "actors": "",
+    "directors": "",
+    "images": [
+     {
+      "ImageIndex": 0,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/597793-Product-0-I-637945074777598358.jpg"
+     },
+     {
+      "ImageIndex": 1,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/597793-Product-1-I-637945074782754582.jpg"
+     },
+     {
+      "ImageIndex": 2,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/597793-Product-2-I-637945074777754509.jpg"
+     },
+     {
+      "ImageIndex": 3,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/597793-Product-3-I-637945074777754509.jpg"
+     },
+     {
+      "ImageIndex": 4,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/597793-Product-4-I-637945074777598358.jpg"
+     },
+     {
+      "ImageIndex": 5,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/597793-Product-5-I-637945074777754509.jpg"
+     },
+     {
+      "ImageIndex": 6,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/597793-Product-6-I-637945076577642371.jpg"
+     },
+     {
+      "ImageIndex": 7,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/597793-Product-7-I-637945076582642380.jpg"
+     },
+     {
+      "ImageIndex": 8,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/597793-Product-8-I-637945076582329838.jpg"
+     }
+    ],
+    "keyFeatures": [
+     "Sound: Louder, more powerful sound",
+     "Battery: Up to 12 hours of play time",
+     "Enhanced feature: IP67 dust and water-resistant"
+    ],
+    "categoryHierarchy": [
+     "Headphones, Speakers & Audio",
+     "Speakers",
+     "Portable Bluetooth speakers"
+    ],
+    "graphicAttributes": [
+     {
+      "Index": 4719,
+      "Name": "Bluetooth",
+      "Text": "v5.1",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-177353.png",
+      "ImageHash": "A8A7CE34B384BB004F4D2CE988454C88"
+     }
+    ],
+    "messages": []
+   },
+   "product": {
+    "model": "5372904",
+    "brand": "JBL",
+    "productGroupId": 605,
+    "seasonCode": "Q",
+    "supplierProductDetails": [
+     {
+      "supplierNumber": 10688,
+      "supplierName": "INGRAM MICRO - HARMAN",
+      "supplierEAN13": "6925281992971",
+      "supplierStockCode": "5372904",
+      "supplierStockDescription": "16HR PORTABLE WIRELESS SPEAKER"
+     },
+     {
+      "supplierNumber": 10688,
+      "supplierName": "INGRAM MICRO - HARMAN",
+      "supplierEAN13": "6925281992971",
+      "supplierStockCode": "JBLFLIP6BLK",
+      "supplierStockDescription": "16HR PORTABLE WIRELESS SPEAKER"
+     },
+     {
+      "supplierNumber": 608,
+      "supplierName": "INGRAM MICRO",
+      "supplierEAN13": "6925281992971",
+      "supplierStockCode": "597793              ",
+      "supplierStockDescription": "16HR PORTABLE WIRELESS SPEAKER"
+     },
+     {
+      "supplierNumber": 10726,
+      "supplierName": "INGRAM MICRO - SOLUTIONS",
+      "supplierEAN13": "6925281992971",
+      "supplierStockCode": "597793              ",
+      "supplierStockDescription": "16HR PORTABLE WIRELESS SPEAKER"
+     }
+    ],
+    "packagedDimensions": {
+     "height": 0.099,
+     "width": 0.106,
+     "depth": 0.216,
+     "weight": 0.93
+    },
+    "releaseDate": "2022-07-17T14:00:00+00:00",
+    "limitPerOrder": 5,
+    "freightPrice": 12.99,
+    "limitedRunPromotionItems": [],
+    "seller": {
+     "id": 0,
+     "name": "JB Hi-Fi"
+    },
+    "format": "PORTABLE TRAVEL SPEAKERS",
+    "showReviews": true,
+    "numberOfProductReviews": 0,
+    "productGroupName": "PORTABLE TRAVEL SPEAKERS",
+    "departmentName": "AUDIO",
+    "releaseQuarter": "2022-3",
+    "productFlags": [
+     {
+      "Id": 2648314,
+      "Name": "Online Warehouse Preference",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2652736,
+      "Name": "Omit Buffer In-Store",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 1664933,
+      "Name": "Click & Collect",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 1664934,
+      "Name": "Delivery",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 1664935,
+      "Name": "In-Store",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 1664936,
+      "Name": "Review",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 1667388,
+      "Name": "Recalculation",
+      "Start": "2026-07-12T07:44:06.11+00:00",
+      "Finish": null
+     }
+    ],
+    "description": "JBL  - FLIP 6 BLACK",
+    "departmentCode": 10,
+    "releaseDateText": "",
+    "eligibleForServices": true,
+    "freeBonusSkus": [],
+    "id": "597793"
+   },
+   "availability": {
+    "displayProduct": true,
+    "canBuyOnline": true,
+    "canPreOrder": false,
+    "fulfilment": "Physical",
+    "deliveryFromOnlineWarehouseOnly": false,
+    "deliveryConstraint": "CountryWide",
+    "deliveryStatus": "LimitedStock",
+    "clickNCollectStatus": "LimitedStock",
+    "cashNCarryStatus": "LimitedStock",
+    "overallStatus": "LimitedStock",
+    "availabilityStatement": "Limited stock",
+    "deliveryOnly": false,
+    "availableNow": "Available Now",
+    "productLifecycle": "NonReplenishable",
+    "isHiddenByFamily": false
+   },
+   "tieredDetails": [],
+   "facets": {
+    "Speaker Type": [
+     "Portable Bluetooth"
+    ],
+    "Colour": [
+     "Pink",
+     "Black",
+     "Blue",
+     "Red"
+    ],
+    "Woodgrain": [],
+    "Channels": [],
+    "Total speakers": [],
+    "Watts (Total)": [],
+    "Wireless Subwoofer": [],
+    "Car speaker size/type": [],
+    "Dolby Digital": [],
+    "DAB+ digital radio": [
+     "False"
+    ],
+    "AM tuner": [
+     "False"
+    ],
+    "Voice control": [
+     "False"
+    ],
+    "Virtual Assistant Built-in": [],
+    "Smart features": [],
+    "Smart home ecosystem": [],
+    "Karaoke function": [],
+    "Computer speaker type": [],
+    "FM tuner": [
+     "False"
+    ],
+    "DLNA": [
+     "False"
+    ],
+    "iPod support": [
+     "False"
+    ],
+    "Smart OS": [],
+    "Wireless": [
+     "True"
+    ],
+    "Environmental protection": [
+     "Dustproof",
+     "Waterproof"
+    ],
+    "IP rating": [
+     "IP67"
+    ],
+    "IPX rating": [],
+    "Battery life": [
+     "Up to 12 hours"
+    ],
+    "Rechargeable": [
+     "False"
+    ],
+    "USB Charging": [
+     "False"
+    ],
+    "Power supply": [],
+    "AirPlay": [
+     "False"
+    ],
+    "NFC": [
+     "False"
+    ],
+    "Wi-Fi": [],
+    "Bluetooth": [
+     "v5.1"
+    ],
+    "HDMI inputs": [],
+    "HDMI ARC": [],
+    "HDMI Passthrough": [],
+    "Aux-in": [
+     "False"
+    ],
+    "USB Ports": [],
+    "USB-C Ports": [],
+    "USB 2.0 Ports": [],
+    "USB 3.0 Ports": [],
+    "Digital audio inputs": [],
+    "Digital audio output": [],
+    "Product Height (mm)": [],
+    "Product Depth (mm)": [],
+    "Product Width (mm)": [],
+    "Product Weight (kg)": [],
+    "Contains button battery": [],
+    "Product condition": [],
+    "Manufacturer's warranty": [
+     "1 Year"
+    ],
+    "Warranty notes": [],
+    "Brand": [
+     "JBL"
+    ],
+    "Sold by": [
+     "JB Hi-Fi"
+    ],
+    "Category": [
+     "Portable Bluetooth speakers"
+    ],
+    "Primary Category": [
+     "Headphones, Speakers & Audio"
+    ],
+    "Price": [
+     95,
+     169
+    ],
+    "Condition": [
+     "New"
+    ],
+    "Availability": [
+     "Awaiting Stock",
+     "Available Now"
+    ],
+    "Display Models In-Store": [
+     41,
+     36
+    ]
+   },
+   "category": "Portable Bluetooth speakers",
+   "category_id": 1800,
+   "category_hierarchy": [
+    "Headphones, Speakers & Audio",
+    "Speakers",
+    "Portable Bluetooth speakers"
+   ],
+   "category_levels": {
+    "level0": "Headphones, Speakers & Audio",
+    "level1": "Speakers",
+    "level2": "Portable Bluetooth speakers"
+   },
+   "updated_at": "2026-10-28T13:08:20+00:00",
+   "created_at": "2022-07-26T22:32:46+00:00",
+   "published_at": "2026-04-22T03:24:10+00:00",
+   "shopify_timestamp": "2026-10-28T13:08:20+00:00",
+   "online_product_timestamp": "2026-10-28T13:00:34.8451395+00:00",
+   "family": {},
+   "deliveryTag": "",
+   "perksPricing": null,
+   "month_combined_bucket": 17,
+   "month_combined_bucket_stores": 8,
+   "month_combined_bucket_TOTAL": 18.6,
+   "year_combined_bucket": 20,
+   "year_combined_bucket_stores": 11,
+   "year_combined_bucket_TOTAL": 21.6,
+   "priceBannerTag": {},
+   "collectionHandles": [
+    "jbl-live650btnc-over-ear-wireless-noise-cancelling-headphones",
+    "jbl-tune-600btnc-wireless-on-ear-headphones-with-active-noise-cancelling",
+    "jbl-endurance-jump-wireless-in-ear-sport-headphones",
+    "end-of-year-madness-on-audio",
+    "portable-bluetooth-speakers",
+    "headphones-audio-on-sale",
+    "jbl-flip-5",
+    "jbl-live-300-true-wireless-in-ear-headphones",
+    "jbl-tune-225-tws-true-wireless-in-ear-headphones",
+    "jbl-go-3-mini-portable-bluetooth-speaker",
+    "hot-deals-on-jbl",
+    "jbl-tune120-true-wireless-in-ear-headphones",
+    "speakers",
+    "hottest-deals",
+    "this-weeks-hottest-deals",
+    "jbl-xtreme-2",
+    "jbl-xtreme-3",
+    "jbl-tune-125-true-wireless-in-ear-headphones",
+    "jbl-tune750btnc-over-ear-wireless-noise-cancelling-headphones",
+    "jbl-link-10",
+    "headphones-speakers-audio",
+    "jbl-endurance-peak-true-wireless-sports-in-ear-bluetooth-headphones",
+    "black-friday-deals",
+    "sony-headphones-wh1000xm3",
+    "jbl-portable-speakers",
+    "audio-bonanza",
+    "black-friday-deals-on-speakers",
+    "karaoke-machines",
+    "all-products-on-sale",
+    "hot-deals-on-jbl-headphones",
+    "hot-deals-on-audio",
+    "jbl-go-2-portable-bluetooth-speaker",
+    "jbl-flip-essential-portable-bluetooth-speaker",
+    "jbl-clip-3",
+    "jbl-tune-220-tws-true-wireless-in-ear-headphones",
+    "jbl-reflect-mini-2-wireless-in-ear-sports-headphones",
+    "jbl-live-free-true-wireless-noise-cancelling-in-ear-headphones",
+    "jbl-link-300",
+    "jbl-endurance-sprint-wireless-in-ear-headphones",
+    "jbl-charge-4",
+    "audio-avalanche-deals",
+    "jbl-reflect-contour-2-wireless-in-ear-sports-headphones",
+    "jbl-headphones-speakers"
+   ],
+   "_collections": [],
+   "categoryBrand": "Headphones, Speakers & Audio.JBL",
+   "availabilityRank": 2,
+   "freeDelivery": false,
+   "promotionEndDate": "2026-10-28T12:59:59+00:00",
+   "collectionHierarchy": [
+    "jbl-live650btnc-over-ear-wireless-noise-cancelling-headphones",
+    "jbl-tune-600btnc-wireless-on-ear-headphones-with-active-noise-cancelling",
+    "jbl-endurance-jump-wireless-in-ear-sport-headphones",
+    "end-of-year-madness-on-audio",
+    "headphones-speakers-audio > portable-bluetooth-speakers",
+    "headphones-audio-on-sale",
+    "jbl-flip-5",
+    "jbl-live-300-true-wireless-in-ear-headphones",
+    "jbl-tune-225-tws-true-wireless-in-ear-headphones",
+    "jbl-go-3-mini-portable-bluetooth-speaker",
+    "hot-deals-on-jbl",
+    "jbl-tune120-true-wireless-in-ear-headphones",
+    "headphones-speakers-audio > speakers",
+    "hottest-deals",
+    "this-weeks-hottest-deals",
+    "jbl-xtreme-2",
+    "jbl-xtreme-3",
+    "jbl-tune-125-true-wireless-in-ear-headphones",
+    "jbl-tune750btnc-over-ear-wireless-noise-cancelling-headphones",
+    "jbl-link-10",
+    "headphones-speakers-audio",
+    "jbl-endurance-peak-true-wireless-sports-in-ear-bluetooth-headphones",
+    "black-friday-deals",
+    "sony-headphones-wh1000xm3",
+    "jbl-portable-speakers",
+    "audio-bonanza",
+    "black-friday-deals-on-speakers",
+    "headphones-speakers-audio > karaoke-machines",
+    "all-products-on-sale",
+    "hot-deals-on-jbl-headphones",
+    "hot-deals-on-audio",
+    "jbl-go-2-portable-bluetooth-speaker",
+    "jbl-flip-essential-portable-bluetooth-speaker",
+    "jbl-clip-3",
+    "jbl-tune-220-tws-true-wireless-in-ear-headphones",
+    "jbl-reflect-mini-2-wireless-in-ear-sports-headphones",
+    "jbl-live-free-true-wireless-noise-cancelling-in-ear-headphones",
+    "jbl-link-300",
+    "jbl-endurance-sprint-wireless-in-ear-headphones",
+    "jbl-charge-4",
+    "audio-avalanche-deals",
+    "jbl-reflect-contour-2-wireless-in-ear-sports-headphones",
+    "headphones-speakers-audio > jbl-headphones-speakers"
+   ],
+   "sponsoredCollectionHierarchy": [
+    "hot-deals-on-audio",
+    "all-products-on-sale",
+    "audio-bonanza",
+    "headphones-speakers-audio",
+    "this-weeks-hottest-deals",
+    "hottest-deals",
+    "headphones-audio-on-sale",
+    "headphones-speakers-audio > portable-bluetooth-speakers",
+    "headphones-speakers-audio > speakers"
+   ],
+   "in_stock_store_ids": [
+    1,
+    2,
+    3,
+    4,
+    8,
+    9,
+    10,
+    13,
+    18,
+    21,
+    22,
+    23,
+    26,
+    28,
+    29,
+    32,
+    33,
+    35,
+    36,
+    37,
+    38,
+    41,
+    42,
+    44,
+    47,
+    49,
+    50,
+    52,
+    54,
+    55,
+    57,
+    59,
+    64,
+    65,
+    68,
+    69,
+    71,
+    72,
+    73,
+    76,
+    78,
+    79,
+    80,
+    81,
+    83,
+    84,
+    85,
+    86,
+    88,
+    94,
+    95,
+    96,
+    97,
+    98,
+    100,
+    104,
+    117,
+    118,
+    120,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    131,
+    132,
+    133,
+    134,
+    139,
+    140,
+    142,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    157,
+    159,
+    162,
+    163,
+    164,
+    165,
+    167,
+    168,
+    169,
+    172,
+    173,
+    174,
+    178,
+    179,
+    181,
+    183,
+    189,
+    192,
+    193,
+    194,
+    196,
+    197,
+    203,
+    206,
+    208,
+    209,
+    210,
+    212,
+    214,
+    216,
+    223,
+    225,
+    227,
+    229,
+    232,
+    240,
+    243,
+    245,
+    246,
+    247,
+    249,
+    261,
+    263
+   ],
+   "isPublic": true,
+   "objectID": "fb9792bc-c965-43cd-aa94-762eec20f20b",
+   "_highlightResult": {
+    "skus": [
+     {
+      "value": "597793",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     {
+      "value": "597794",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     {
+      "value": "597795",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     {
+      "value": "597729",
+      "matchLevel": "none",
+      "matchedWords": []
+     }
+    ],
+    "sku": {
+     "value": "",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "JBL Flip 6 Portable Bluetooth Speaker",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "product": {
+     "model": {
+      "value": "5372904",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     "supplierProductDetails": [
+      {
+       "supplierEAN13": {
+        "value": "6925281992971",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      },
+      {
+       "supplierEAN13": {
+        "value": "6925281992971",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      },
+      {
+       "supplierEAN13": {
+        "value": "6925281992971",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      },
+      {
+       "supplierEAN13": {
+        "value": "6925281992971",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      }
+     ]
+    },
+    "facets": {
+     "Brand": [
+      {
+       "value": "JBL",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    },
+    "category": {
+     "value": "Portable Bluetooth speakers",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  }
+ ],
+ "nbHits": 1,
+ "page": 0,
+ "nbPages": 1,
+ "hitsPerPage": 1,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "",
+ "params": "query=&hitsPerPage=1&filters=objectID%3Afb9792bc-c965-43cd-aa94-762eec20f20b&analyticsTags=%5B%22ext-alg%23auto-filter%3Aenabled%22%5D",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {}
+ },
+ "processingTimeMS": 5,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 335
+  },
+  "extensions": 3,
+  "rulesProcessing": {
+   "drr": 1,
+   "total": 1
+  },
+  "total": 5
+ },
+ "serverTimeMS": 6
+}

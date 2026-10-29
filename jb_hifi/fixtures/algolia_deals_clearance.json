@@ -1,0 +1,1507 @@
+{
+ "hits": [
+  {
+   "sku": "839357",
+   "familyId": "",
+   "product_id": 7337407578313,
+   "variant_id": 40428988956873,
+   "title": "Blaupunkt 85\" 4K UHD QLED Tizen Smart TV [2026]",
+   "primary_title": "Blaupunkt 85\" 4K UHD QLED Tizen Smart TV [2026]",
+   "secondary_title": "",
+   "weight": 40,
+   "onPromotion": false,
+   "bnplExcluded": false,
+   "isMarketplace": false,
+   "button": "Buy",
+   "deliveryTag": "",
+   "handle": "blaupunkt-85-4k-uhd-qled-tizen-smart-tv-2026",
+   "vendor": "BLAUPUNKT",
+   "preamble": "BLAUPUNKT",
+   "product_published": true,
+   "product_image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/839357-Product-0-I-639214137603102541.jpg?v=1785817026",
+   "product_type": "VISUAL",
+   "release_date": 1785506400,
+   "inventory_management": "shopify",
+   "brand_image_url": "https://brand-images.jbhifi.com.au/blaupunkt.png",
+   "weighted_average_rating": 2.50739,
+   "price": 899,
+   "compare_at_price": 1799,
+   "taxable": true,
+   "showPerksPrice": false,
+   "pricing": {
+    "displayPriceInc": 899,
+    "displayPriceEx": 817.27,
+    "displayPriceTax": 81.73,
+    "displayWasPrice": true,
+    "wasPrice": 1799,
+    "saveAmount": 900,
+    "priceAfterCashback": 899,
+    "cashbackAmount": 0,
+    "displayPriceAfterCashback": false,
+    "coreTicketPrice": 1799,
+    "createdDate": "2026-07-23T01:18:02.0863079+00:00",
+    "timestamp": "0001-01-01T00:00:00+00:00"
+   },
+   "perksPricing": null,
+   "tags": "Brand:Blaupunkt,LimitedStock",
+   "banner_tags": {
+    "label": "Clearance"
+   },
+   "priceBannerTag": {},
+   "google_tag_manager": {
+    "brand": "BLAUPUNKT",
+    "category": "VISUAL/UHD LED TV - 85+/BLAUPUNKT",
+    "dimension3": "Clearance",
+    "dimension4": "5",
+    "dimension5": "3",
+    "dimension6": "",
+    "dimension7": "Limited stock",
+    "id": "839357",
+    "name": "Blaupunkt 85\" 4K UHD QLED Tizen Smart TV [2026]",
+    "price": 899,
+    "displayWasPrice": true,
+    "saveAmount": 900,
+    "variants": []
+   },
+   "promo_tags": [],
+   "all_calculated_product_tags": [
+    "Clearance"
+   ],
+   "categoryBrand": "TVs.BLAUPUNKT",
+   "availabilityRank": 2,
+   "productGroup": {
+    "id": 367,
+    "description": "UHD LED TV - 85+"
+   },
+   "department": {
+    "id": 30,
+    "description": "VISUAL"
+   },
+   "display": {
+    "artist": "85\" 4K TIZEN QLED TV",
+    "tracklist": [],
+    "actors": "",
+    "directors": "",
+    "images": [
+     {
+      "ImageIndex": 0,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/839357-Product-0-I-639214137603102541.jpg"
+     },
+     {
+      "ImageIndex": 1,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/839357-Product-1-I-639214137602919258.jpg"
+     },
+     {
+      "ImageIndex": 2,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/839357-Product-2-I-639214137602461288.jpg"
+     },
+     {
+      "ImageIndex": 3,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/839357-Product-3-I-639214137602982922.jpg"
+     },
+     {
+      "ImageIndex": 4,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/839357-Product-4-I-639214137602937317.jpg"
+     }
+    ],
+    "keyFeatures": [
+     "Screen: 85” QLED 4K UHD display with vibrant colour and sharp picture quality",
+     "Picture smoothness: 60Hz Refresh Rate with 120 Motion Rate technology",
+     "Smart stuff: Powered by Samsung Tizen OS with Netflix, YouTube & more"
+    ],
+    "categoryHierarchy": [
+     "TVs",
+     "TVs LED",
+     "TVs LED 65\"-70\""
+    ],
+    "graphicAttributes": [
+     {
+      "Index": 172,
+      "Name": "Wall mountable",
+      "Text": "1",
+      "ContentType": "Boolean",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-177298.png",
+      "ImageHash": "617A82065BF14CBB2AA9F1F68AE5E64D"
+     },
+     {
+      "Index": 883,
+      "Name": "Screen Resolution",
+      "Text": "4K Ultra HD",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-176982.png",
+      "ImageHash": "C9682AF165EA632A9D1304C7215792BC"
+     },
+     {
+      "Index": 1471,
+      "Name": "Smart TV",
+      "Text": "1",
+      "ContentType": "Boolean",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-177007.png",
+      "ImageHash": "B160F413B837BE49ACF2CA0A769DAE54"
+     },
+     {
+      "Index": 1955,
+      "Name": "Wi-Fi",
+      "Text": "Yes",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-78351.png",
+      "ImageHash": "8BD07D647798210A09B25E261D4E1A21"
+     },
+     {
+      "Index": 2279,
+      "Name": "Bluetooth",
+      "Text": "Yes",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-176882.png",
+      "ImageHash": "27E05B3B78F5345B921169E3490EEE38"
+     },
+     {
+      "Index": 2821,
+      "Name": "HDMI inputs",
+      "Text": "3",
+      "ContentType": "Integer",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-175697.png",
+      "ImageHash": "12AF05005C587E9F7E2EA648AD5E0A83"
+     }
+    ],
+    "messages": []
+   },
+   "product": {
+    "model": "BP850UTSQ",
+    "brand": "BLAUPUNKT",
+    "productGroupId": 367,
+    "seasonCode": "Q",
+    "supplierProductDetails": [
+     {
+      "supplierNumber": 10772,
+      "supplierName": "AYONZ PTY LTD",
+      "supplierEAN13": "9351521049957",
+      "supplierStockCode": "BP850UTSQ",
+      "supplierStockDescription": "85\" 4K TIZEN QLED TV"
+     }
+    ],
+    "packagedDimensions": {
+     "height": 1.23,
+     "width": 2.07,
+     "depth": 0.16,
+     "weight": 40
+    },
+    "releaseDate": "2026-07-31T14:00:00+00:00",
+    "limitPerOrder": 5,
+    "freightPrice": 59,
+    "limitedRunPromotionItems": [],
+    "seller": {
+     "id": 0,
+     "name": "JB Hi-Fi"
+    },
+    "format": "UHD LED TV - 85+",
+    "showReviews": true,
+    "averageProductReviewRating": 5,
+    "numberOfProductReviews": 3,
+    "productGroupName": "UHD LED TV - 85+",
+    "departmentName": "VISUAL",
+    "releaseQuarter": "2026-3",
+    "productFlags": [
+     {
+      "Id": 2948332,
+      "Name": "Review",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2948330,
+      "Name": "Delivery",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2948329,
+      "Name": "Click & Collect",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2948331,
+      "Name": "In-Store",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2970518,
+      "Name": "Bulky",
+      "Start": null,
+      "Finish": null
+     }
+    ],
+    "description": "BLAUPUNKT - BP850UTSQ",
+    "departmentCode": 30,
+    "releaseDateText": "",
+    "eligibleForServices": true,
+    "freeBonusSkus": [],
+    "id": "839357"
+   },
+   "availability": {
+    "displayProduct": true,
+    "canBuyOnline": true,
+    "canPreOrder": false,
+    "fulfilment": "Physical",
+    "deliveryFromOnlineWarehouseOnly": false,
+    "deliveryConstraint": "BulkyDeliveryZones",
+    "deliveryStatus": "LimitedStock",
+    "clickNCollectStatus": "LimitedStock",
+    "cashNCarryStatus": "LimitedStock",
+    "overallStatus": "LimitedStock",
+    "availabilityStatement": "Limited stock",
+    "deliveryOnly": false,
+    "availableNow": "Available Now",
+    "productLifecycle": "NonReplenishable",
+    "isHiddenByFamily": false
+   },
+   "tieredDetails": [],
+   "facets": {
+    "TV category": [
+     "LED TVs"
+    ],
+    "Screen type": [
+     "QLED TVs"
+    ],
+    "TV series": [
+     "Blaupunkt QLED (2026)"
+    ],
+    "LG TV model": [],
+    "Samsung TV model": [],
+    "Sony TV model": [],
+    "Lifestyle TV": [],
+    "Screen Resolution": [
+     "4K Ultra HD"
+    ],
+    "Screen Size (Inches)": [
+     "85"
+    ],
+    "Resolution (Pixels)": [
+     "3840 x 2160"
+    ],
+    "Refresh Rate (Hz)": [
+     60
+    ],
+    "Motion rate": [
+     "120"
+    ],
+    "Variable Refresh Rate (VRR)": [],
+    "Game sync": [],
+    "Auto Low Latency Mode (ALLM)": [],
+    "Gaming hub/dashboard": [],
+    "Gaming performance": [],
+    "HDR mode": [],
+    "Backlighting type": [
+     "Direct-lit"
+    ],
+    "Local dimming": [
+     "False"
+    ],
+    "Response Time (ms)": [],
+    "4K streaming compatible": [
+     "True"
+    ],
+    "Upscaling": [
+     "4K Ultra HD"
+    ],
+    "Picture Modes": [],
+    "Movie/cinema Mode (24 FPS)": [
+     "False"
+    ],
+    "Picture In Picture": [
+     "False"
+    ],
+    "Speaker Configuration": [
+     "2 × 10W"
+    ],
+    "Dolby Digital": [],
+    "DTS": [],
+    "Sound Modes": [],
+    "TV Tuner(s)": [
+     "HD Tuner"
+    ],
+    "Digital tuner(s)": [
+     "DVB-T2"
+    ],
+    "Broadcast decoding": [],
+    "Smart TV": [
+     "True"
+    ],
+    "Smart OS": [
+     "Tizen"
+    ],
+    "Streaming apps": [
+     "Amazon Prime",
+     "Disney+",
+     "Netflix",
+     "YouTube"
+    ],
+    "Other apps": [],
+    "HbbTV": [],
+    "Web Browser": [
+     "True"
+    ],
+    "Smart features": [],
+    "Voice control": [
+     "True"
+    ],
+    "USB Recording": [
+     "False"
+    ],
+    "PVR Function": [
+     "False"
+    ],
+    "Record / Pause Live TV": [
+     "False"
+    ],
+    "Internal memory": [],
+    "Recording Medium": [],
+    "USB Playback": [],
+    "Parental controls": [
+     "False"
+    ],
+    "Built-in Blu-ray player": [
+     "False"
+    ],
+    "Built-in DVD player": [
+     "False"
+    ],
+    "EPG (program guide)": [],
+    "Swivel Base": [
+     "False"
+    ],
+    "Wi-Fi": [
+     "Yes"
+    ],
+    "Bluetooth": [
+     "Yes"
+    ],
+    "DLNA": [
+     "False"
+    ],
+    "WiDi Capable": [
+     "False"
+    ],
+    "Screen Sharing": [
+     "False"
+    ],
+    "Smart home ecosystem": [],
+    "Virtual Assistant Built-in": [],
+    "Apple AirPlay 2": [
+     "Yes"
+    ],
+    "HDMI-CEC": [
+     "True"
+    ],
+    "HDMI ARC": [
+     "Yes"
+    ],
+    "HDMI inputs": [
+     3
+    ],
+    "HDMI 2.1 inputs": [],
+    "USB Ports": [
+     2
+    ],
+    "Ethernet / LAN ports": [
+     1
+    ],
+    "PC Input": [
+     "HDMI"
+    ],
+    "Component inputs": [],
+    "RCA Inputs": [],
+    "Digital audio output": [
+     "Optical (Toslink)"
+    ],
+    "Digital audio inputs": [],
+    "RF Input": [
+     "True"
+    ],
+    "Headphone port (3.5mm)": [
+     "False"
+    ],
+    "12V DC input": [
+     "False"
+    ],
+    "Suitable for outdoors": [],
+    "Water resistance rating (IP/ATM)": [],
+    "Wall mountable": [
+     "True"
+    ],
+    "Wall bracket included": [
+     "False"
+    ],
+    "VESA wall mount type": [
+     "400mm x 300mm"
+    ],
+    "Energy star rating": [
+     6
+    ],
+    "Energy consumption: kWh per year": [
+     624
+    ],
+    "Product Height with Stand (mm)": [
+     1149.3
+    ],
+    "Product Width with Stand (mm)": [
+     1888
+    ],
+    "Product Depth with Stand (mm)": [
+     334.8
+    ],
+    "Product Weight with Stand (kg)": [
+     25.1
+    ],
+    "Product Height without Stand (mm)": [
+     1080
+    ],
+    "Product Width without Stand (mm)": [
+     1888
+    ],
+    "Product Depth without Stand (mm)": [
+     77.2
+    ],
+    "Product Weight without Stand (kg)": [
+     25.1
+    ],
+    "Packaged Height (mm)": [
+     1230
+    ],
+    "Packaged Width (mm)": [
+     2070
+    ],
+    "Packaged Depth (mm)": [
+     160
+    ],
+    "Packaged Weight (kg)": [
+     40
+    ],
+    "Contains button battery": [],
+    "Product condition": [],
+    "Manufacturer's warranty": [
+     "1 Year"
+    ],
+    "Warranty notes": [],
+    "Individual part warranties": [],
+    "Brand": [
+     "BLAUPUNKT"
+    ],
+    "Sold by": [
+     "JB Hi-Fi"
+    ],
+    "Category": [
+     "TVs LED 65\"-70\""
+    ],
+    "Primary Category": [
+     "TVs"
+    ],
+    "Price": [
+     899
+    ],
+    "Condition": [
+     "New"
+    ],
+    "Availability": [
+     "Available Now"
+    ],
+    "Display Models In-Store": [
+     92,
+     265,
+     168,
+     166,
+     224
+    ]
+   },
+   "category": "TVs LED 65\"-70\"",
+   "category_id": 1961,
+   "category_hierarchy": [
+    "TVs",
+    "TVs LED",
+    "TVs LED 65\"-70\""
+   ],
+   "category_levels": {
+    "level0": "TVs",
+    "level1": "TVs LED",
+    "level2": "TVs LED 65\"-70\""
+   },
+   "collectionHandles": [
+    "tvs",
+    "4k-ultra-hd-tvs",
+    "qled-tvs",
+    "smart-tvs",
+    "tvs-85-98",
+    "tvs-65-70",
+    "new-tvs",
+    "cheap-tvs-65-and-above",
+    "clearance-corner",
+    "cheap-tvs",
+    "all-tvs",
+    "tvs-all-brands",
+    "crazy-clearance",
+    "led-tvs",
+    "tvs-led",
+    "tvs-under-999",
+    "prices-smashed-on-tvs"
+   ],
+   "collectionHierarchy": [
+    "tvs",
+    "tvs > 4k-ultra-hd-tvs",
+    "tvs > qled-tvs",
+    "tvs > smart-tvs",
+    "tvs > tvs-85-98",
+    "tvs > tvs-65-70",
+    "tvs > new-tvs",
+    "tvs > cheap-tvs-65-and-above",
+    "clearance-corner",
+    "tvs > cheap-tvs",
+    "tvs > all-tvs",
+    "tvs > tvs-all-brands",
+    "crazy-clearance",
+    "led-tvs",
+    "tvs > tvs-led",
+    "tvs-under-999",
+    "prices-smashed-on-tvs"
+   ],
+   "updated_at": "2026-10-28T11:09:10+00:00",
+   "created_at": "2026-08-04T04:17:03+00:00",
+   "published_at": "2026-08-04T04:34:09+00:00",
+   "shopify_timestamp": "2026-10-28T11:09:10+00:00",
+   "online_product_timestamp": "2026-10-28T11:04:08.8693028+00:00",
+   "family": {},
+   "sponsoredCollectionHierarchy": [
+    "tvs-under-999",
+    "led-tvs",
+    "crazy-clearance",
+    "clearance-corner",
+    "tvs",
+    "tvs > 4k-ultra-hd-tvs",
+    "tvs > qled-tvs",
+    "tvs > smart-tvs",
+    "tvs > tvs-85-98",
+    "tvs > tvs-65-70",
+    "tvs > new-tvs",
+    "tvs > cheap-tvs-65-and-above",
+    "tvs > cheap-tvs",
+    "tvs > all-tvs",
+    "tvs > tvs-all-brands",
+    "tvs > tvs-led"
+   ],
+   "in_stock_store_ids": [
+    1,
+    76,
+    110,
+    113,
+    120,
+    122,
+    130,
+    136,
+    138,
+    144,
+    152,
+    184,
+    188,
+    204,
+    219,
+    259,
+    263
+   ],
+   "month_combined_bucket": 20,
+   "month_combined_bucket_stores": 9,
+   "month_combined_bucket_TOTAL": 20.0,
+   "isPublic": true,
+   "promotionEndDate": "2026-10-07T12:59:59+00:00",
+   "objectID": "839357",
+   "_highlightResult": {
+    "sku": {
+     "value": "839357",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Blaupunkt 85\" 4K UHD QLED Tizen Smart TV [2026]",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "product": {
+     "model": {
+      "value": "BP850UTSQ",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     "supplierProductDetails": [
+      {
+       "supplierEAN13": {
+        "value": "9351521049957",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      }
+     ]
+    },
+    "facets": {
+     "Brand": [
+      {
+       "value": "BLAUPUNKT",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    },
+    "category": {
+     "value": "TVs LED 65\"-70\"",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  },
+  {
+   "sku": "835995",
+   "familyId": "579f0e4d-df34-459d-a4c8-86fd1bbff6ca",
+   "product_id": 7334836404425,
+   "variant_id": 40426209673417,
+   "title": "Apple Watch Ultra 3 49mm Black Titanium Case GPS + Cellular Ocean Band (Black)",
+   "primary_title": "Apple Watch Ultra 3 49mm Black Titanium Case GPS + Cellular Ocean Band (Black)",
+   "secondary_title": "",
+   "weight": 0.463,
+   "onPromotion": false,
+   "bnplExcluded": false,
+   "isMarketplace": false,
+   "button": "Buy",
+   "deliveryTag": "",
+   "handle": "apple-watch-ultra-3-49mm-black-titanium-case-gps-cellular-ocean-band-black",
+   "vendor": "APPLE",
+   "preamble": "",
+   "product_published": true,
+   "product_image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/835995-Product-0-I-638930671813511068.jpg?v=1757470448",
+   "product_type": "Wearables & Outdoor",
+   "release_date": 1758204000,
+   "inventory_management": "shopify",
+   "brand_image_url": "",
+   "weighted_average_rating": 3.20532,
+   "price": 1199,
+   "compare_at_price": "",
+   "taxable": true,
+   "showWasPrice": false,
+   "showPerksPrice": false,
+   "pricing": {
+    "displayPriceInc": 1199,
+    "displayPriceEx": 1090,
+    "displayPriceTax": 109,
+    "displayWasPrice": false,
+    "wasPrice": 1099,
+    "saveAmount": -100,
+    "priceAfterCashback": 1199,
+    "cashbackAmount": 0,
+    "displayPriceAfterCashback": false,
+    "coreTicketPrice": 1399,
+    "createdDate": "2025-08-28T03:09:08.3626271+00:00",
+    "timestamp": "0001-01-01T00:00:00+00:00"
+   },
+   "perksPricing": null,
+   "tags": "Brand:Apple,LimitedStock",
+   "banner_tags": {
+    "label": "Clearance"
+   },
+   "priceBannerTag": {},
+   "google_tag_manager": {
+    "brand": "APPLE",
+    "category": "Wearables & Outdoor/WEARABLES - WATCH APPLE/APPLE",
+    "dimension3": "Clearance",
+    "dimension4": "5",
+    "dimension5": "10",
+    "dimension6": "TRADE IN YOUR OLD WATCH",
+    "dimension7": "Limited stock",
+    "id": "835995",
+    "name": "Apple Watch Ultra 3 49mm Black Titanium Case GPS + Cellular Ocean Band (Black)",
+    "price": 1199,
+    "displayWasPrice": false,
+    "saveAmount": -100,
+    "variants": [
+     {
+      "name": "Colour",
+      "value": "Black"
+     },
+     {
+      "name": "Apple Watch band",
+      "value": "Ocean Band - Black"
+     },
+     {
+      "name": "Strap size",
+      "value": "One Size"
+     }
+    ]
+   },
+   "promo_tags": [
+    {
+     "label": "TRADE IN YOUR OLD WATCH"
+    }
+   ],
+   "all_calculated_product_tags": [
+    "TRADE IN YOUR OLD WATCH",
+    "Clearance"
+   ],
+   "categoryBrand": "Fitness & Wearables.APPLE",
+   "productGroup": {
+    "id": 739,
+    "description": "WEARABLES - WATCH APPLE"
+   },
+   "department": {
+    "id": 35,
+    "description": "Wearables & Outdoor"
+   },
+   "display": {
+    "artist": "WATCH ULTRA",
+    "tracklist": [],
+    "actors": "",
+    "directors": "",
+    "images": [
+     {
+      "ImageIndex": 0,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/835995-Product-0-I-638930671813511068.jpg"
+     },
+     {
+      "ImageIndex": 1,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/835995-Product-1-I-638930671813316181.jpg"
+     },
+     {
+      "ImageIndex": 2,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/835995-Product-2-I-638930671805496815.jpg"
+     },
+     {
+      "ImageIndex": 3,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/835995-Product-3-I-638930671806191983.jpg"
+     },
+     {
+      "ImageIndex": 4,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/835995-Product-4-I-638930671806397477.jpg"
+     },
+     {
+      "ImageIndex": 5,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/835995-Product-5-I-638930671806232283.jpg"
+     },
+     {
+      "ImageIndex": 6,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/835995-Product-6-I-638930671805067111.jpg"
+     },
+     {
+      "ImageIndex": 7,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/835995-Product-7-I-638930671805199196.jpg"
+     },
+     {
+      "ImageIndex": 8,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/835995-Product-8-I-638930671801884560.jpg"
+     },
+     {
+      "ImageIndex": 9,
+      "ImageCategory": "Product",
+      "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/835995-Product-9-I-638930671805327869.jpg"
+     }
+    ],
+    "keyFeatures": [
+     "Screen: 49mm retina display",
+     "Battery: Up to 42hrs normal use",
+     "Smart stuff: Get notified of high/low heart rate or possible sleep apnoea"
+    ],
+    "categoryHierarchy": [
+     "Fitness & Wearables",
+     "Wearables",
+     "Smart watches"
+    ],
+    "graphicAttributes": [
+     {
+      "Index": 954,
+      "Name": "Network compatibility",
+      "Text": "4G",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-176986.png",
+      "ImageHash": "1105F01AC256649A01FBB31AFEB76A62"
+     },
+     {
+      "Index": 5409,
+      "Name": "Internal memory",
+      "Text": "64GB",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-176960.png",
+      "ImageHash": "D3521E61CD6E4214E11B8332A4F9EA9C"
+     },
+     {
+      "Index": 5931,
+      "Name": "GPS",
+      "Text": "Cellular/LTE",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-176919.png",
+      "ImageHash": "E2733A5A9184477B1219139A384EE635"
+     },
+     {
+      "Index": 8657,
+      "Name": "Wi-Fi",
+      "Text": "Wi-Fi 4 (802.11 a/b/g/n)",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-78351.png",
+      "ImageHash": "8BD07D647798210A09B25E261D4E1A21"
+     },
+     {
+      "Index": 11104,
+      "Name": "Bluetooth",
+      "Text": "v5.3",
+      "ContentType": "String",
+      "URI": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/blob-177353.png",
+      "ImageHash": "A8A7CE34B384BB004F4D2CE988454C88"
+     }
+    ],
+    "messages": [
+     {
+      "Id": "da8583e6-8dda-4cd8-9495-ae0ba225e1e9",
+      "Type": "Messages",
+      "SubType": "Warning",
+      "Start": null,
+      "Finish": null,
+      "Priority": 1,
+      "Name": "fitness-apple-watch-comparison-paid-promo-ongoing",
+      "OnlineTag": "",
+      "Heading": "Feature",
+      "ShortDescription": "",
+      "Description": "<p><a href=\"https://www.jbhifi.com.au/pages/compare-apple-watch-models\" rel=\"noopener noreferrer\" target=\"_blank\">Compare Watch models here</a></p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": null,
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-07-01T00:41:49.1140711+00:00"
+     },
+     {
+      "Id": "2aafc0dd-0294-4bc5-97be-ef6d550153d6",
+      "Type": "SpecialOffers",
+      "SubType": "TradeIn",
+      "Start": null,
+      "Finish": null,
+      "Priority": 1,
+      "Name": "telco-trade-in-watch-apple-sponsored",
+      "OnlineTag": "TRADE IN YOUR OLD WATCH",
+      "Heading": "Trade in your old watch for a JB Hi-Fi Gift Card# ",
+      "ShortDescription": "",
+      "Description": "<p>- Get a quick quote online</p><p>- Get your e-Gift Card immediately</p><p>- Upgrade to your new device faster</p><p>&lt;cta href=\"https://www.jbhifi.com.au/pages/jbtradein\"&gt;Get a quote now&lt;/cta&gt;</p><p>&lt;disclaimer&gt;#The JB Hi-Fi Trade-in program is operated by Assurant Services Australia Pty Limited ABN 18 613 632 367, Second Hand Dealer 2PS20872. Participant must be AU resident aged 18+ with trade-in device purchased in AU. Assurant is not required to make an offer on your device. The JB Hi-Fi eGift Card given in exchange for a trade-in is subject to <a href=\"https://support.jbhifi.com.au/hc/en-au/articles/360052939334-Gift-Card-Terms-Conditions\" rel=\"noopener noreferrer\" target=\"_blank\">Terms and Conditions</a>. Pre-authorisation will be taken from participant’s payment card. If traded in device is not received within 7 days after your trade-in, Assurant may debit the trade-in value from your payment card. <a href=\"https://jbhifi-tradein.assurant.com.au/terms-and-conditions\" rel=\"noopener noreferrer\" target=\"_blank\">Assurant Terms and Conditions apply</a>.&lt;/disclaimer&gt;</p><p><br></p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": "https://jbhallprdmsgapidataprod.blob.core.windows.net/uploads/1066cc21-c2e0-41c8-b78b-2c1552b0dcbf.PNG",
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-08-14T02:35:58.2371184+00:00"
+     },
+     {
+      "Id": "67def5fa-ca25-40b0-b188-df0d46c59474",
+      "Type": "SpecialOffers",
+      "SubType": "Subscription",
+      "Start": "2026-09-07T14:00:00+00:00",
+      "Finish": "2027-09-05T13:59:59+00:00",
+      "Priority": 9,
+      "Name": "apple music-6 month-offer-product groups-2026/09/10",
+      "OnlineTag": "",
+      "Heading": "Buy an Eligible Apple or Beats product and get a bonus 6-month Apple Music subscription*. New subscribers only. Ends 5/9/2027.",
+      "ShortDescription": "",
+      "Description": "<p>&lt;disclaimer&gt;*<span style=\"color: black;\">Offer valid for Eligible Apple or Beats purchases made by 5/9/2027. Eligible Apple products include any new iPhone, iPad, Apple TV, Apple Watch or Mac (capable of running the latest iOS, iPadOS, tvOS, watchOS or macOS), AirPods (2nd and 3rd generations), AirPods 4 and AirPods 5 (all models), AirPods Pro (all generations), AirPods Max, HomePod mini, and HomePod (all generations). Eligible Beats products include any new Beats earbuds (excluding Beats Flex wireless earbuds), Beats speakers and/or Beats headphone. Bonus subscription must be claimed within 90 days of device setup in the Apple Music app whilst signed into your Apple Account. Subscription automatically charged after expiration of bonus subscription period, billed on a recurring monthly basis, unless you cancel before bonus subscription period ends. Subscription fees currently $14.99/month. Subscription fees may change. One offer per eligible Apple Account. Offer cannot be combined with other free trial offers for Apple Music or Apple One. Apple Music T&amp;Cs at </span><a href=\"https://www.apple.com/au/legal/internet-services/itunes/au/terms.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\">https://www.apple.com/au/legal/internet-services/itunes/au/terms.html</a><span style=\"color: black;\"> apply. Excludes refurbished product. For offer eligibility, other key terms and full T&amp;Cs visit </span><a href=\"https://www.jbhifi.com.au/pages/apple-music\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: black;\">jbhifi.com.au/pages/apple-music</a>.&lt;/disclaimer&gt;</p>",
+      "TileImageUrl": null,
+      "HeroBannerImageUrl": "https://jbhallprdmsgapidataprod.blob.core.windows.net/uploads/99235245-cf43-443b-992f-1ff4cd89444b.PNG",
+      "MessageImageUrl": null,
+      "CashbackAmount": null,
+      "LastUpdated": "2026-09-24T05:08:58.2805909+00:00"
+     }
+    ]
+   },
+   "product": {
+    "model": "MF0J4X/A",
+    "brand": "APPLE",
+    "productGroupId": 739,
+    "seasonCode": "Q",
+    "supplierProductDetails": [
+     {
+      "supplierNumber": 10104,
+      "supplierName": "APPLE PTY LTD",
+      "supplierEAN13": "195950610031",
+      "supplierStockCode": "MF0J4X/A",
+      "supplierStockDescription": "WATCH ULTRA"
+     },
+     {
+      "supplierNumber": 10439,
+      "supplierName": "LIKEWIZE AUSTRALIA PTY LTD",
+      "supplierEAN13": "195950610031",
+      "supplierStockCode": "835995              ",
+      "supplierStockDescription": "WATCH ULTRA"
+     }
+    ],
+    "packagedDimensions": {
+     "height": 0.038,
+     "width": 0.214,
+     "depth": 0.118,
+     "weight": 0.463
+    },
+    "releaseDate": "2025-09-18T14:00:00+00:00",
+    "limitPerOrder": 5,
+    "freightPrice": 8.99,
+    "limitedRunPromotionItems": [],
+    "seller": {
+     "id": 0,
+     "name": "JB Hi-Fi"
+    },
+    "format": "WEARABLES - WATCH APPLE ",
+    "showReviews": true,
+    "averageProductReviewRating": 5,
+    "numberOfProductReviews": 10,
+    "productGroupName": "WEARABLES - WATCH APPLE",
+    "departmentName": "Wearables & Outdoor",
+    "releaseQuarter": "2025-3",
+    "productFlags": [
+     {
+      "Id": 2893478,
+      "Name": "Recalculation",
+      "Start": "2026-07-12T08:02:08.557+00:00",
+      "Finish": null
+     },
+     {
+      "Id": 2788938,
+      "Name": "Click & Collect",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2788939,
+      "Name": "Delivery",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2788940,
+      "Name": "In-Store",
+      "Start": null,
+      "Finish": null
+     },
+     {
+      "Id": 2788960,
+      "Name": "Review",
+      "Start": null,
+      "Finish": null
+     }
+    ],
+    "description": "APPLE WATCH ULTRA3 49 BLACK TI BK OB-AUS",
+    "departmentCode": 35,
+    "releaseDateText": "",
+    "eligibleForServices": true,
+    "freeBonusSkus": [],
+    "id": "835995"
+   },
+   "availability": {
+    "displayProduct": true,
+    "canBuyOnline": true,
+    "canPreOrder": false,
+    "fulfilment": "Physical",
+    "deliveryFromOnlineWarehouseOnly": false,
+    "deliveryConstraint": "CountryWide",
+    "deliveryStatus": "LimitedStock",
+    "clickNCollectStatus": "LimitedStock",
+    "cashNCarryStatus": "LimitedStock",
+    "overallStatus": "LimitedStock",
+    "availabilityStatement": "Limited stock",
+    "deliveryOnly": false,
+    "availableNow": "Available Now",
+    "productLifecycle": "NonReplenishable",
+    "isHiddenByFamily": false
+   },
+   "tieredDetails": [],
+   "facets": {
+    "Wearable type": [
+     "Watches"
+    ],
+    "Fitness device type": [
+     "Apple Watch Ultra 3"
+    ],
+    "Fitness equipment type": [],
+    "Activity tracker for kids": [
+     "False"
+    ],
+    "Kids phone": [],
+    "Apple Watch/accessory type": [],
+    "Apple Watch band": [],
+    "Apple Watch series": [
+     "Ultra 3"
+    ],
+    "Apple Watch case size": [
+     "49mm"
+    ],
+    "Apple Watch case material": [
+     "Titanium"
+    ],
+    "AI features": [],
+    "Accessory type": [],
+    "Colour": [],
+    "Music streaming": [],
+    "Wearable audio": [
+     "False"
+    ],
+    "Face size (mm)": [
+     49
+    ],
+    "Display type": [
+     "Retina"
+    ],
+    "Strap size": [
+     "Small"
+    ],
+    "Smart Watch": [
+     "True"
+    ],
+    "Smart ring size": [],
+    "Bluetooth": [
+     "v5.3"
+    ],
+    "Glasses lens type": [],
+    "Wi-Fi": [
+     "Wi-Fi 4 (802.11 a/b/g/n)"
+    ],
+    "GPS": [
+     "Cellular/LTE"
+    ],
+    "Network compatibility": [
+     "4G"
+    ],
+    "Notifications": [],
+    "Pedometer": [
+     "False"
+    ],
+    "Speedometer": [
+     "False"
+    ],
+    "Distance": [
+     "False"
+    ],
+    "Accelerometer": [
+     "False"
+    ],
+    "Activity tracking": [],
+    "Womens health tracking": [],
+    "Gyroscope": [
+     "False"
+    ],
+    "Heart rate": [
+     "True"
+    ],
+    "Sleep Tracker": [
+     "True"
+    ],
+    "Calories burned": [
+     "False"
+    ],
+    "Blood oxygen analyser": [
+     "Blood oxygen sensor"
+    ],
+    "ECG capability": [
+     "Yes"
+    ],
+    "Alarm clock": [
+     "False"
+    ],
+    "NFC": [
+     "False"
+    ],
+    "Wireless Sync": [
+     "False"
+    ],
+    "Wireless Range": [],
+    "Phone Compatibility": [
+     "iPhone"
+    ],
+    "Rechargeable": [
+     "True"
+    ],
+    "Battery life": [
+     "Up to 72 hours low power mode"
+    ],
+    "Recharge time": [],
+    "USB Charging": [
+     "False"
+    ],
+    "Environmental protection": [
+     "Water resistant"
+    ],
+    "Water resistance rating (IP/ATM)": [],
+    "Solar charging": [],
+    "Built-in microphone": [
+     "True"
+    ],
+    "Body Mass Index tracking": [
+     "False"
+    ],
+    "Desktop charger": [
+     "False"
+    ],
+    "Wireless Charging Type": [],
+    "FM tuner": [
+     "False"
+    ],
+    "Headphone port (3.5mm)": [
+     "False"
+    ],
+    "Internal memory": [
+     "64GB"
+    ],
+    "Micro USB ports": [],
+    "Mini USB ports": [],
+    "Song Capacity*": [],
+    "Mac compatible": [
+     "False"
+    ],
+    "Other apps": [],
+    "Smart home ecosystem": [],
+    "Touchscreen": [
+     "False"
+    ],
+    "Video Calling": [
+     "False"
+    ],
+    "Contains button battery": [
+     "No"
+    ],
+    "TGA-regulated therapeutic good": [],
+    "TGA therapeutic good ARTG ID": [],
+    "TGA-regulated software only ARTG ID": [],
+    "Voice control": [
+     "False"
+    ],
+    "Voice recording": [
+     "False"
+    ],
+    "Manufacturer's warranty": [
+     "1 Year"
+    ],
+    "Product condition": [],
+    "Warranty notes": [],
+    "Brand": [
+     "APPLE"
+    ],
+    "Sold by": [
+     "JB Hi-Fi"
+    ],
+    "Category": [
+     "Smart watches"
+    ],
+    "Primary Category": [
+     "Fitness & Wearables"
+    ],
+    "Price": [
+     1199
+    ],
+    "Condition": [
+     "New"
+    ],
+    "Availability": [
+     "Available Now"
+    ],
+    "Display Models In-Store": [
+     170,
+     246
+    ]
+   },
+   "category": "Smart watches",
+   "category_id": 1779,
+   "category_hierarchy": [
+    "Fitness & Wearables",
+    "Wearables",
+    "Smart watches"
+   ],
+   "category_levels": {
+    "level0": "Fitness & Wearables",
+    "level1": "Wearables",
+    "level2": "Smart watches"
+   },
+   "collectionHandles": [
+    "apple-watch-ultra",
+    "hot-deals-on-apple",
+    "health-fitness-wearables",
+    "black-friday-deals-on-fitness",
+    "back-to-school-on-headphones-and-wearables",
+    "smart-watches",
+    "back-to-school-on-apple",
+    "garmin-venu",
+    "apple",
+    "hot-deals-on-fitness",
+    "clearance-corner",
+    "apple-ipad-7th-gen",
+    "fitness-clearance",
+    "garmin-vivoactive",
+    "wearables",
+    "apple-watch"
+   ],
+   "updated_at": "2026-10-27T07:19:34+00:00",
+   "created_at": "2025-09-10T02:00:11+00:00",
+   "published_at": "2026-07-11T03:35:19+00:00",
+   "shopify_timestamp": "2026-10-27T07:19:34+00:00",
+   "online_product_timestamp": "2026-10-27T07:19:06.2909514+00:00",
+   "family": {},
+   "month_combined_bucket": 19,
+   "month_combined_bucket_stores": 10,
+   "month_combined_bucket_TOTAL": 20.6,
+   "year_combined_bucket": 22,
+   "year_combined_bucket_stores": 11,
+   "year_combined_bucket_TOTAL": 22.0,
+   "availabilityRank": 2,
+   "freeDelivery": false,
+   "promotionEndDate": "2026-09-09T13:59:00+00:00",
+   "collectionHierarchy": [
+    "health-fitness-wearables > apple-watch-ultra",
+    "hot-deals-on-apple",
+    "health-fitness-wearables",
+    "black-friday-deals-on-fitness",
+    "back-to-school-on-headphones-and-wearables",
+    "health-fitness-wearables > smart-watches",
+    "back-to-school-on-apple",
+    "health-fitness-wearables > garmin-venu",
+    "apple",
+    "hot-deals-on-fitness",
+    "clearance-corner",
+    "apple-ipad-7th-gen",
+    "health-fitness-wearables > fitness-clearance",
+    "health-fitness-wearables > garmin-vivoactive",
+    "health-fitness-wearables > wearables",
+    "health-fitness-wearables > apple-watch"
+   ],
+   "sponsoredCollectionHierarchy": [
+    "clearance-corner",
+    "hot-deals-on-fitness",
+    "back-to-school-on-headphones-and-wearables",
+    "health-fitness-wearables",
+    "health-fitness-wearables > smart-watches",
+    "health-fitness-wearables > fitness-clearance",
+    "health-fitness-wearables > wearables"
+   ],
+   "in_stock_store_ids": [
+    1,
+    2,
+    3,
+    4,
+    15,
+    18,
+    23,
+    37,
+    43,
+    48,
+    52,
+    54,
+    59,
+    60,
+    62,
+    63,
+    65,
+    73,
+    83,
+    96,
+    99,
+    100,
+    119,
+    120,
+    126,
+    135,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    145,
+    146,
+    149,
+    155,
+    159,
+    167,
+    171,
+    172,
+    173,
+    174,
+    175,
+    183,
+    189,
+    195,
+    202,
+    208,
+    209,
+    210,
+    214,
+    215,
+    221,
+    227,
+    228,
+    229,
+    232,
+    233,
+    236,
+    241,
+    242,
+    243,
+    244,
+    249,
+    253,
+    254,
+    257,
+    262
+   ],
+   "isPublic": true,
+   "objectID": "835995",
+   "_highlightResult": {
+    "sku": {
+     "value": "835995",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "title": {
+     "value": "Apple Watch Ultra 3 49mm Black Titanium Case GPS + Cellular Ocean Band (Black)",
+     "matchLevel": "none",
+     "matchedWords": []
+    },
+    "product": {
+     "model": {
+      "value": "MF0J4X/A",
+      "matchLevel": "none",
+      "matchedWords": []
+     },
+     "supplierProductDetails": [
+      {
+       "supplierEAN13": {
+        "value": "195950610031",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      },
+      {
+       "supplierEAN13": {
+        "value": "195950610031",
+        "matchLevel": "none",
+        "matchedWords": []
+       }
+      }
+     ]
+    },
+    "facets": {
+     "Brand": [
+      {
+       "value": "APPLE",
+       "matchLevel": "none",
+       "matchedWords": []
+      }
+     ]
+    },
+    "category": {
+     "value": "Smart watches",
+     "matchLevel": "none",
+     "matchedWords": []
+    }
+   }
+  }
+ ],
+ "nbHits": 3110,
+ "page": 0,
+ "nbPages": 1555,
+ "hitsPerPage": 2,
+ "facets": {
+  "onPromotion": {
+   "false": 2853,
+   "true": 257
+  },
+  "facets.Brand": {
+   "IMPACT": 72,
+   "APPLE": 60,
+   "LICENSING ESSENTIALS": 47,
+   "SAMSUNG": 47,
+   "CASEMATE": 45
+  },
+  "isMarketplace": {
+   "false": 3110
+  },
+  "facets.Sold by": {
+   "JB Hi-Fi": 3110
+  },
+  "facets.Condition": {
+   "New": 3107,
+   "Renewed": 3
+  },
+  "banner_tags.label": {
+   "Clearance": 3110
+  },
+  "category_levels.level0": {
+   "Music": 841,
+   "Collectibles & Merchandise": 684,
+   "Mobile Phones": 375,
+   "Home Appliances": 349,
+   "Movies": 166
+  },
+  "category_levels.level1": {
+   "Vinyl": 841,
+   "Collectibles": 446,
+   "Phone accessories": 337,
+   "Merchandise": 172,
+   "Cameras": 89
+  },
+  "category_levels.level2": {
+   "POP! Vinyl": 239,
+   "Phone cases": 201,
+   "Figures": 150,
+   "Camera accessories": 67,
+   "Merchandise general": 57
+  },
+  "availability.overallStatus": {
+   "LimitedStock": 2801,
+   "NoLongerAvailable": 150,
+   "AwaitingStock": 124,
+   "InStock": 35
+  }
+ },
+ "exhaustiveFacetsCount": true,
+ "exhaustiveFacetValues": false,
+ "exhaustiveNbHits": true,
+ "exhaustiveTypo": true,
+ "exhaustive": {
+  "facetsCount": true,
+  "facetValues": false,
+  "nbHits": true,
+  "typo": true
+ },
+ "query": "",
+ "params": "query=&hitsPerPage=2&filters=banner_tags.label%3A%22Clearance%22+AND+price+%3E+0+AND+product_published+%3D+1+AND+availability.displayProduct+%3D+1&facets=%5B%22facets.Brand%22%2C+%22facets.Sold+by%22%2C+%22facets.Condition%22%2C+%22category_levels.level0%22%2C+%22category_levels.level1%22%2C+%22category_levels.level2%22%2C+%22isMarketplace%22%2C+%22onPromotion%22%2C+%22banner_tags.label%22%2C+%22availability.overallStatus%22%2C+%22price%22%5D&maxValuesPerFacet=5&analyticsTags=%5B%22ext-alg%23auto-filter%3Aenabled%22%5D",
+ "renderingContent": {},
+ "extensions": {
+  "queryCategorization": {}
+ },
+ "processingTimeMS": 10,
+ "processingTimingsMS": {
+  "_request": {
+   "roundTrip": 335
+  },
+  "afterFetch": {
+   "total": 1
+  },
+  "extensions": 1,
+  "fetch": {
+   "faceting": 2,
+   "scanning": 2,
+   "total": 5
+  },
+  "rulesProcessing": {
+   "drr": 1,
+   "total": 1
+  },
+  "total": 10
+ },
+ "serverTimeMS": 11
+}
