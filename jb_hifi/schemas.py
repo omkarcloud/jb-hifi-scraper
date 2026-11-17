@@ -23,21 +23,13 @@ from marshmallow import ValidationError, fields, validates_schema
 from schema_fields import (BaseSchema, ChoiceField, Flag, LimitField, PageField, PositiveInt, Price,
                            QueryField, RefField, StrippedString)
 from jb_hifi import refs
+from scraper_utils.schema import max_length as _max_length
 
 MAX_HITS = 12000        # Algolia paginationLimitedTo on the storefront's index (nbPages = 240 at 50/page)
 MAX_LIMIT = 50          # a hit is ~3 KB after attributesToRetrieve; 50 keeps a page under 200 KB
 MAX_PRODUCT_SITEMAP_SHARD = 500
 MAX_RADIUS_KM = 500
 MAX_LOCATION_LENGTH = 80
-
-
-def _max_length(n):
-    """validate.Length(max=n) that tolerates the None StrippedString returns
-    for an empty value (marshmallow runs validators on it; len(None) is a 500)."""
-    def check(value):
-        if value is not None and len(value) > n:
-            raise ValidationError(f"Longer than maximum length {n}.")
-    return check
 
 
 class ProductRefField(RefField):

@@ -290,9 +290,15 @@ def _stores():
     return _store_directory()["stores"]
 
 
+def _stock_store_ids():
+    """{stock id: public store id} on a cache row of its own: every listing,
+    details and stock call reads a few KB instead of the 1.2 MB directory."""
+    return cached_call("jb_hifi.stock_store_ids", {}, lambda: _store_directory()["stock_ids"], ttl.STORES_CACHE)
+
+
 def _stocked_store_ids(hit):
     """The ids of the public stores holding stock of a product record."""
-    stock_ids = _store_directory()["stock_ids"]
+    stock_ids = _stock_store_ids()
     return [stock_ids[str(s)] for s in hit.get("in_stock_store_ids") or [] if str(s) in stock_ids]
 
 

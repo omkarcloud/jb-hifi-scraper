@@ -60,6 +60,8 @@ import config
 import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
 from jb_hifi.refs import SITE
+from scraper_utils import retry, sessions
+from scraper_utils.pages import page_title as _page_title
 
 IMPERSONATE = "chrome"
 PAGE_TIMEOUT = 40      # the home page is 1.3 MB, a collection page ~0.9 MB
@@ -139,31 +141,13 @@ def _drop_session():
     sess = getattr(_local, "session", None)
     _local.session = None
     _local.algolia_host = (getattr(_local, "algolia_host", 0) + 1) % len(ALGOLIA_HOSTS)
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.close_quietly(sess)
 
 
 def _retrying(fn):
     """Run fn() under the shared retry policy (JbHifiUpstreamError only;
     NotFound / BadRequest surface immediately)."""
-    last = None
-    for attempt in range(1, config.MAX_RETRIES + 1):
-        try:
-            return fn()
-        except JbHifiUpstreamError as e:
-            last = e
-            _drop_session()
-            if attempt < config.MAX_RETRIES:
-                time.sleep(config.RETRY_BACKOFF * attempt)
-    raise last
-
-
-def _page_title(text):
-    match = _TITLE_RE.search(text or "")
-    return match.group(1).strip() if match else ""
+    return retry.run(fn, config, JbHifiUpstreamError, lambda e: _drop_session())
 
 
 def _classify(resp, label, not_found=(404,)):

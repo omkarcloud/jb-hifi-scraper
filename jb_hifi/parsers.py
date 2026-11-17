@@ -16,7 +16,7 @@ JSON adds the long description HTML, barcode, media; Bazaarvoice adds the
 review summary and the reviews themselves.
 """
 import html as html_lib
-import json
+import fastjson
 import re
 from datetime import datetime, timezone
 from urllib.parse import unquote
@@ -545,7 +545,7 @@ def parse_nav(html):
     match = _NAV_RE.search(html or "")
     if not match:
         raise ValueError("header navigation not found in page")
-    data = json.loads(unquote(match.group(1)))
+    data = fastjson.loads(unquote(match.group(1)))
     menus = []
     for menu in data.get("menuItems") or []:
         if not isinstance(menu, dict) or not (menu.get("label") or "").strip():
@@ -585,7 +585,7 @@ def _js_json(html, name):
     # `var hero = [891981,897175,];` — a JS literal with a trailing comma
     literal = re.sub(r",\s*([\]}])", r"\1", match.group(1))
     try:
-        return json.loads(literal)
+        return fastjson.loads(literal)
     except ValueError:
         return None
 
@@ -626,7 +626,7 @@ def parse_collection_page(html, path):
     if match:
         try:
             crumbs = [{"name": _clean(c.get("label")), "link": refs.absolute_link(c.get("url"))}
-                      for c in json.loads(match.group(1)) if isinstance(c, dict)]
+                      for c in fastjson.loads(match.group(1)) if isinstance(c, dict)]
         except ValueError:
             crumbs = []
     sort = _js_string(html, "sortMethod") or None
